@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --brand-50: 240 248 255;
+    --brand-100: 228 240 255;
+    --brand-500: 99 102 241;
+    --brand-600: 79 70 229;
+    --brand-700: 67 56 202;
+    --ink-900: 17 24 39;
+    --ink-600: 75 85 99;
+    --surface: 255 255 255;
+    --primary-500: 99 102 241;
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+}
+
+@layer base {
+  body {
+    @apply text-gray-900 antialiased;
+    background:
+      radial-gradient(ellipse 1400px 800px at 15% 10%, rgba(139, 92, 246, 0.15), transparent 50%),
+      radial-gradient(ellipse 1200px 700px at 85% 30%, rgba(59, 130, 246, 0.12), transparent 50%),
+      radial-gradient(ellipse 1000px 600px at 50% 80%, rgba(236, 72, 153, 0.08), transparent 50%),
+      linear-gradient(135deg, #f0f9ff 0%, #faf5ff 40%, #fef3f2 100%);
+    background-attachment: fixed;
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 rounded-xl text-white font-semibold shadow-lg transition-all duration-300 hover:shadow-xl hover:scale-[1.02] active:scale-95;
+    background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 50%, #a855f7 100%);
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 rounded-xl border-2 border-indigo-200 text-gray-800 bg-white/90 hover:bg-white hover:border-indigo-300 shadow-md hover:shadow-lg transition-all duration-300 font-semibold;
+  }
+
+  .card {
+    @apply bg-white/90 backdrop-blur-md rounded-2xl shadow-lg hover:shadow-2xl p-6 border border-white/80 transition-all duration-300;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-3 border-2 border-gray-200 rounded-xl bg-white/95 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 shadow-sm hover:border-gray-300 transition-all duration-200;
+  }
+
+  .glass-panel {
+    @apply bg-white/80 backdrop-blur-xl border-2 border-white/90 rounded-3xl shadow-2xl;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-gray-900 tracking-tight;
+  }
+}

@@ -1,0 +1,64 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: smartweb-postgres
+    environment:
+      POSTGRES_USER: smartweb
+      POSTGRES_PASSWORD: smartweb_dev_pass
+      POSTGRES_DB: smartweb_db
+    ports:
+      - "5433:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U smartweb"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: smartweb-backend
+    environment:
+      DATABASE_URL: postgresql://smartweb:smartweb_dev_pass@postgres:5432/smartweb_db
+      SECRET_KEY: dev-secret-key-change-in-production-min-32-chars-long
+      ALLOW_DB_RESET: "true"
+      ALLOW_DERIVE: "true"
+      AUTO_SEED: "true"
+      SEED_GROUPS: "100"
+      SEED_TAXPAYERS: "1500"
+      SEED_BOS: "300"
+      SEED_RNG: "20260109"
+      LOG_LEVEL: INFO
+    ports:
+      - "8100:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: smartweb-frontend
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8100
+    ports:
+      - "3100:3000"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    command: npm run dev
+
+volumes:
+  postgres_data:
