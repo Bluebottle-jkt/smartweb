@@ -1,22 +1,13 @@
 'use client';
 
-import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { useQuery } from '@tanstack/react-query';
 import SearchBar from '@/components/SearchBar';
-import { authApi, groupsApi } from '@/lib/api';
+import MainLayout from '@/components/MainLayout';
+import { groupsApi } from '@/lib/api';
 
 export default function HomePage() {
   const router = useRouter();
-
-  const { data: user, isLoading: userLoading } = useQuery({
-    queryKey: ['current-user'],
-    queryFn: async () => {
-      const response = await authApi.me();
-      return response.data;
-    },
-    retry: false,
-  });
 
   const { data: groups = [] } = useQuery({
     queryKey: ['groups-preview'],
@@ -24,76 +15,11 @@ export default function HomePage() {
       const response = await groupsApi.list(1, 6);
       return response.data;
     },
-    enabled: !!user,
   });
 
-  useEffect(() => {
-    if (!userLoading && !user) {
-      router.push('/login');
-    }
-  }, [user, userLoading, router]);
-
-  if (userLoading) {
-    return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="relative">
-          <div className="animate-spin h-16 w-16 border-4 border-indigo-200 border-t-indigo-600 rounded-full" />
-          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-            <div className="h-8 w-8 bg-gradient-to-br from-indigo-500 to-purple-500 rounded-full animate-pulse" />
-          </div>
-        </div>
-      </div>
-    );
-  }
-
-  if (!user) return null;
-
   return (
-    <div className="min-h-screen">
-      {/* Enhanced Header */}
-      <header className="border-b-2 border-white/80 bg-white/80 backdrop-blur-xl shadow-sm sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-4">
-              <div className="h-12 w-12 rounded-2xl bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 shadow-lg flex items-center justify-center">
-                <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-                </svg>
-              </div>
-              <div>
-                <h1 className="text-xl font-bold bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">smartweb</h1>
-                <p className="text-xs text-gray-600 font-medium">Task Force Wajib Pajak Grup 2026</p>
-              </div>
-            </div>
-            <nav className="hidden md:flex items-center gap-8 text-sm font-semibold">
-              <button onClick={() => router.push('/')} className="text-indigo-600 hover:text-indigo-700 transition-colors">Home</button>
-              <button onClick={() => router.push('/search')} className="text-gray-600 hover:text-gray-900 transition-colors">Search</button>
-              <button onClick={() => router.push('/network')} className="text-gray-600 hover:text-gray-900 transition-colors">Network</button>
-              {user.role === 'Admin' && (
-                <button onClick={() => router.push('/admin')} className="text-gray-600 hover:text-gray-900 transition-colors">Admin</button>
-              )}
-            </nav>
-            <div className="flex items-center gap-3">
-              <div className="hidden sm:flex items-center gap-2 rounded-xl bg-gradient-to-r from-indigo-50 to-purple-50 border-2 border-indigo-100 px-4 py-2 shadow-sm">
-                <div className="h-2 w-2 rounded-full bg-green-500 animate-pulse"></div>
-                <span className="text-sm font-semibold text-gray-800">{user.username}</span>
-                <span className="text-xs text-indigo-600 font-bold">{user.role}</span>
-              </div>
-              <button
-                onClick={async () => {
-                  await authApi.logout();
-                  router.push('/login');
-                }}
-                className="btn-secondary text-sm px-4 py-2"
-              >
-                Keluar
-              </button>
-            </div>
-          </div>
-        </div>
-      </header>
-
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 space-y-16">
+    <MainLayout showHeader={false}>
+      <div className="space-y-12">
         {/* Hero Section */}
         <section className="grid grid-cols-1 lg:grid-cols-[1.05fr_0.95fr] gap-12 items-center">
           <div className="space-y-6">
@@ -121,11 +47,11 @@ export default function HomePage() {
                 </svg>
                 Mulai Pencarian
               </button>
-              <button onClick={() => router.push('/network')} className="btn-secondary flex items-center gap-2">
+              <button onClick={() => router.push('/jaringan-wp')} className="btn-secondary flex items-center gap-2">
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
                 </svg>
-                Lihat Network
+                Jaringan WP
               </button>
             </div>
             <div className="mt-8">
@@ -226,7 +152,7 @@ export default function HomePage() {
             </button>
 
             <button
-              onClick={() => router.push('/network')}
+              onClick={() => router.push('/jaringan-wp')}
               className="card group hover:scale-105 cursor-pointer text-left"
             >
               <div className="flex items-center gap-3 mb-3">
@@ -236,7 +162,7 @@ export default function HomePage() {
                   </svg>
                 </div>
               </div>
-              <h4 className="font-bold text-xl text-pink-700 mb-2">Network Graph</h4>
+              <h4 className="font-bold text-xl text-pink-700 mb-2">Jaringan WP</h4>
               <p className="text-sm text-gray-600">Visualisasi jaringan WP dan BO</p>
             </button>
           </div>
@@ -278,7 +204,7 @@ export default function HomePage() {
             </div>
           </section>
         )}
-      </main>
-    </div>
+      </div>
+    </MainLayout>
   );
 }

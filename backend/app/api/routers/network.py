@@ -158,3 +158,101 @@ def get_network_graph_stats(
         truncated=data["truncated"],
         layer_counts=data["layer_counts"]
     )
+
+
+class ExpandRequest(BaseModel):
+    """Request model for node expansion."""
+    pass
+
+
+class ExpandResponse(BaseModel):
+    """Response model for node expansion."""
+    nodes: List[NetworkNode]
+    edges: List[NetworkEdge]
+    truncated: bool
+    layer_counts: Dict[int, int]
+
+
+@router.get("/expand", response_model=ExpandResponse)
+def expand_node(
+    node_type: RootEntityType = Query(...),
+    node_id: int = Query(..., ge=1),
+    year: int = Query(..., ge=1990, le=2100),
+    depth: int = Query(1, ge=1, le=2),
+    edge_types: Optional[str] = Query(None, description="Comma-separated edge types to include"),
+    max_neighbors: int = Query(50, ge=1, le=200),
+    db: Session = Depends(get_db),
+    current_user: UserAccount = Depends(get_current_user)
+):
+    """
+    Expand a single node to get its immediate neighbors.
+    Used for ICIJ-like double-click expansion.
+    """
+    _validate_root(db, node_type, node_id)
+
+    # Build graph starting from this node with depth 1
+    data = build_network_graph(
+        db=db,
+        root_type=EntityType(node_type.value),
+        root_id=node_id,
+        year=year,
+        depth=depth,
+        max_nodes=max_neighbors
+    )
+
+    return ExpandResponse(
+        nodes=data["nodes"],
+        edges=data["edges"],
+        truncated=data["truncated"],
+        layer_counts=data["layer_counts"]
+    )
+
+
+@router.get("/search-npwp")
+def search_by_npwp(
+    npwp: str = Query(..., min_length=1),
+    year: int = Query(..., ge=1990, le=2100),
+    depth: int = Query(2, ge=1, le=5),
+    edge_types: Optional[str] = Query(None),
+    db: Session = Depends(get_db),
+    current_user: UserAccount = Depends(get_current_user)
+):
+    """
+    Search for a taxpayer by NPWP and return its network graph.
+    """
+    # Clean NPWP (remove dots and dashes)
+    clean_npwp = npwp.replace(".", "").replace("-", "")
+
+    # Search for taxpayer by NPWP pattern
+    taxpayer = db.query(Taxpayer).filter(
+        Taxpayer.npwp_masked.ilike(f"%{clean_npwp}%")
+    ).first()
+
+    if not taxpayer:
+        raise HTTPException(
+            status_code=404,
+            detail=f"Taxpayer with NPWP '{npwp}' not found"
+        )
+
+    role_max = _get_role_max_nodes(current_user)
+
+    data = build_network_graph(
+        db=db,
+        root_type=EntityType.TAXPAYER,
+        root_id=taxpayer.id,
+        year=year,
+        depth=depth,
+        max_nodes=min(300, role_max)
+    )
+
+    return NetworkGraphResponse(
+        root_type="TAXPAYER",
+        root_id=taxpayer.id,
+        year=year,
+        depth=depth,
+        max_nodes=min(300, role_max),
+        truncated=data["truncated"],
+        layer_counts=data["layer_counts"],
+        nodes=data["nodes"],
+        edges=data["edges"]
+    )
