@@ -266,6 +266,9 @@ function JaringanWPContent() {
 
   // State
   const [npwp, setNpwp] = useState(initialNpwp);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [searchResults, setSearchResults] = useState<any[]>([]);
+  const [showSearchDropdown, setShowSearchDropdown] = useState(false);
   const [year, setYear] = useState(Number(initialYear));
   const [depth, setDepth] = useState(2);
   const [maxNodes, setMaxNodes] = useState(300);
@@ -402,10 +405,43 @@ function JaringanWPContent() {
     return { newNodesCount, newEdgesCount };
   }, [updateFlowFromStore]);
 
+  // Handle search input with suggestions
+  const handleSearchInput = async (value: string) => {
+    setSearchQuery(value);
+
+    if (value.length < 2) {
+      setSearchResults([]);
+      setShowSearchDropdown(false);
+      return;
+    }
+
+    try {
+      const response = await searchApi.suggest(value, 10);
+      const suggestions = response.data;
+
+      // Filter to only taxpayers
+      const taxpayers = suggestions.filter((item: any) => item.entity_type === 'TAXPAYER');
+      setSearchResults(taxpayers);
+      setShowSearchDropdown(taxpayers.length > 0);
+    } catch (err) {
+      console.error('Search suggestion error:', err);
+      setSearchResults([]);
+      setShowSearchDropdown(false);
+    }
+  };
+
+  // Select taxpayer from dropdown
+  const handleSelectTaxpayer = (taxpayer: any) => {
+    setNpwp(taxpayer.npwp_masked || taxpayer.id.toString());
+    setSearchQuery(taxpayer.name);
+    setShowSearchDropdown(false);
+    setSearchResults([]);
+  };
+
   // Initial search
   const handleSearch = async () => {
-    if (!npwp.trim()) {
-      setError('Masukkan NPWP untuk mencari');
+    if (!npwp.trim() && !searchQuery.trim()) {
+      setError('Masukkan NPWP atau nama perusahaan untuk mencari');
       return;
     }
 
@@ -415,9 +451,10 @@ function JaringanWPContent() {
     edgeStore.current.clear();
 
     try {
-      // First, search for taxpayer by NPWP
+      // First, search for taxpayer by NPWP or name
+      const query = searchQuery.trim() || npwp.replace(/[.-]/g, '');
       const searchResponse = await searchApi.search({
-        q: npwp.replace(/[.-]/g, ''),
+        q: query,
         entity_type: 'TAXPAYER',
         page: 1,
         page_size: 1,
@@ -425,7 +462,7 @@ function JaringanWPContent() {
 
       const results = searchResponse.data.items || searchResponse.data;
       if (!results || results.length === 0) {
-        setError(`Tidak ditemukan wajib pajak dengan NPWP: ${npwp}`);
+        setError(`Tidak ditemukan wajib pajak dengan: ${query}`);
         setIsLoading(false);
         return;
       }
@@ -577,15 +614,49 @@ function JaringanWPContent() {
         {/* Search Controls */}
         <div className="glass-panel p-6">
           <div className="grid grid-cols-1 md:grid-cols-6 gap-4">
-            <div className="md:col-span-2">
-              <label className="block text-xs font-bold text-gray-600 mb-2">NPWP</label>
+            <div className="md:col-span-2 relative">
+              <label className="block text-xs font-bold text-gray-600 mb-2">NPWP atau Nama Perusahaan</label>
               <input
                 type="text"
-                value={npwp}
-                onChange={(e) => setNpwp(e.target.value)}
-                placeholder="XX.XXX.XXX.X-XXX.XXX"
+                value={searchQuery || npwp}
+                onChange={(e) => {
+                  handleSearchInput(e.target.value);
+                  if (!e.target.value.includes('.')) {
+                    setNpwp('');
+                  }
+                }}
+                onFocus={() => {
+                  if (searchResults.length > 0) {
+                    setShowSearchDropdown(true);
+                  }
+                }}
+                onBlur={() => {
+                  setTimeout(() => setShowSearchDropdown(false), 200);
+                }}
+                placeholder="Cari NPWP atau nama perusahaan..."
                 className="input-field"
               />
+
+              {/* Search Dropdown */}
+              {showSearchDropdown && searchResults.length > 0 && (
+                <div className="absolute z-50 w-full mt-1 bg-white rounded-lg shadow-lg border border-gray-200 max-h-64 overflow-y-auto">
+                  {searchResults.map((result: any) => (
+                    <button
+                      key={result.id}
+                      onClick={() => handleSelectTaxpayer(result)}
+                      className="w-full px-4 py-3 text-left hover:bg-indigo-50 border-b border-gray-100 last:border-b-0 transition-colors"
+                    >
+                      <div className="font-medium text-gray-900 text-sm">{result.name}</div>
+                      {result.npwp_masked && (
+                        <div className="text-xs text-gray-500 font-mono mt-1">{result.npwp_masked}</div>
+                      )}
+                      {result.address && (
+                        <div className="text-xs text-gray-400 mt-1 truncate">{result.address}</div>
+                      )}
+                    </button>
+                  ))}
+                </div>
+              )}
             </div>
             <div>
               <label className="block text-xs font-bold text-gray-600 mb-2">Tahun Pajak</label>
@@ -625,7 +696,7 @@ function JaringanWPContent() {
             <div className="flex items-end">
               <button
                 onClick={handleSearch}
-                disabled={!npwp.trim() || isLoading}
+                disabled={(!npwp.trim() && !searchQuery.trim()) || isLoading}
                 className="w-full btn-primary disabled:opacity-50 flex items-center justify-center gap-2"
               >
                 {isLoading ? (

@@ -1,0 +1,1001 @@
+id,name,id_number_masked,nationality,notes,created_at
+1,Hendra Kusuma,3100********1000,Indonesia,,2026-01-15 14:24:22.749999+00
+2,Hendro Nurul Wijaya,3101********1001,Indonesia,,2026-01-15 14:24:22.749999+00
+3,Dian Nita Wibowo,3102********1002,Japan,,2026-01-15 14:24:22.749999+00
+4,Kurnia Kusumo,3103********1003,Indonesia,,2026-01-15 14:24:22.749999+00
+5,Dian Agus Suharto,3104********1004,Indonesia,,2026-01-15 14:24:22.749999+00
+6,Eko Dwi Pratama,3105********1005,Indonesia,,2026-01-15 14:24:22.749999+00
+7,Feri Pratama,3106********1006,Indonesia,,2026-01-15 14:24:22.749999+00
+8,Eko Raharjo,3107********1007,Indonesia,,2026-01-15 14:24:22.749999+00
+9,Bambang Ardiansyah,3108********1008,Indonesia,,2026-01-15 14:24:22.749999+00
+10,Rudi Eko Pratama,3109********1009,Indonesia,,2026-01-15 14:24:22.749999+00
+11,Wishnu Hendro Setiawan,3110********1010,Indonesia,,2026-01-15 14:24:22.749999+00
+12,Hadi Lestari Santoso,3111********1011,Indonesia,,2026-01-15 14:24:22.749999+00
+13,Indah Fitri Saputra,3112********1012,Malaysia,,2026-01-15 14:24:22.749999+00
+14,Wulan Aditya,3113********1013,Indonesia,,2026-01-15 14:24:22.749999+00
+15,Agus Budi Prasetyo,3114********1014,Indonesia,Beneficial Owner #15,2026-01-15 14:24:22.749999+00
+16,Feri Surya,3115********1015,Indonesia,Beneficial Owner #16,2026-01-15 14:24:22.749999+00
+17,Yanti Siti Putra,3116********1016,Indonesia,,2026-01-15 14:24:22.749999+00
+18,Indah Setiawan,3117********1017,Indonesia,,2026-01-15 14:24:22.749999+00
+19,Rizki Ramadhan,3118********1018,Indonesia,,2026-01-15 14:24:22.749999+00
+20,Hendro Hermawan,3119********1019,Indonesia,,2026-01-15 14:24:22.749999+00
+21,Bambang Indah Surya,3120********1020,Indonesia,,2026-01-15 14:24:22.749999+00
+22,Kurnia Wijaya,3121********1021,Malaysia,,2026-01-15 14:24:22.749999+00
+23,Rudi Sigit Aditya,3122********1022,Indonesia,Beneficial Owner #23,2026-01-15 14:24:22.749999+00
+24,Agus Rizki Setiawan,3123********1023,Indonesia,Beneficial Owner #24,2026-01-15 14:24:22.749999+00
+25,Sri Nita Hermawan,3124********1024,Indonesia,,2026-01-15 14:24:22.749999+00
+26,Yulia Rina Aditya,3125********1025,Netherlands,Beneficial Owner #26,2026-01-15 14:24:22.749999+00
+27,Budi Wijaya,3126********1026,Indonesia,Beneficial Owner #27,2026-01-15 14:24:22.749999+00
+28,Taufik Hadi Setiawan,3127********1027,Indonesia,,2026-01-15 14:24:22.749999+00
+29,Ratna Permana,3128********1028,Indonesia,Beneficial Owner #29,2026-01-15 14:24:22.749999+00
+30,Hendra Sari Hermawan,3129********1029,Singapore,Beneficial Owner #30,2026-01-15 14:24:22.749999+00
+31,Irwan Hidayat,3130********1030,Indonesia,,2026-01-15 14:24:22.749999+00
+32,Dewi Hermawan,3131********1031,Indonesia,,2026-01-15 14:24:22.749999+00
+33,Hendro Nita Kusumo,3132********1032,Indonesia,,2026-01-15 14:24:22.749999+00
+34,Wulan Hermawan,3133********1033,Indonesia,,2026-01-15 14:24:22.749999+00
+35,Dewi Suryanto,3134********1034,Indonesia,,2026-01-15 14:24:22.749999+00
+36,Dewi Ramadhan,3135********1035,Netherlands,,2026-01-15 14:24:22.749999+00
+37,Kurnia Kusumo,3136********1036,Indonesia,,2026-01-15 14:24:22.749999+00
+38,Dwi Fitri Kusuma,3137********1037,Indonesia,Beneficial Owner #38,2026-01-15 14:24:22.749999+00
+39,Hadi Dian Putra,3138********1038,Indonesia,,2026-01-15 14:24:22.749999+00
+40,Eko Dewi Surya,3139********1039,Indonesia,Beneficial Owner #40,2026-01-15 14:24:22.749999+00
+41,Taufik Kusuma,3140********1040,Indonesia,,2026-01-15 14:24:22.749999+00
+42,Taufik Cahya,3141********1041,Indonesia,,2026-01-15 14:24:22.749999+00
+43,Budi Prasetyo,3142********1042,Indonesia,Beneficial Owner #43,2026-01-15 14:24:22.749999+00
+44,Rudi Bambang Saputra,3143********1043,Indonesia,,2026-01-15 14:24:22.749999+00
+45,Irwan Budi Surya,3144********1044,Indonesia,,2026-01-15 14:24:22.749999+00
+46,Irwan Dewi Kusumo,3145********1045,Indonesia,,2026-01-15 14:24:22.749999+00
+47,Agus Prabowo,3146********1046,Indonesia,,2026-01-15 14:24:22.749999+00
+48,Maya Gunawan,3147********1047,Indonesia,,2026-01-15 14:24:22.749999+00
+49,Nurul Pratama,3148********1048,Indonesia,,2026-01-15 14:24:22.749999+00
+50,Agus Budi Hermawan,3149********1049,Indonesia,,2026-01-15 14:24:22.749999+00
+51,Joko Dian Firmansyah,3150********1050,Indonesia,Beneficial Owner #51,2026-01-15 14:24:22.749999+00
+52,Dian Suharto,3151********1051,Indonesia,,2026-01-15 14:24:22.749999+00
+53,Fitri Cahya,3152********1052,Indonesia,,2026-01-15 14:24:22.749999+00
+54,Hendro Ardiansyah,3153********1053,Singapore,,2026-01-15 14:24:22.749999+00
+55,Kurnia Sri Raharjo,3154********1054,Indonesia,,2026-01-15 14:24:22.749999+00
+56,Joko Dwi Aditya,3155********1055,Singapore,,2026-01-15 14:24:22.749999+00
+57,Feri Suharto,3156********1056,Indonesia,,2026-01-15 14:24:22.749999+00
+58,Adi Rizki Hidayat,3157********1057,Indonesia,,2026-01-15 14:24:22.749999+00
+59,Kurnia Adi Prasetyo,3158********1058,Indonesia,,2026-01-15 14:24:22.749999+00
+60,Fitri Fitri Hidayat,3159********1059,Indonesia,,2026-01-15 14:24:22.749999+00
+61,Rizki Ahmad Hartono,3160********1060,Indonesia,Beneficial Owner #61,2026-01-15 14:24:22.749999+00
+62,Fitri Wibowo,3161********1061,Indonesia,Beneficial Owner #62,2026-01-15 14:24:22.749999+00
+63,Dewi Sri Raharjo,3162********1062,Indonesia,,2026-01-15 14:24:22.749999+00
+64,Hendro Taufik Wijaya,3163********1063,Indonesia,Beneficial Owner #64,2026-01-15 14:24:22.749999+00
+65,Rizki Prasetyo,3164********1064,Indonesia,,2026-01-15 14:24:22.749999+00
+66,Wahyu Cahya,3165********1065,Indonesia,,2026-01-15 14:24:22.749999+00
+67,Indah Ratna Utomo,3166********1066,Indonesia,,2026-01-15 14:24:22.749999+00
+68,Dwi Tri Nugroho,3167********1067,Indonesia,,2026-01-15 14:24:22.749999+00
+69,Rina Pratama,3168********1068,Indonesia,,2026-01-15 14:24:22.749999+00
+70,Joko Firmansyah,3169********1069,Indonesia,,2026-01-15 14:24:22.749999+00
+71,Eko Tri Cahya,3170********1070,Indonesia,,2026-01-15 14:24:22.749999+00
+72,Hendro Saputra,3171********1071,Indonesia,,2026-01-15 14:24:22.749999+00
+73,Rudi Andi Gunawan,3172********1072,Indonesia,Beneficial Owner #73,2026-01-15 14:24:22.749999+00
+74,Putri Ardiansyah,3173********1073,Indonesia,,2026-01-15 14:24:22.749999+00
+75,Nita Yanti Utomo,3174********1074,Indonesia,,2026-01-15 14:24:22.749999+00
+76,Maya Hendro Santoso,3175********1075,Indonesia,,2026-01-15 14:24:22.749999+00
+77,Tri Rizki Kusuma,3176********1076,Indonesia,,2026-01-15 14:24:22.749999+00
+78,Eko Setiawan,3177********1077,Indonesia,,2026-01-15 14:24:22.749999+00
+79,Rina Rudi Saputra,3178********1078,Japan,,2026-01-15 14:24:22.749999+00
+80,Wishnu Hidayat,3179********1079,Indonesia,Beneficial Owner #80,2026-01-15 14:24:22.749999+00
+81,Dwi Bambang Setiawan,3180********1080,Indonesia,,2026-01-15 14:24:22.749999+00
+82,Yulia Suharto,3181********1081,Indonesia,,2026-01-15 14:24:22.749999+00
+83,Kurnia Santoso,3182********1082,Indonesia,,2026-01-15 14:24:22.749999+00
+84,Nurul Hartono,3183********1083,Indonesia,,2026-01-15 14:24:22.749999+00
+85,Bambang Sari Hidayat,3184********1084,Japan,,2026-01-15 14:24:22.749999+00
+86,Sigit Feri Suryanto,3185********1085,Indonesia,,2026-01-15 14:24:22.749999+00
+87,Wishnu Nita Wijaya,3186********1086,Indonesia,,2026-01-15 14:24:22.749999+00
+88,Hadi Kusuma,3187********1087,Indonesia,,2026-01-15 14:24:22.749999+00
+89,Dian Putri Saputra,3188********1088,Indonesia,,2026-01-15 14:24:22.749999+00
+90,Wahyu Suryanto,3189********1089,Indonesia,,2026-01-15 14:24:22.749999+00
+91,Wati Andi Putra,3190********1090,Indonesia,Beneficial Owner #91,2026-01-15 14:24:22.749999+00
+92,Adi Indah Kusumo,3191********1091,Indonesia,,2026-01-15 14:24:22.749999+00
+93,Ratna Fitri Suharto,3192********1092,Indonesia,,2026-01-15 14:24:22.749999+00
+94,Dian Ratna Santoso,3193********1093,Indonesia,,2026-01-15 14:24:22.749999+00
+95,Hendro Santoso,3194********1094,Indonesia,Beneficial Owner #95,2026-01-15 14:24:22.749999+00
+96,Wati Wahyu Suharto,3195********1095,Indonesia,,2026-01-15 14:24:22.749999+00
+97,Nita Budi Mahendra,3196********1096,Indonesia,,2026-01-15 14:24:22.749999+00
+98,Wati Wishnu Wibowo,3197********1097,Indonesia,,2026-01-15 14:24:22.749999+00
+99,Andi Feri Prabowo,3198********1098,Singapore,,2026-01-15 14:24:22.749999+00
+100,Indah Hermawan,3199********1099,Indonesia,,2026-01-15 14:24:22.749999+00
+101,Wati Yulia Hartono,3200********1100,Indonesia,,2026-01-15 14:24:22.749999+00
+102,Siti Suryanto,3201********1101,Indonesia,Beneficial Owner #102,2026-01-15 14:24:22.749999+00
+103,Rudi Lestari Pratama,3202********1102,Japan,Beneficial Owner #103,2026-01-15 14:24:22.749999+00
+104,Wati Joko Prabowo,3203********1103,Indonesia,,2026-01-15 14:24:22.749999+00
+105,Maya Fitri Hermawan,3204********1104,Indonesia,,2026-01-15 14:24:22.749999+00
+106,Wishnu Permana,3205********1105,Indonesia,,2026-01-15 14:24:22.749999+00
+107,Kurnia Aditya,3206********1106,Indonesia,,2026-01-15 14:24:22.749999+00
+108,Feri Suharto,3207********1107,Netherlands,,2026-01-15 14:24:22.749999+00
+109,Wulan Hidayat,3208********1108,Indonesia,,2026-01-15 14:24:22.749999+00
+110,Nita Kurnia Ramadhan,3209********1109,China,,2026-01-15 14:24:22.749999+00
+111,Sari Hendra Hartono,3210********1110,Indonesia,,2026-01-15 14:24:22.749999+00
+112,Kurnia Cahya,3211********1111,Indonesia,,2026-01-15 14:24:22.749999+00
+113,Dewi Indah Santoso,3212********1112,Indonesia,,2026-01-15 14:24:22.749999+00
+114,Hendra Sri Saputra,3213********1113,Indonesia,,2026-01-15 14:24:22.749999+00
+115,Fitri Budi Saputra,3214********1114,Indonesia,,2026-01-15 14:24:22.749999+00
+116,Sri Lestari Ramadhan,3215********1115,Netherlands,,2026-01-15 14:24:22.749999+00
+117,Lestari Permana,3216********1116,China,,2026-01-15 14:24:22.749999+00
+118,Tri Rudi Utomo,3217********1117,Netherlands,,2026-01-15 14:24:22.749999+00
+119,Rudi Yanti Santoso,3218********1118,Indonesia,,2026-01-15 14:24:22.749999+00
+120,Joko Andi Surya,3219********1119,Indonesia,,2026-01-15 14:24:22.749999+00
+121,Hendro Gunawan,3220********1120,Indonesia,,2026-01-15 14:24:22.749999+00
+122,Nita Rudi Mahendra,3221********1121,Netherlands,,2026-01-15 14:24:22.749999+00
+123,Dwi Pratama,3222********1122,Indonesia,,2026-01-15 14:24:22.749999+00
+124,Irwan Fitri Pratama,3223********1123,Indonesia,,2026-01-15 14:24:22.749999+00
+125,Hendro Firmansyah,3224********1124,Indonesia,,2026-01-15 14:24:22.749999+00
+126,Kurnia Setiawan,3225********1125,Indonesia,Beneficial Owner #126,2026-01-15 14:24:22.749999+00
+127,Wati Sari Hartono,3226********1126,Singapore,,2026-01-15 14:24:22.749999+00
+128,Maya Irwan Saputra,3227********1127,Indonesia,,2026-01-15 14:24:22.749999+00
+129,Rina Sari Suryanto,3228********1128,Japan,Beneficial Owner #129,2026-01-15 14:24:22.749999+00
+130,Bambang Joko Putra,3229********1129,Indonesia,,2026-01-15 14:24:22.749999+00
+131,Joko Rudi Pratama,3230********1130,Indonesia,,2026-01-15 14:24:22.749999+00
+132,Budi Nugroho,3231********1131,China,Beneficial Owner #132,2026-01-15 14:24:22.749999+00
+133,Ratna Joko Prabowo,3232********1132,Indonesia,,2026-01-15 14:24:22.749999+00
+134,Lestari Maya Kusuma,3233********1133,Indonesia,,2026-01-15 14:24:22.749999+00
+135,Nurul Hendra Wibowo,3234********1134,Indonesia,,2026-01-15 14:24:22.749999+00
+136,Kurnia Wijaya,3235********1135,Indonesia,,2026-01-15 14:24:22.749999+00
+137,Tri Yulia Surya,3236********1136,Japan,Beneficial Owner #137,2026-01-15 14:24:22.749999+00
+138,Tri Dwi Surya,3237********1137,Indonesia,,2026-01-15 14:24:22.749999+00
+139,Andi Aditya,3238********1138,Indonesia,,2026-01-15 14:24:22.749999+00
+140,Agus Rudi Pratama,3239********1139,Indonesia,,2026-01-15 14:24:22.749999+00
+141,Andi Prabowo,3240********1140,Indonesia,,2026-01-15 14:24:22.749999+00
+142,Bambang Ahmad Hartono,3241********1141,Indonesia,Beneficial Owner #142,2026-01-15 14:24:22.749999+00
+143,Hendro Saputra,3242********1142,Indonesia,Beneficial Owner #143,2026-01-15 14:24:22.749999+00
+144,Dewi Susanto,3243********1143,Indonesia,Beneficial Owner #144,2026-01-15 14:24:22.749999+00
+145,Yanti Sri Hidayat,3244********1144,Indonesia,Beneficial Owner #145,2026-01-15 14:24:22.749999+00
+146,Fitri Mahendra,3245********1145,Indonesia,,2026-01-15 14:24:22.749999+00
+147,Wulan Cahya,3246********1146,Indonesia,Beneficial Owner #147,2026-01-15 14:24:22.749999+00
+148,Hadi Surya,3247********1147,Netherlands,,2026-01-15 14:24:22.749999+00
+149,Fitri Adi Santoso,3248********1148,Netherlands,,2026-01-15 14:24:22.749999+00
+150,Wishnu Wahyu Ardiansyah,3249********1149,Indonesia,,2026-01-15 14:24:22.749999+00
+151,Nurul Hermawan,3250********1150,Netherlands,,2026-01-15 14:24:22.749999+00
+152,Rina Prasetyo,3251********1151,Indonesia,,2026-01-15 14:24:22.749999+00
+153,Yanti Dwi Surya,3252********1152,Indonesia,,2026-01-15 14:24:22.749999+00
+154,Lestari Susanto,3253********1153,Singapore,,2026-01-15 14:24:22.749999+00
+155,Rina Purwanto,3254********1154,Japan,,2026-01-15 14:24:22.749999+00
+156,Rina Rizki Purwanto,3255********1155,Malaysia,Beneficial Owner #156,2026-01-15 14:24:22.749999+00
+157,Adi Santoso,3256********1156,Netherlands,Beneficial Owner #157,2026-01-15 14:24:22.749999+00
+158,Wahyu Santoso,3257********1157,Indonesia,Beneficial Owner #158,2026-01-15 14:24:22.749999+00
+159,Taufik Hendra Hermawan,3258********1158,Indonesia,,2026-01-15 14:24:22.749999+00
+160,Rudi Agus Santoso,3259********1159,Indonesia,Beneficial Owner #160,2026-01-15 14:24:22.749999+00
+161,Adi Rizki Raharjo,3260********1160,Malaysia,Beneficial Owner #161,2026-01-15 14:24:22.749999+00
+162,Bambang Putra,3261********1161,Indonesia,Beneficial Owner #162,2026-01-15 14:24:22.749999+00
+163,Rizki Siti Suharto,3262********1162,Indonesia,,2026-01-15 14:24:22.749999+00
+164,Rina Firmansyah,3263********1163,Indonesia,,2026-01-15 14:24:22.749999+00
+165,Irwan Gunawan,3264********1164,Japan,,2026-01-15 14:24:22.749999+00
+166,Yulia Putri Hermawan,3265********1165,Singapore,Beneficial Owner #166,2026-01-15 14:24:22.749999+00
+167,Irwan Nurul Prabowo,3266********1166,Japan,,2026-01-15 14:24:22.749999+00
+168,Hendro Wijaya,3267********1167,Indonesia,,2026-01-15 14:24:22.749999+00
+169,Irwan Hartono,3268********1168,Indonesia,,2026-01-15 14:24:22.749999+00
+170,Hadi Dwi Prasetyo,3269********1169,Indonesia,,2026-01-15 14:24:22.749999+00
+171,Tri Mahendra,3270********1170,Indonesia,,2026-01-15 14:24:22.749999+00
+172,Adi Wati Suharto,3271********1171,Indonesia,,2026-01-15 14:24:22.749999+00
+173,Rina Susanto,3272********1172,Indonesia,,2026-01-15 14:24:22.749999+00
+174,Dian Susanto,3273********1173,Indonesia,,2026-01-15 14:24:22.749999+00
+175,Yanti Kusuma,3274********1174,Indonesia,Beneficial Owner #175,2026-01-15 14:24:22.749999+00
+176,Wulan Hendro Purwanto,3275********1175,Indonesia,,2026-01-15 14:24:22.749999+00
+177,Wahyu Hermawan,3276********1176,Indonesia,Beneficial Owner #177,2026-01-15 14:24:22.749999+00
+178,Putri Sigit Nugroho,3277********1177,Indonesia,,2026-01-15 14:24:22.749999+00
+179,Irwan Firmansyah,3278********1178,Indonesia,,2026-01-15 14:24:22.749999+00
+180,Rizki Sri Setiawan,3279********1179,Indonesia,,2026-01-15 14:24:22.749999+00
+181,Rudi Dian Mahendra,3280********1180,Indonesia,,2026-01-15 14:24:22.749999+00
+182,Agus Hermawan,3281********1181,Indonesia,Beneficial Owner #182,2026-01-15 14:24:22.749999+00
+183,Putri Wati Cahya,3282********1182,Indonesia,Beneficial Owner #183,2026-01-15 14:24:22.749999+00
+184,Lestari Indah Ardiansyah,3283********1183,Indonesia,,2026-01-15 14:24:22.749999+00
+185,Ahmad Dwi Setiawan,3284********1184,Indonesia,,2026-01-15 14:24:22.749999+00
+186,Dwi Hidayat,3285********1185,Netherlands,,2026-01-15 14:24:22.749999+00
+187,Sigit Aditya,3286********1186,Indonesia,,2026-01-15 14:24:22.749999+00
+188,Yanti Dewi Surya,3287********1187,Indonesia,,2026-01-15 14:24:22.749999+00
+189,Nita Adi Raharjo,3288********1188,Indonesia,,2026-01-15 14:24:22.749999+00
+190,Andi Surya,3289********1189,Indonesia,,2026-01-15 14:24:22.749999+00
+191,Rizki Dian Hartono,3290********1190,Indonesia,,2026-01-15 14:24:22.749999+00
+192,Nurul Kusumo,3291********1191,Indonesia,,2026-01-15 14:24:22.749999+00
+193,Fitri Eko Pratama,3292********1192,Japan,,2026-01-15 14:24:22.749999+00
+194,Dian Bambang Santoso,3293********1193,Indonesia,,2026-01-15 14:24:22.749999+00
+195,Hadi Prabowo,3294********1194,China,,2026-01-15 14:24:22.749999+00
+196,Dian Yulia Susanto,3295********1195,Indonesia,,2026-01-15 14:24:22.749999+00
+197,Tri Andi Wibowo,3296********1196,Indonesia,,2026-01-15 14:24:22.749999+00
+198,Bambang Ahmad Purwanto,3297********1197,Indonesia,,2026-01-15 14:24:22.749999+00
+199,Sigit Raharjo,3298********1198,China,,2026-01-15 14:24:22.749999+00
+200,Ahmad Nugroho,3299********1199,Indonesia,,2026-01-15 14:24:22.749999+00
+201,Bambang Irwan Prabowo,3300********1200,Indonesia,,2026-01-15 14:24:22.749999+00
+202,Irwan Wulan Ardiansyah,3301********1201,Indonesia,,2026-01-15 14:24:22.749999+00
+203,Ratna Rudi Hidayat,3302********1202,Singapore,,2026-01-15 14:24:22.749999+00
+204,Sari Wijaya,3303********1203,China,,2026-01-15 14:24:22.749999+00
+205,Dewi Sari Utomo,3304********1204,Indonesia,Beneficial Owner #205,2026-01-15 14:24:22.749999+00
+206,Sri Kurnia Susanto,3305********1205,Indonesia,,2026-01-15 14:24:22.749999+00
+207,Ratna Mahendra,3306********1206,Indonesia,Beneficial Owner #207,2026-01-15 14:24:22.749999+00
+208,Ratna Dwi Kusumo,3307********1207,Indonesia,,2026-01-15 14:24:22.749999+00
+209,Budi Nurul Hartono,3308********1208,Indonesia,Beneficial Owner #209,2026-01-15 14:24:22.749999+00
+210,Maya Taufik Cahya,3309********1209,Indonesia,,2026-01-15 14:24:22.749999+00
+211,Rizki Ahmad Wibowo,3310********1210,Indonesia,Beneficial Owner #211,2026-01-15 14:24:22.749999+00
+212,Agus Lestari Susanto,3311********1211,Indonesia,Beneficial Owner #212,2026-01-15 14:24:22.749999+00
+213,Maya Ramadhan,3312********1212,Singapore,,2026-01-15 14:24:22.749999+00
+214,Wulan Wati Wibowo,3313********1213,Singapore,Beneficial Owner #214,2026-01-15 14:24:22.749999+00
+215,Andi Siti Santoso,3314********1214,Indonesia,,2026-01-15 14:24:22.749999+00
+216,Sigit Wulan Gunawan,3315********1215,Indonesia,,2026-01-15 14:24:22.749999+00
+217,Taufik Irwan Hartono,3316********1216,Indonesia,,2026-01-15 14:24:22.749999+00
+218,Yulia Suryanto,3317********1217,Indonesia,,2026-01-15 14:24:22.749999+00
+219,Agus Feri Hartono,3318********1218,Malaysia,,2026-01-15 14:24:22.749999+00
+220,Andi Wulan Putra,3319********1219,Indonesia,,2026-01-15 14:24:22.749999+00
+221,Andi Santoso,3320********1220,Indonesia,,2026-01-15 14:24:22.749999+00
+222,Wishnu Gunawan,3321********1221,Indonesia,,2026-01-15 14:24:22.749999+00
+223,Sri Rizki Ardiansyah,3322********1222,Indonesia,,2026-01-15 14:24:22.749999+00
+224,Wishnu Hidayat,3323********1223,Indonesia,Beneficial Owner #224,2026-01-15 14:24:22.749999+00
+225,Fitri Suharto,3324********1224,Indonesia,Beneficial Owner #225,2026-01-15 14:24:22.749999+00
+226,Rina Maya Susanto,3325********1225,Indonesia,,2026-01-15 14:24:22.749999+00
+227,Ahmad Wibowo,3326********1226,Indonesia,,2026-01-15 14:24:22.749999+00
+228,Wulan Wibowo,3327********1227,China,,2026-01-15 14:24:22.749999+00
+229,Feri Susanto,3328********1228,Indonesia,Beneficial Owner #229,2026-01-15 14:24:22.749999+00
+230,Yulia Sri Purwanto,3329********1229,Indonesia,,2026-01-15 14:24:22.749999+00
+231,Adi Raharjo,3330********1230,Indonesia,,2026-01-15 14:24:22.749999+00
+232,Budi Irwan Ramadhan,3331********1231,Indonesia,,2026-01-15 14:24:22.749999+00
+233,Rizki Nita Ardiansyah,3332********1232,Indonesia,,2026-01-15 14:24:22.749999+00
+234,Fitri Firmansyah,3333********1233,Indonesia,,2026-01-15 14:24:22.749999+00
+235,Agus Taufik Santoso,3334********1234,Indonesia,,2026-01-15 14:24:22.749999+00
+236,Sigit Ratna Wibowo,3335********1235,Indonesia,,2026-01-15 14:24:22.749999+00
+237,Wahyu Suryanto,3336********1236,Indonesia,Beneficial Owner #237,2026-01-15 14:24:22.749999+00
+238,Wati Saputra,3337********1237,Indonesia,,2026-01-15 14:24:22.749999+00
+239,Maya Putri Hartono,3338********1238,Indonesia,,2026-01-15 14:24:22.749999+00
+240,Adi Putri Hartono,3339********1239,Indonesia,Beneficial Owner #240,2026-01-15 14:24:22.749999+00
+241,Bambang Kusuma,3340********1240,Indonesia,Beneficial Owner #241,2026-01-15 14:24:22.749999+00
+242,Yanti Sigit Raharjo,3341********1241,Indonesia,,2026-01-15 14:24:22.749999+00
+243,Joko Feri Wibowo,3342********1242,Indonesia,Beneficial Owner #243,2026-01-15 14:24:22.749999+00
+244,Andi Setiawan,3343********1243,Netherlands,Beneficial Owner #244,2026-01-15 14:24:22.749999+00
+245,Feri Ardiansyah,3344********1244,Singapore,,2026-01-15 14:24:22.749999+00
+246,Agus Bambang Purwanto,3345********1245,Indonesia,,2026-01-15 14:24:22.749999+00
+247,Joko Saputra,3346********1246,Netherlands,,2026-01-15 14:24:22.749999+00
+248,Siti Dewi Prasetyo,3347********1247,Indonesia,,2026-01-15 14:24:22.749999+00
+249,Adi Kurnia Permana,3348********1248,Indonesia,,2026-01-15 14:24:22.749999+00
+250,Ratna Nugroho,3349********1249,Indonesia,,2026-01-15 14:24:22.749999+00
+251,Hendra Budi Purwanto,3350********1250,Indonesia,,2026-01-15 14:24:22.749999+00
+252,Nita Maya Hidayat,3351********1251,Indonesia,,2026-01-15 14:24:22.749999+00
+253,Wishnu Nugroho,3352********1252,Indonesia,,2026-01-15 14:24:22.749999+00
+254,Wishnu Permana,3353********1253,Indonesia,,2026-01-15 14:24:22.749999+00
+255,Nurul Suharto,3354********1254,Indonesia,,2026-01-15 14:24:22.749999+00
+256,Budi Mahendra,3355********1255,Indonesia,,2026-01-15 14:24:22.749999+00
+257,Feri Dewi Permana,3356********1256,Malaysia,Beneficial Owner #257,2026-01-15 14:24:22.749999+00
+258,Rizki Aditya,3357********1257,Indonesia,,2026-01-15 14:24:22.749999+00
+259,Siti Joko Kusuma,3358********1258,Indonesia,Beneficial Owner #259,2026-01-15 14:24:22.749999+00
+260,Bambang Indah Cahya,3359********1259,Indonesia,,2026-01-15 14:24:22.749999+00
+261,Eko Hendra Kusumo,3360********1260,Indonesia,,2026-01-15 14:24:22.749999+00
+262,Wahyu Prabowo,3361********1261,Indonesia,,2026-01-15 14:24:22.749999+00
+263,Wati Fitri Nugroho,3362********1262,China,,2026-01-15 14:24:22.749999+00
+264,Agus Kusuma,3363********1263,Malaysia,,2026-01-15 14:24:22.749999+00
+265,Sigit Putri Kusumo,3364********1264,Indonesia,,2026-01-15 14:24:22.749999+00
+266,Rudi Prabowo,3365********1265,Indonesia,,2026-01-15 14:24:22.749999+00
+267,Ahmad Kusuma,3366********1266,Indonesia,,2026-01-15 14:24:22.749999+00
+268,Indah Wulan Setiawan,3367********1267,Indonesia,,2026-01-15 14:24:22.749999+00
+269,Ratna Kusumo,3368********1268,China,,2026-01-15 14:24:22.749999+00
+270,Wahyu Andi Nugroho,3369********1269,Indonesia,Beneficial Owner #270,2026-01-15 14:24:22.749999+00
+271,Nurul Kusumo,3370********1270,Indonesia,,2026-01-15 14:24:22.749999+00
+272,Bambang Pratama,3371********1271,Indonesia,,2026-01-15 14:24:22.749999+00
+273,Feri Pratama,3372********1272,Indonesia,Beneficial Owner #273,2026-01-15 14:24:22.749999+00
+274,Ratna Prabowo,3373********1273,Indonesia,,2026-01-15 14:24:22.749999+00
+275,Bambang Cahya,3374********1274,Indonesia,,2026-01-15 14:24:22.749999+00
+276,Hadi Kusuma,3375********1275,Indonesia,,2026-01-15 14:24:22.749999+00
+277,Maya Joko Firmansyah,3376********1276,Indonesia,Beneficial Owner #277,2026-01-15 14:24:22.749999+00
+278,Agus Dwi Ardiansyah,3377********1277,Indonesia,,2026-01-15 14:24:22.749999+00
+279,Sari Kusumo,3378********1278,Indonesia,,2026-01-15 14:24:22.749999+00
+280,Siti Permana,3379********1279,Indonesia,,2026-01-15 14:24:22.749999+00
+281,Eko Irwan Utomo,3380********1280,Indonesia,Beneficial Owner #281,2026-01-15 14:24:22.749999+00
+282,Sigit Bambang Saputra,3381********1281,Indonesia,,2026-01-15 14:24:22.749999+00
+283,Hendra Sari Putra,3382********1282,Indonesia,,2026-01-15 14:24:22.749999+00
+284,Ratna Cahya,3383********1283,Indonesia,,2026-01-15 14:24:22.749999+00
+285,Nita Rina Saputra,3384********1284,Indonesia,Beneficial Owner #285,2026-01-15 14:24:22.749999+00
+286,Taufik Bambang Setiawan,3385********1285,Indonesia,,2026-01-15 14:24:22.749999+00
+287,Joko Wijaya,3386********1286,Indonesia,,2026-01-15 14:24:22.749999+00
+288,Hadi Ramadhan,3387********1287,Indonesia,,2026-01-15 14:24:22.749999+00
+289,Yulia Surya,3388********1288,Indonesia,Beneficial Owner #289,2026-01-15 14:24:22.749999+00
+290,Putri Hendra Kusuma,3389********1289,Indonesia,,2026-01-15 14:24:22.749999+00
+291,Budi Wishnu Hartono,3390********1290,China,Beneficial Owner #291,2026-01-15 14:24:22.749999+00
+292,Dewi Suharto,3391********1291,Indonesia,Beneficial Owner #292,2026-01-15 14:24:22.749999+00
+293,Sari Wulan Pratama,3392********1292,Indonesia,,2026-01-15 14:24:22.749999+00
+294,Agus Suryanto,3393********1293,Indonesia,Beneficial Owner #294,2026-01-15 14:24:22.749999+00
+295,Dewi Raharjo,3394********1294,Indonesia,,2026-01-15 14:24:22.749999+00
+296,Fitri Hadi Utomo,3395********1295,Indonesia,,2026-01-15 14:24:22.749999+00
+297,Eko Kusuma,3396********1296,Japan,Beneficial Owner #297,2026-01-15 14:24:22.749999+00
+298,Rizki Rudi Cahya,3397********1297,Indonesia,,2026-01-15 14:24:22.749999+00
+299,Indah Andi Firmansyah,3398********1298,Indonesia,,2026-01-15 14:24:22.749999+00
+300,Nurul Yanti Raharjo,3399********1299,Indonesia,,2026-01-15 14:24:22.749999+00
+301,Putri Andi Raharjo,3400********1300,Indonesia,,2026-01-15 14:24:22.749999+00
+302,Putri Joko Prabowo,3401********1301,China,,2026-01-15 14:24:22.749999+00
+303,Dewi Sri Susanto,3402********1302,Indonesia,Beneficial Owner #303,2026-01-15 14:24:22.749999+00
+304,Ahmad Pratama,3403********1303,Indonesia,Beneficial Owner #304,2026-01-15 14:24:22.749999+00
+305,Rizki Prasetyo,3404********1304,Singapore,,2026-01-15 14:24:22.749999+00
+306,Wati Raharjo,3405********1305,Indonesia,,2026-01-15 14:24:22.749999+00
+307,Bambang Joko Ardiansyah,3406********1306,Indonesia,,2026-01-15 14:24:22.749999+00
+308,Taufik Putri Prasetyo,3407********1307,Indonesia,,2026-01-15 14:24:22.749999+00
+309,Hendro Wati Wijaya,3408********1308,Indonesia,,2026-01-15 14:24:22.749999+00
+310,Tri Wahyu Ramadhan,3409********1309,Indonesia,,2026-01-15 14:24:22.749999+00
+311,Wishnu Kusuma,3410********1310,China,,2026-01-15 14:24:22.749999+00
+312,Yanti Rizki Prasetyo,3411********1311,Indonesia,,2026-01-15 14:24:22.749999+00
+313,Nurul Hendra Hermawan,3412********1312,Indonesia,,2026-01-15 14:24:22.749999+00
+314,Feri Bambang Suryanto,3413********1313,Indonesia,,2026-01-15 14:24:22.749999+00
+315,Bambang Firmansyah,3414********1314,Indonesia,Beneficial Owner #315,2026-01-15 14:24:22.749999+00
+316,Wati Lestari Purwanto,3415********1315,Indonesia,Beneficial Owner #316,2026-01-15 14:24:22.749999+00
+317,Rudi Putra,3416********1316,Indonesia,Beneficial Owner #317,2026-01-15 14:24:22.749999+00
+318,Putri Taufik Surya,3417********1317,Indonesia,,2026-01-15 14:24:22.749999+00
+319,Nurul Hidayat,3418********1318,Indonesia,,2026-01-15 14:24:22.749999+00
+320,Hendra Hidayat,3419********1319,Indonesia,Beneficial Owner #320,2026-01-15 14:24:22.749999+00
+321,Siti Suryanto,3420********1320,Indonesia,,2026-01-15 14:24:22.749999+00
+322,Fitri Rudi Prasetyo,3421********1321,Malaysia,,2026-01-15 14:24:22.749999+00
+323,Feri Fitri Aditya,3422********1322,Indonesia,,2026-01-15 14:24:22.749999+00
+324,Ratna Maya Nugroho,3423********1323,Indonesia,,2026-01-15 14:24:22.749999+00
+325,Siti Taufik Pratama,3424********1324,Indonesia,Beneficial Owner #325,2026-01-15 14:24:22.749999+00
+326,Sari Nita Pratama,3425********1325,Indonesia,,2026-01-15 14:24:22.749999+00
+327,Hendro Sigit Hidayat,3426********1326,Indonesia,,2026-01-15 14:24:22.749999+00
+328,Yulia Surya,3427********1327,Indonesia,Beneficial Owner #328,2026-01-15 14:24:22.749999+00
+329,Ratna Wibowo,3428********1328,Indonesia,,2026-01-15 14:24:22.749999+00
+330,Tri Bambang Kusuma,3429********1329,Indonesia,,2026-01-15 14:24:22.749999+00
+331,Agus Prasetyo,3430********1330,Indonesia,,2026-01-15 14:24:22.749999+00
+332,Kurnia Ahmad Ardiansyah,3431********1331,Indonesia,,2026-01-15 14:24:22.749999+00
+333,Lestari Raharjo,3432********1332,Indonesia,,2026-01-15 14:24:22.749999+00
+334,Ahmad Setiawan,3433********1333,Indonesia,,2026-01-15 14:24:22.749999+00
+335,Yanti Adi Prabowo,3434********1334,Indonesia,,2026-01-15 14:24:22.749999+00
+336,Kurnia Aditya,3435********1335,Malaysia,,2026-01-15 14:24:22.749999+00
+337,Maya Nurul Surya,3436********1336,Indonesia,,2026-01-15 14:24:22.749999+00
+338,Rina Putra,3437********1337,Indonesia,,2026-01-15 14:24:22.749999+00
+339,Andi Wibowo,3438********1338,Indonesia,,2026-01-15 14:24:22.749999+00
+340,Kurnia Wijaya,3439********1339,Indonesia,,2026-01-15 14:24:22.749999+00
+341,Wulan Surya,3440********1340,Indonesia,,2026-01-15 14:24:22.749999+00
+342,Siti Ardiansyah,3441********1341,Indonesia,,2026-01-15 14:24:22.749999+00
+343,Wulan Setiawan,3442********1342,Indonesia,Beneficial Owner #343,2026-01-15 14:24:22.749999+00
+344,Nita Ramadhan,3443********1343,Indonesia,Beneficial Owner #344,2026-01-15 14:24:22.749999+00
+345,Adi Rudi Utomo,3444********1344,Indonesia,,2026-01-15 14:24:22.749999+00
+346,Agus Irwan Mahendra,3445********1345,Indonesia,Beneficial Owner #346,2026-01-15 14:24:22.749999+00
+347,Maya Kurnia Prasetyo,3446********1346,Indonesia,,2026-01-15 14:24:22.749999+00
+348,Rizki Permana,3447********1347,Indonesia,,2026-01-15 14:24:22.749999+00
+349,Irwan Prasetyo,3448********1348,Netherlands,,2026-01-15 14:24:22.749999+00
+350,Siti Cahya,3449********1349,Indonesia,Beneficial Owner #350,2026-01-15 14:24:22.749999+00
+351,Hadi Santoso,3450********1350,Indonesia,,2026-01-15 14:24:22.749999+00
+352,Maya Wishnu Prasetyo,3451********1351,Japan,,2026-01-15 14:24:22.749999+00
+353,Yanti Setiawan,3452********1352,Indonesia,,2026-01-15 14:24:22.749999+00
+354,Yanti Suryanto,3453********1353,Indonesia,Beneficial Owner #354,2026-01-15 14:24:22.749999+00
+355,Ahmad Dewi Santoso,3454********1354,Indonesia,,2026-01-15 14:24:22.749999+00
+356,Irwan Siti Prasetyo,3455********1355,Indonesia,,2026-01-15 14:24:22.749999+00
+357,Wahyu Dwi Nugroho,3456********1356,Indonesia,,2026-01-15 14:24:22.749999+00
+358,Ahmad Dewi Susanto,3457********1357,Indonesia,,2026-01-15 14:24:22.749999+00
+359,Irwan Cahya,3458********1358,Malaysia,Beneficial Owner #359,2026-01-15 14:24:22.749999+00
+360,Yanti Hendra Surya,3459********1359,Indonesia,Beneficial Owner #360,2026-01-15 14:24:22.749999+00
+361,Yanti Wati Cahya,3460********1360,Indonesia,,2026-01-15 14:24:22.749999+00
+362,Wishnu Hartono,3461********1361,Indonesia,,2026-01-15 14:24:22.749999+00
+363,Irwan Suryanto,3462********1362,Indonesia,,2026-01-15 14:24:22.749999+00
+364,Yanti Agus Firmansyah,3463********1363,Indonesia,,2026-01-15 14:24:22.749999+00
+365,Ahmad Adi Suryanto,3464********1364,China,,2026-01-15 14:24:22.749999+00
+366,Adi Yulia Suharto,3465********1365,Indonesia,,2026-01-15 14:24:22.749999+00
+367,Hendra Ardiansyah,3466********1366,Indonesia,Beneficial Owner #367,2026-01-15 14:24:22.749999+00
+368,Taufik Tri Prabowo,3467********1367,Indonesia,,2026-01-15 14:24:22.749999+00
+369,Wishnu Nugroho,3468********1368,Indonesia,,2026-01-15 14:24:22.749999+00
+370,Feri Joko Raharjo,3469********1369,Indonesia,,2026-01-15 14:24:22.749999+00
+371,Dwi Agus Utomo,3470********1370,Indonesia,,2026-01-15 14:24:22.749999+00
+372,Rizki Bambang Prasetyo,3471********1371,Indonesia,,2026-01-15 14:24:22.749999+00
+373,Siti Utomo,3472********1372,Indonesia,,2026-01-15 14:24:22.749999+00
+374,Rudi Hartono,3473********1373,Indonesia,,2026-01-15 14:24:22.749999+00
+375,Nurul Setiawan,3474********1374,Indonesia,Beneficial Owner #375,2026-01-15 14:24:22.749999+00
+376,Wulan Saputra,3475********1375,Indonesia,Beneficial Owner #376,2026-01-15 14:24:22.749999+00
+377,Budi Ahmad Wijaya,3476********1376,Indonesia,,2026-01-15 14:24:22.749999+00
+378,Sri Raharjo,3477********1377,Indonesia,,2026-01-15 14:24:22.749999+00
+379,Dewi Hendro Gunawan,3478********1378,Indonesia,,2026-01-15 14:24:22.749999+00
+380,Wati Agus Gunawan,3479********1379,Indonesia,,2026-01-15 14:24:22.749999+00
+381,Bambang Indah Purwanto,3480********1380,Indonesia,Beneficial Owner #381,2026-01-15 14:24:22.749999+00
+382,Siti Dewi Raharjo,3481********1381,Indonesia,,2026-01-15 14:24:22.749999+00
+383,Wulan Wishnu Wijaya,3482********1382,Indonesia,,2026-01-15 14:24:22.749999+00
+384,Nita Hermawan,3483********1383,Indonesia,,2026-01-15 14:24:22.749999+00
+385,Kurnia Rudi Susanto,3484********1384,Indonesia,,2026-01-15 14:24:22.749999+00
+386,Maya Indah Purwanto,3485********1385,Indonesia,,2026-01-15 14:24:22.749999+00
+387,Wulan Hermawan,3486********1386,Indonesia,,2026-01-15 14:24:22.749999+00
+388,Hadi Indah Gunawan,3487********1387,Indonesia,,2026-01-15 14:24:22.749999+00
+389,Siti Ahmad Prasetyo,3488********1388,Indonesia,Beneficial Owner #389,2026-01-15 14:24:22.749999+00
+390,Nurul Andi Putra,3489********1389,Indonesia,,2026-01-15 14:24:22.749999+00
+391,Dewi Indah Prabowo,3490********1390,Indonesia,,2026-01-15 14:24:22.749999+00
+392,Sari Maya Suryanto,3491********1391,Netherlands,Beneficial Owner #392,2026-01-15 14:24:22.749999+00
+393,Eko Hermawan,3492********1392,Indonesia,,2026-01-15 14:24:22.749999+00
+394,Feri Susanto,3493********1393,Indonesia,,2026-01-15 14:24:22.749999+00
+395,Yanti Cahya,3494********1394,Indonesia,,2026-01-15 14:24:22.749999+00
+396,Irwan Andi Ramadhan,3495********1395,Indonesia,,2026-01-15 14:24:22.749999+00
+397,Dwi Aditya,3496********1396,Indonesia,,2026-01-15 14:24:22.749999+00
+398,Wati Indah Hermawan,3497********1397,Indonesia,,2026-01-15 14:24:22.749999+00
+399,Maya Wibowo,3498********1398,Indonesia,Beneficial Owner #399,2026-01-15 14:24:22.749999+00
+400,Ahmad Utomo,3499********1399,Indonesia,,2026-01-15 14:24:22.749999+00
+401,Wati Kusumo,3500********1400,Netherlands,Beneficial Owner #401,2026-01-15 14:24:22.749999+00
+402,Dwi Ahmad Ramadhan,3501********1401,Indonesia,Beneficial Owner #402,2026-01-15 14:24:22.749999+00
+403,Wahyu Wibowo,3502********1402,Netherlands,Beneficial Owner #403,2026-01-15 14:24:22.749999+00
+404,Rina Mahendra,3503********1403,Japan,,2026-01-15 14:24:22.749999+00
+405,Dwi Agus Nugroho,3504********1404,Netherlands,Beneficial Owner #405,2026-01-15 14:24:22.749999+00
+406,Indah Nurul Prabowo,3505********1405,Indonesia,,2026-01-15 14:24:22.749999+00
+407,Feri Dian Hermawan,3506********1406,Indonesia,Beneficial Owner #407,2026-01-15 14:24:22.749999+00
+408,Nurul Santoso,3507********1407,Indonesia,,2026-01-15 14:24:22.749999+00
+409,Indah Hartono,3508********1408,Indonesia,,2026-01-15 14:24:22.749999+00
+410,Nita Kusumo,3509********1409,Indonesia,,2026-01-15 14:24:22.749999+00
+411,Sigit Prabowo,3510********1410,Indonesia,,2026-01-15 14:24:22.749999+00
+412,Eko Surya,3511********1411,Indonesia,,2026-01-15 14:24:22.749999+00
+413,Rina Kusuma,3512********1412,Indonesia,,2026-01-15 14:24:22.749999+00
+414,Rizki Dian Utomo,3513********1413,Japan,,2026-01-15 14:24:22.749999+00
+415,Wahyu Fitri Prasetyo,3514********1414,Indonesia,Beneficial Owner #415,2026-01-15 14:24:22.749999+00
+416,Sri Prabowo,3515********1415,Indonesia,Beneficial Owner #416,2026-01-15 14:24:22.749999+00
+417,Agus Gunawan,3516********1416,China,,2026-01-15 14:24:22.749999+00
+418,Putri Hendro Aditya,3517********1417,Indonesia,,2026-01-15 14:24:22.749999+00
+419,Hadi Wibowo,3518********1418,Indonesia,,2026-01-15 14:24:22.749999+00
+420,Wulan Firmansyah,3519********1419,Indonesia,,2026-01-15 14:24:22.749999+00
+421,Yulia Dian Prasetyo,3520********1420,China,,2026-01-15 14:24:22.749999+00
+422,Fitri Mahendra,3521********1421,Indonesia,,2026-01-15 14:24:22.749999+00
+423,Sri Pratama,3522********1422,Indonesia,,2026-01-15 14:24:22.749999+00
+424,Maya Hidayat,3523********1423,Indonesia,Beneficial Owner #424,2026-01-15 14:24:22.749999+00
+425,Eko Dian Hidayat,3524********1424,Indonesia,,2026-01-15 14:24:22.749999+00
+426,Bambang Prabowo,3525********1425,Indonesia,,2026-01-15 14:24:22.749999+00
+427,Hendra Siti Hermawan,3526********1426,Indonesia,,2026-01-15 14:24:22.749999+00
+428,Taufik Hermawan,3527********1427,Indonesia,,2026-01-15 14:24:22.749999+00
+429,Andi Nita Prasetyo,3528********1428,Indonesia,,2026-01-15 14:24:22.749999+00
+430,Andi Cahya,3529********1429,Indonesia,,2026-01-15 14:24:22.749999+00
+431,Nurul Gunawan,3530********1430,Netherlands,,2026-01-15 14:24:22.749999+00
+432,Tri Bambang Susanto,3531********1431,Indonesia,,2026-01-15 14:24:22.749999+00
+433,Yulia Putra,3532********1432,Indonesia,Beneficial Owner #433,2026-01-15 14:24:22.749999+00
+434,Rina Suharto,3533********1433,Indonesia,,2026-01-15 14:24:22.749999+00
+435,Sri Irwan Prasetyo,3534********1434,Indonesia,,2026-01-15 14:24:22.749999+00
+436,Irwan Yulia Nugroho,3535********1435,Indonesia,,2026-01-15 14:24:22.749999+00
+437,Yulia Nugroho,3536********1436,Indonesia,,2026-01-15 14:24:22.749999+00
+438,Wati Ardiansyah,3537********1437,Malaysia,Beneficial Owner #438,2026-01-15 14:24:22.749999+00
+439,Irwan Siti Wijaya,3538********1438,Indonesia,,2026-01-15 14:24:22.749999+00
+440,Wishnu Suryanto,3539********1439,Indonesia,,2026-01-15 14:24:22.749999+00
+441,Sri Nita Susanto,3540********1440,Malaysia,,2026-01-15 14:24:22.749999+00
+442,Rudi Permana,3541********1441,Indonesia,,2026-01-15 14:24:22.749999+00
+443,Maya Bambang Wijaya,3542********1442,Indonesia,,2026-01-15 14:24:22.749999+00
+444,Indah Raharjo,3543********1443,Indonesia,,2026-01-15 14:24:22.749999+00
+445,Hadi Permana,3544********1444,Indonesia,,2026-01-15 14:24:22.749999+00
+446,Dwi Hermawan,3545********1445,Indonesia,,2026-01-15 14:24:22.749999+00
+447,Taufik Sri Suryanto,3546********1446,Netherlands,,2026-01-15 14:24:22.749999+00
+448,Yulia Suryanto,3547********1447,Netherlands,,2026-01-15 14:24:22.749999+00
+449,Ahmad Nugroho,3548********1448,Indonesia,,2026-01-15 14:24:22.749999+00
+450,Joko Kurnia Susanto,3549********1449,Indonesia,,2026-01-15 14:24:22.749999+00
+451,Nita Wahyu Kusumo,3550********1450,Indonesia,Beneficial Owner #451,2026-01-15 14:24:22.749999+00
+452,Fitri Putra,3551********1451,Indonesia,Beneficial Owner #452,2026-01-15 14:24:22.749999+00
+453,Rudi Mahendra,3552********1452,Indonesia,,2026-01-15 14:24:22.749999+00
+454,Bambang Utomo,3553********1453,Indonesia,,2026-01-15 14:24:22.749999+00
+455,Dwi Purwanto,3554********1454,Indonesia,,2026-01-15 14:24:22.749999+00
+456,Kurnia Wijaya,3555********1455,Singapore,,2026-01-15 14:24:22.749999+00
+457,Hendra Dwi Kusumo,3556********1456,Indonesia,,2026-01-15 14:24:22.749999+00
+458,Dewi Hadi Suryanto,3557********1457,Indonesia,Beneficial Owner #458,2026-01-15 14:24:22.749999+00
+459,Sri Cahya,3558********1458,Indonesia,Beneficial Owner #459,2026-01-15 14:24:22.749999+00
+460,Dewi Indah Permana,3559********1459,Indonesia,,2026-01-15 14:24:22.749999+00
+461,Wulan Santoso,3560********1460,Indonesia,,2026-01-15 14:24:22.749999+00
+462,Agus Prabowo,3561********1461,Indonesia,,2026-01-15 14:24:22.749999+00
+463,Dewi Pratama,3562********1462,Indonesia,,2026-01-15 14:24:22.749999+00
+464,Irwan Putra,3563********1463,Indonesia,,2026-01-15 14:24:22.749999+00
+465,Wishnu Fitri Purwanto,3564********1464,Japan,Beneficial Owner #465,2026-01-15 14:24:22.749999+00
+466,Rudi Maya Saputra,3565********1465,Indonesia,,2026-01-15 14:24:22.749999+00
+467,Taufik Dian Surya,3566********1466,Indonesia,Beneficial Owner #467,2026-01-15 14:24:22.749999+00
+468,Wati Suharto,3567********1467,Singapore,,2026-01-15 14:24:22.749999+00
+469,Nita Rudi Kusumo,3568********1468,Indonesia,,2026-01-15 14:24:22.749999+00
+470,Sari Utomo,3569********1469,China,,2026-01-15 14:24:22.749999+00
+471,Budi Joko Gunawan,3570********1470,Indonesia,,2026-01-15 14:24:22.749999+00
+472,Joko Indah Ardiansyah,3571********1471,Indonesia,,2026-01-15 14:24:22.749999+00
+473,Taufik Wahyu Pratama,3572********1472,Indonesia,Beneficial Owner #473,2026-01-15 14:24:22.749999+00
+474,Wulan Prasetyo,3573********1473,China,,2026-01-15 14:24:22.749999+00
+475,Wulan Maya Putra,3574********1474,Indonesia,Beneficial Owner #475,2026-01-15 14:24:22.749999+00
+476,Nurul Ahmad Mahendra,3575********1475,Singapore,,2026-01-15 14:24:22.749999+00
+477,Wahyu Mahendra,3576********1476,Indonesia,,2026-01-15 14:24:22.749999+00
+478,Irwan Wijaya,3577********1477,Japan,,2026-01-15 14:24:22.749999+00
+479,Wulan Wishnu Susanto,3578********1478,Indonesia,,2026-01-15 14:24:22.749999+00
+480,Siti Hidayat,3579********1479,Singapore,,2026-01-15 14:24:22.749999+00
+481,Putri Bambang Santoso,3580********1480,Indonesia,,2026-01-15 14:24:22.749999+00
+482,Dwi Hendra Suryanto,3581********1481,Indonesia,,2026-01-15 14:24:22.749999+00
+483,Wulan Suharto,3582********1482,Indonesia,,2026-01-15 14:24:22.749999+00
+484,Yanti Yanti Setiawan,3583********1483,China,,2026-01-15 14:24:22.749999+00
+485,Taufik Eko Wijaya,3584********1484,Indonesia,Beneficial Owner #485,2026-01-15 14:24:22.749999+00
+486,Adi Suharto,3585********1485,Indonesia,,2026-01-15 14:24:22.749999+00
+487,Wishnu Agus Hidayat,3586********1486,Indonesia,,2026-01-15 14:24:22.749999+00
+488,Siti Hendro Prasetyo,3587********1487,Indonesia,Beneficial Owner #488,2026-01-15 14:24:22.749999+00
+489,Wishnu Eko Pratama,3588********1488,Indonesia,,2026-01-15 14:24:22.749999+00
+490,Eko Firmansyah,3589********1489,Indonesia,,2026-01-15 14:24:22.749999+00
+491,Kurnia Prabowo,3590********1490,Indonesia,,2026-01-15 14:24:22.749999+00
+492,Adi Rina Cahya,3591********1491,Indonesia,,2026-01-15 14:24:22.749999+00
+493,Wahyu Raharjo,3592********1492,Indonesia,,2026-01-15 14:24:22.749999+00
+494,Adi Yulia Cahya,3593********1493,Indonesia,,2026-01-15 14:24:22.749999+00
+495,Feri Setiawan,3594********1494,Indonesia,,2026-01-15 14:24:22.749999+00
+496,Irwan Utomo,3595********1495,Indonesia,,2026-01-15 14:24:22.749999+00
+497,Andi Santoso,3596********1496,Indonesia,,2026-01-15 14:24:22.749999+00
+498,Lestari Raharjo,3597********1497,Indonesia,,2026-01-15 14:24:22.749999+00
+499,Rina Yanti Purwanto,3598********1498,Indonesia,,2026-01-15 14:24:22.749999+00
+500,Irwan Hermawan,3599********1499,Indonesia,,2026-01-15 14:24:22.749999+00
+501,Hendra Gunawan,3600********1500,Indonesia,,2026-01-15 14:24:22.749999+00
+502,Taufik Yulia Wibowo,3601********1501,Indonesia,,2026-01-15 14:24:22.749999+00
+503,Taufik Hadi Putra,3602********1502,Indonesia,,2026-01-15 14:24:22.749999+00
+504,Maya Hermawan,3603********1503,Indonesia,,2026-01-15 14:24:22.749999+00
+505,Taufik Sari Susanto,3604********1504,Indonesia,,2026-01-15 14:24:22.749999+00
+506,Wishnu Eko Putra,3605********1505,Indonesia,,2026-01-15 14:24:22.749999+00
+507,Rizki Siti Gunawan,3606********1506,Indonesia,,2026-01-15 14:24:22.749999+00
+508,Ratna Nita Ramadhan,3607********1507,Indonesia,,2026-01-15 14:24:22.749999+00
+509,Budi Santoso,3608********1508,Indonesia,,2026-01-15 14:24:22.749999+00
+510,Sari Gunawan,3609********1509,Malaysia,Beneficial Owner #510,2026-01-15 14:24:22.749999+00
+511,Eko Taufik Cahya,3610********1510,Indonesia,Beneficial Owner #511,2026-01-15 14:24:22.749999+00
+512,Feri Wishnu Saputra,3611********1511,Indonesia,,2026-01-15 14:24:22.749999+00
+513,Sigit Ardiansyah,3612********1512,Netherlands,,2026-01-15 14:24:22.749999+00
+514,Irwan Wahyu Santoso,3613********1513,Indonesia,,2026-01-15 14:24:22.749999+00
+515,Taufik Hadi Raharjo,3614********1514,Indonesia,,2026-01-15 14:24:22.749999+00
+516,Taufik Wishnu Putra,3615********1515,Indonesia,Beneficial Owner #516,2026-01-15 14:24:22.749999+00
+517,Hendra Sigit Nugroho,3616********1516,Indonesia,,2026-01-15 14:24:22.749999+00
+518,Joko Permana,3617********1517,Indonesia,,2026-01-15 14:24:22.749999+00
+519,Sigit Permana,3618********1518,Singapore,,2026-01-15 14:24:22.749999+00
+520,Wishnu Rizki Wijaya,3619********1519,Indonesia,,2026-01-15 14:24:22.749999+00
+521,Hendro Permana,3620********1520,Indonesia,,2026-01-15 14:24:22.749999+00
+522,Sigit Surya,3621********1521,Indonesia,,2026-01-15 14:24:22.749999+00
+523,Nita Wijaya,3622********1522,Indonesia,,2026-01-15 14:24:22.749999+00
+524,Sari Agus Kusuma,3623********1523,Japan,Beneficial Owner #524,2026-01-15 14:24:22.749999+00
+525,Sigit Utomo,3624********1524,Indonesia,,2026-01-15 14:24:22.749999+00
+526,Putri Andi Hartono,3625********1525,Indonesia,,2026-01-15 14:24:22.749999+00
+527,Yulia Joko Purwanto,3626********1526,Indonesia,,2026-01-15 14:24:22.749999+00
+528,Hendra Putri Santoso,3627********1527,Indonesia,,2026-01-15 14:24:22.749999+00
+529,Sigit Susanto,3628********1528,Indonesia,,2026-01-15 14:24:22.749999+00
+530,Sri Nurul Putra,3629********1529,Indonesia,Beneficial Owner #530,2026-01-15 14:24:22.749999+00
+531,Tri Wijaya,3630********1530,China,,2026-01-15 14:24:22.749999+00
+532,Rina Indah Hartono,3631********1531,Indonesia,,2026-01-15 14:24:22.749999+00
+533,Fitri Eko Firmansyah,3632********1532,China,,2026-01-15 14:24:22.749999+00
+534,Agus Feri Prabowo,3633********1533,Indonesia,Beneficial Owner #534,2026-01-15 14:24:22.749999+00
+535,Indah Setiawan,3634********1534,Indonesia,,2026-01-15 14:24:22.749999+00
+536,Dwi Kusumo,3635********1535,Malaysia,,2026-01-15 14:24:22.749999+00
+537,Joko Fitri Wibowo,3636********1536,Indonesia,,2026-01-15 14:24:22.749999+00
+538,Irwan Yanti Kusumo,3637********1537,Japan,,2026-01-15 14:24:22.749999+00
+539,Maya Susanto,3638********1538,Indonesia,,2026-01-15 14:24:22.749999+00
+540,Tri Tri Aditya,3639********1539,Indonesia,,2026-01-15 14:24:22.749999+00
+541,Taufik Wishnu Wibowo,3640********1540,Indonesia,,2026-01-15 14:24:22.749999+00
+542,Indah Purwanto,3641********1541,Indonesia,,2026-01-15 14:24:22.749999+00
+543,Yulia Irwan Pratama,3642********1542,Indonesia,,2026-01-15 14:24:22.749999+00
+544,Sri Raharjo,3643********1543,Indonesia,,2026-01-15 14:24:22.749999+00
+545,Siti Irwan Utomo,3644********1544,Indonesia,,2026-01-15 14:24:22.749999+00
+546,Wati Cahya,3645********1545,Indonesia,,2026-01-15 14:24:22.749999+00
+547,Putri Wati Wibowo,3646********1546,Indonesia,Beneficial Owner #547,2026-01-15 14:24:22.749999+00
+548,Kurnia Yanti Suharto,3647********1547,Indonesia,,2026-01-15 14:24:22.749999+00
+549,Nita Ahmad Cahya,3648********1548,Netherlands,,2026-01-15 14:24:22.749999+00
+550,Feri Prasetyo,3649********1549,Indonesia,Beneficial Owner #550,2026-01-15 14:24:22.749999+00
+551,Tri Mahendra,3650********1550,Indonesia,,2026-01-15 14:24:22.749999+00
+552,Wishnu Maya Suryanto,3651********1551,Indonesia,,2026-01-15 14:24:22.749999+00
+553,Putri Setiawan,3652********1552,Indonesia,,2026-01-15 14:24:22.749999+00
+554,Hadi Saputra,3653********1553,Indonesia,,2026-01-15 14:24:22.749999+00
+555,Putri Purwanto,3654********1554,Indonesia,,2026-01-15 14:24:22.749999+00
+556,Siti Wati Cahya,3655********1555,Indonesia,,2026-01-15 14:24:22.749999+00
+557,Putri Ardiansyah,3656********1556,Singapore,Beneficial Owner #557,2026-01-15 14:24:22.749999+00
+558,Ahmad Setiawan,3657********1557,Indonesia,,2026-01-15 14:24:22.749999+00
+559,Tri Agus Kusumo,3658********1558,Indonesia,Beneficial Owner #559,2026-01-15 14:24:22.749999+00
+560,Ratna Agus Surya,3659********1559,Japan,,2026-01-15 14:24:22.749999+00
+561,Hendro Andi Prabowo,3660********1560,Indonesia,,2026-01-15 14:24:22.749999+00
+562,Yulia Indah Gunawan,3661********1561,Indonesia,,2026-01-15 14:24:22.749999+00
+563,Fitri Fitri Mahendra,3662********1562,Indonesia,,2026-01-15 14:24:22.749999+00
+564,Dian Saputra,3663********1563,Indonesia,,2026-01-15 14:24:22.749999+00
+565,Wulan Wijaya,3664********1564,Indonesia,,2026-01-15 14:24:22.749999+00
+566,Wati Suryanto,3665********1565,Indonesia,,2026-01-15 14:24:22.749999+00
+567,Siti Wulan Ramadhan,3666********1566,Indonesia,Beneficial Owner #567,2026-01-15 14:24:22.749999+00
+568,Joko Dwi Setiawan,3667********1567,Indonesia,,2026-01-15 14:24:22.749999+00
+569,Agus Irwan Nugroho,3668********1568,Indonesia,,2026-01-15 14:24:22.749999+00
+570,Nurul Hartono,3669********1569,Indonesia,,2026-01-15 14:24:22.749999+00
+571,Nita Nurul Wibowo,3670********1570,Indonesia,Beneficial Owner #571,2026-01-15 14:24:22.749999+00
+572,Kurnia Hidayat,3671********1571,Indonesia,Beneficial Owner #572,2026-01-15 14:24:22.749999+00
+573,Taufik Dewi Wibowo,3672********1572,Indonesia,Beneficial Owner #573,2026-01-15 14:24:22.749999+00
+574,Wishnu Yulia Surya,3673********1573,Indonesia,,2026-01-15 14:24:22.749999+00
+575,Siti Purwanto,3674********1574,Indonesia,Beneficial Owner #575,2026-01-15 14:24:22.749999+00
+576,Tri Permana,3675********1575,Indonesia,,2026-01-15 14:24:22.749999+00
+577,Feri Putra,3676********1576,Indonesia,,2026-01-15 14:24:22.749999+00
+578,Nita Siti Susanto,3677********1577,Indonesia,,2026-01-15 14:24:22.749999+00
+579,Agus Saputra,3678********1578,Singapore,,2026-01-15 14:24:22.749999+00
+580,Siti Prasetyo,3679********1579,Indonesia,,2026-01-15 14:24:22.749999+00
+581,Wulan Ramadhan,3680********1580,China,Beneficial Owner #581,2026-01-15 14:24:22.749999+00
+582,Fitri Hendro Cahya,3681********1581,Indonesia,,2026-01-15 14:24:22.749999+00
+583,Hadi Agus Ardiansyah,3682********1582,Indonesia,,2026-01-15 14:24:22.749999+00
+584,Sigit Sari Aditya,3683********1583,Indonesia,,2026-01-15 14:24:22.749999+00
+585,Budi Ardiansyah,3684********1584,Indonesia,,2026-01-15 14:24:22.749999+00
+586,Hendra Sigit Susanto,3685********1585,Indonesia,,2026-01-15 14:24:22.749999+00
+587,Feri Fitri Suryanto,3686********1586,Indonesia,,2026-01-15 14:24:22.749999+00
+588,Sigit Surya,3687********1587,Indonesia,,2026-01-15 14:24:22.749999+00
+589,Siti Rina Mahendra,3688********1588,Indonesia,,2026-01-15 14:24:22.749999+00
+590,Eko Aditya,3689********1589,Indonesia,,2026-01-15 14:24:22.749999+00
+591,Nurul Setiawan,3690********1590,Singapore,,2026-01-15 14:24:22.749999+00
+592,Yanti Maya Suryanto,3691********1591,Indonesia,,2026-01-15 14:24:22.749999+00
+593,Nurul Gunawan,3692********1592,Indonesia,,2026-01-15 14:24:22.749999+00
+594,Joko Ramadhan,3693********1593,Indonesia,,2026-01-15 14:24:22.749999+00
+595,Bambang Firmansyah,3694********1594,Indonesia,,2026-01-15 14:24:22.749999+00
+596,Budi Hendro Putra,3695********1595,Indonesia,,2026-01-15 14:24:22.749999+00
+597,Maya Taufik Nugroho,3696********1596,Indonesia,,2026-01-15 14:24:22.749999+00
+598,Sigit Raharjo,3697********1597,Indonesia,,2026-01-15 14:24:22.749999+00
+599,Ratna Hartono,3698********1598,Indonesia,,2026-01-15 14:24:22.749999+00
+600,Ahmad Suryanto,3699********1599,Indonesia,,2026-01-15 14:24:22.749999+00
+601,Feri Raharjo,3700********1600,Singapore,,2026-01-15 14:24:22.749999+00
+602,Maya Bambang Hermawan,3701********1601,Indonesia,,2026-01-15 14:24:22.749999+00
+603,Ratna Hermawan,3702********1602,Indonesia,Beneficial Owner #603,2026-01-15 14:24:22.749999+00
+604,Putri Pratama,3703********1603,Indonesia,,2026-01-15 14:24:22.749999+00
+605,Lestari Suharto,3704********1604,Indonesia,Beneficial Owner #605,2026-01-15 14:24:22.749999+00
+606,Sari Cahya,3705********1605,Indonesia,,2026-01-15 14:24:22.749999+00
+607,Indah Purwanto,3706********1606,Indonesia,,2026-01-15 14:24:22.749999+00
+608,Ahmad Surya,3707********1607,Singapore,Beneficial Owner #608,2026-01-15 14:24:22.749999+00
+609,Dwi Putri Aditya,3708********1608,Indonesia,,2026-01-15 14:24:22.749999+00
+610,Nurul Budi Susanto,3709********1609,Indonesia,,2026-01-15 14:24:22.749999+00
+611,Sigit Saputra,3710********1610,Indonesia,,2026-01-15 14:24:22.749999+00
+612,Yanti Hendra Nugroho,3711********1611,Indonesia,,2026-01-15 14:24:22.749999+00
+613,Kurnia Aditya,3712********1612,Indonesia,,2026-01-15 14:24:22.749999+00
+614,Rudi Rina Raharjo,3713********1613,Indonesia,Beneficial Owner #614,2026-01-15 14:24:22.749999+00
+615,Maya Rina Wijaya,3714********1614,Indonesia,,2026-01-15 14:24:22.749999+00
+616,Sri Santoso,3715********1615,Indonesia,,2026-01-15 14:24:22.749999+00
+617,Hendra Eko Hermawan,3716********1616,Indonesia,,2026-01-15 14:24:22.749999+00
+618,Feri Prabowo,3717********1617,Japan,,2026-01-15 14:24:22.749999+00
+619,Kurnia Bambang Mahendra,3718********1618,Indonesia,,2026-01-15 14:24:22.749999+00
+620,Sigit Kusuma,3719********1619,Indonesia,,2026-01-15 14:24:22.749999+00
+621,Putri Surya,3720********1620,Indonesia,,2026-01-15 14:24:22.749999+00
+622,Kurnia Firmansyah,3721********1621,Indonesia,,2026-01-15 14:24:22.749999+00
+623,Joko Aditya,3722********1622,Indonesia,,2026-01-15 14:24:22.749999+00
+624,Sri Agus Raharjo,3723********1623,Indonesia,Beneficial Owner #624,2026-01-15 14:24:22.749999+00
+625,Feri Eko Suharto,3724********1624,Indonesia,,2026-01-15 14:24:22.749999+00
+626,Nurul Saputra,3725********1625,Indonesia,,2026-01-15 14:24:22.749999+00
+627,Dian Indah Hartono,3726********1626,Indonesia,,2026-01-15 14:24:22.749999+00
+628,Tri Hadi Setiawan,3727********1627,Indonesia,,2026-01-15 14:24:22.749999+00
+629,Yanti Andi Ardiansyah,3728********1628,Indonesia,,2026-01-15 14:24:22.749999+00
+630,Nurul Rina Pratama,3729********1629,Indonesia,,2026-01-15 14:24:22.749999+00
+631,Wahyu Sigit Saputra,3730********1630,Indonesia,,2026-01-15 14:24:22.749999+00
+632,Andi Suharto,3731********1631,Indonesia,,2026-01-15 14:24:22.749999+00
+633,Bambang Kusuma,3732********1632,China,,2026-01-15 14:24:22.749999+00
+634,Eko Saputra,3733********1633,Singapore,,2026-01-15 14:24:22.749999+00
+635,Wulan Cahya,3734********1634,Indonesia,,2026-01-15 14:24:22.749999+00
+636,Andi Ramadhan,3735********1635,Indonesia,,2026-01-15 14:24:22.749999+00
+637,Tri Hendro Hermawan,3736********1636,Indonesia,,2026-01-15 14:24:22.749999+00
+638,Nita Aditya,3737********1637,Indonesia,,2026-01-15 14:24:22.749999+00
+639,Sari Pratama,3738********1638,Indonesia,,2026-01-15 14:24:22.749999+00
+640,Fitri Ahmad Kusumo,3739********1639,Indonesia,,2026-01-15 14:24:22.749999+00
+641,Rina Yulia Kusumo,3740********1640,Indonesia,,2026-01-15 14:24:22.749999+00
+642,Bambang Nurul Firmansyah,3741********1641,Indonesia,,2026-01-15 14:24:22.749999+00
+643,Wulan Bambang Mahendra,3742********1642,Indonesia,,2026-01-15 14:24:22.749999+00
+644,Taufik Yulia Santoso,3743********1643,Indonesia,,2026-01-15 14:24:22.749999+00
+645,Dian Yanti Raharjo,3744********1644,Indonesia,,2026-01-15 14:24:22.749999+00
+646,Rizki Dwi Surya,3745********1645,Indonesia,,2026-01-15 14:24:22.749999+00
+647,Rina Rina Purwanto,3746********1646,Indonesia,,2026-01-15 14:24:22.749999+00
+648,Ahmad Firmansyah,3747********1647,Indonesia,,2026-01-15 14:24:22.749999+00
+649,Rizki Surya,3748********1648,Indonesia,,2026-01-15 14:24:22.749999+00
+650,Eko Wibowo,3749********1649,Indonesia,,2026-01-15 14:24:22.749999+00
+651,Putri Sri Susanto,3750********1650,Indonesia,,2026-01-15 14:24:22.749999+00
+652,Hendra Yulia Prasetyo,3751********1651,Indonesia,Beneficial Owner #652,2026-01-15 14:24:22.749999+00
+653,Rizki Purwanto,3752********1652,Indonesia,,2026-01-15 14:24:22.749999+00
+654,Sigit Kusumo,3753********1653,Indonesia,,2026-01-15 14:24:22.749999+00
+655,Tri Pratama,3754********1654,Indonesia,,2026-01-15 14:24:22.749999+00
+656,Taufik Ramadhan,3755********1655,Indonesia,,2026-01-15 14:24:22.749999+00
+657,Hendro Indah Nugroho,3756********1656,Indonesia,,2026-01-15 14:24:22.749999+00
+658,Adi Lestari Cahya,3757********1657,Indonesia,,2026-01-15 14:24:22.749999+00
+659,Yanti Nugroho,3758********1658,Japan,,2026-01-15 14:24:22.749999+00
+660,Hadi Yulia Saputra,3759********1659,Indonesia,Beneficial Owner #660,2026-01-15 14:24:22.749999+00
+661,Lestari Agus Hermawan,3760********1660,Indonesia,,2026-01-15 14:24:22.749999+00
+662,Joko Gunawan,3761********1661,Indonesia,Beneficial Owner #662,2026-01-15 14:24:22.749999+00
+663,Rina Rudi Gunawan,3762********1662,Singapore,,2026-01-15 14:24:22.749999+00
+664,Putri Dian Utomo,3763********1663,Indonesia,,2026-01-15 14:24:22.749999+00
+665,Wishnu Pratama,3764********1664,Indonesia,Beneficial Owner #665,2026-01-15 14:24:22.749999+00
+666,Dewi Susanto,3765********1665,Indonesia,,2026-01-15 14:24:22.749999+00
+667,Fitri Tri Mahendra,3766********1666,Indonesia,,2026-01-15 14:24:22.749999+00
+668,Rizki Rina Suharto,3767********1667,Indonesia,,2026-01-15 14:24:22.749999+00
+669,Joko Irwan Cahya,3768********1668,Indonesia,,2026-01-15 14:24:22.749999+00
+670,Dian Susanto,3769********1669,Indonesia,,2026-01-15 14:24:22.749999+00
+671,Nita Mahendra,3770********1670,Indonesia,Beneficial Owner #671,2026-01-15 14:24:22.749999+00
+672,Indah Dwi Ramadhan,3771********1671,Indonesia,,2026-01-15 14:24:22.749999+00
+673,Putri Nurul Suryanto,3772********1672,Japan,,2026-01-15 14:24:22.749999+00
+674,Rizki Siti Raharjo,3773********1673,Indonesia,Beneficial Owner #674,2026-01-15 14:24:22.749999+00
+675,Feri Kurnia Hermawan,3774********1674,Indonesia,,2026-01-15 14:24:22.749999+00
+676,Feri Wahyu Mahendra,3775********1675,Indonesia,,2026-01-15 14:24:22.749999+00
+677,Wulan Dewi Hermawan,3776********1676,Singapore,,2026-01-15 14:24:22.749999+00
+678,Hendra Nugroho,3777********1677,Indonesia,,2026-01-15 14:24:22.749999+00
+679,Fitri Kusuma,3778********1678,Indonesia,,2026-01-15 14:24:22.749999+00
+680,Indah Indah Wibowo,3779********1679,Indonesia,,2026-01-15 14:24:22.749999+00
+681,Ahmad Mahendra,3780********1680,Indonesia,,2026-01-15 14:24:22.749999+00
+682,Wishnu Ardiansyah,3781********1681,Indonesia,,2026-01-15 14:24:22.749999+00
+683,Yulia Suharto,3782********1682,Indonesia,,2026-01-15 14:24:22.749999+00
+684,Dewi Hendra Hartono,3783********1683,Indonesia,,2026-01-15 14:24:22.749999+00
+685,Hendro Siti Prasetyo,3784********1684,Indonesia,,2026-01-15 14:24:22.749999+00
+686,Hendro Pratama,3785********1685,Indonesia,Beneficial Owner #686,2026-01-15 14:24:22.749999+00
+687,Wati Joko Setiawan,3786********1686,Indonesia,,2026-01-15 14:24:22.749999+00
+688,Rina Utomo,3787********1687,Indonesia,Beneficial Owner #688,2026-01-15 14:24:22.749999+00
+689,Dwi Ardiansyah,3788********1688,Indonesia,Beneficial Owner #689,2026-01-15 14:24:22.749999+00
+690,Sari Firmansyah,3789********1689,Indonesia,,2026-01-15 14:24:22.749999+00
+691,Rudi Suharto,3790********1690,Indonesia,,2026-01-15 14:24:22.749999+00
+692,Rizki Nugroho,3791********1691,Malaysia,Beneficial Owner #692,2026-01-15 14:24:22.749999+00
+693,Wishnu Cahya,3792********1692,Indonesia,,2026-01-15 14:24:22.749999+00
+694,Taufik Adi Setiawan,3793********1693,Indonesia,,2026-01-15 14:24:22.749999+00
+695,Hendro Firmansyah,3794********1694,Indonesia,,2026-01-15 14:24:22.749999+00
+696,Ahmad Purwanto,3795********1695,Indonesia,,2026-01-15 14:24:22.749999+00
+697,Fitri Hendro Cahya,3796********1696,Indonesia,,2026-01-15 14:24:22.749999+00
+698,Adi Gunawan,3797********1697,Indonesia,,2026-01-15 14:24:22.749999+00
+699,Nurul Sri Ramadhan,3798********1698,Indonesia,Beneficial Owner #699,2026-01-15 14:24:22.749999+00
+700,Fitri Dwi Setiawan,3799********1699,Indonesia,Beneficial Owner #700,2026-01-15 14:24:22.749999+00
+701,Agus Prabowo,3800********1700,Indonesia,Beneficial Owner #701,2026-01-15 14:24:22.749999+00
+702,Fitri Firmansyah,3801********1701,Indonesia,,2026-01-15 14:24:22.749999+00
+703,Tri Eko Wibowo,3802********1702,Indonesia,Beneficial Owner #703,2026-01-15 14:24:22.749999+00
+704,Rina Yanti Ardiansyah,3803********1703,Indonesia,Beneficial Owner #704,2026-01-15 14:24:22.749999+00
+705,Irwan Suryanto,3804********1704,Indonesia,,2026-01-15 14:24:22.749999+00
+706,Wulan Firmansyah,3805********1705,Indonesia,Beneficial Owner #706,2026-01-15 14:24:22.749999+00
+707,Lestari Wijaya,3806********1706,Indonesia,Beneficial Owner #707,2026-01-15 14:24:22.749999+00
+708,Wati Andi Aditya,3807********1707,Indonesia,,2026-01-15 14:24:22.749999+00
+709,Taufik Taufik Cahya,3808********1708,Indonesia,Beneficial Owner #709,2026-01-15 14:24:22.749999+00
+710,Agus Saputra,3809********1709,Indonesia,Beneficial Owner #710,2026-01-15 14:24:22.749999+00
+711,Rizki Yanti Prabowo,3810********1710,China,,2026-01-15 14:24:22.749999+00
+712,Adi Budi Gunawan,3811********1711,Indonesia,,2026-01-15 14:24:22.749999+00
+713,Wahyu Eko Ramadhan,3812********1712,Indonesia,Beneficial Owner #713,2026-01-15 14:24:22.749999+00
+714,Irwan Taufik Suharto,3813********1713,Indonesia,,2026-01-15 14:24:22.749999+00
+715,Taufik Sigit Surya,3814********1714,Indonesia,,2026-01-15 14:24:22.749999+00
+716,Fitri Ratna Wijaya,3815********1715,Netherlands,,2026-01-15 14:24:22.749999+00
+717,Siti Aditya,3816********1716,Indonesia,,2026-01-15 14:24:22.749999+00
+718,Tri Suryanto,3817********1717,Indonesia,Beneficial Owner #718,2026-01-15 14:24:22.749999+00
+719,Rudi Susanto,3818********1718,China,,2026-01-15 14:24:22.749999+00
+720,Dwi Prabowo,3819********1719,Indonesia,,2026-01-15 14:24:22.749999+00
+721,Irwan Wishnu Prasetyo,3820********1720,Indonesia,,2026-01-15 14:24:22.749999+00
+722,Taufik Hermawan,3821********1721,Indonesia,,2026-01-15 14:24:22.749999+00
+723,Maya Wulan Kusumo,3822********1722,China,,2026-01-15 14:24:22.749999+00
+724,Dwi Hendra Suharto,3823********1723,Indonesia,,2026-01-15 14:24:22.749999+00
+725,Kurnia Permana,3824********1724,Indonesia,,2026-01-15 14:24:22.749999+00
+726,Fitri Prasetyo,3825********1725,Indonesia,,2026-01-15 14:24:22.749999+00
+727,Sri Irwan Setiawan,3826********1726,Malaysia,,2026-01-15 14:24:22.749999+00
+728,Kurnia Prasetyo,3827********1727,Indonesia,Beneficial Owner #728,2026-01-15 14:24:22.749999+00
+729,Budi Pratama,3828********1728,Indonesia,,2026-01-15 14:24:22.749999+00
+730,Hadi Setiawan,3829********1729,Japan,,2026-01-15 14:24:22.749999+00
+731,Bambang Aditya,3830********1730,Indonesia,,2026-01-15 14:24:22.749999+00
+732,Sari Nita Hermawan,3831********1731,Indonesia,,2026-01-15 14:24:22.749999+00
+733,Hendra Wijaya,3832********1732,Singapore,,2026-01-15 14:24:22.749999+00
+734,Hendro Wati Saputra,3833********1733,Netherlands,Beneficial Owner #734,2026-01-15 14:24:22.749999+00
+735,Sigit Fitri Susanto,3834********1734,Indonesia,,2026-01-15 14:24:22.749999+00
+736,Ratna Kurnia Raharjo,3835********1735,Indonesia,,2026-01-15 14:24:22.749999+00
+737,Dwi Gunawan,3836********1736,Indonesia,,2026-01-15 14:24:22.749999+00
+738,Rina Kusumo,3837********1737,Indonesia,,2026-01-15 14:24:22.749999+00
+739,Adi Prabowo,3838********1738,Indonesia,,2026-01-15 14:24:22.749999+00
+740,Tri Dwi Saputra,3839********1739,Indonesia,,2026-01-15 14:24:22.749999+00
+741,Budi Ramadhan,3840********1740,Indonesia,,2026-01-15 14:24:22.749999+00
+742,Hadi Santoso,3841********1741,Indonesia,Beneficial Owner #742,2026-01-15 14:24:22.749999+00
+743,Adi Wijaya,3842********1742,Indonesia,,2026-01-15 14:24:22.749999+00
+744,Andi Kusumo,3843********1743,Indonesia,Beneficial Owner #744,2026-01-15 14:24:22.749999+00
+745,Rizki Nugroho,3844********1744,Indonesia,,2026-01-15 14:24:22.749999+00
+746,Kurnia Kurnia Aditya,3845********1745,Indonesia,,2026-01-15 14:24:22.749999+00
+747,Ahmad Utomo,3846********1746,Indonesia,,2026-01-15 14:24:22.749999+00
+748,Rina Susanto,3847********1747,Indonesia,Beneficial Owner #748,2026-01-15 14:24:22.749999+00
+749,Indah Yulia Purwanto,3848********1748,Indonesia,Beneficial Owner #749,2026-01-15 14:24:22.749999+00
+750,Dian Suharto,3849********1749,Indonesia,,2026-01-15 14:24:22.749999+00
+751,Yanti Ramadhan,3850********1750,Indonesia,Beneficial Owner #751,2026-01-15 14:24:22.749999+00
+752,Indah Wijaya,3851********1751,Indonesia,,2026-01-15 14:24:22.749999+00
+753,Hadi Saputra,3852********1752,Indonesia,,2026-01-15 14:24:22.749999+00
+754,Rizki Sri Prabowo,3853********1753,Indonesia,,2026-01-15 14:24:22.749999+00
+755,Hadi Hermawan,3854********1754,Indonesia,Beneficial Owner #755,2026-01-15 14:24:22.749999+00
+756,Dewi Tri Santoso,3855********1755,Indonesia,,2026-01-15 14:24:22.749999+00
+757,Budi Nugroho,3856********1756,Singapore,,2026-01-15 14:24:22.749999+00
+758,Dwi Aditya,3857********1757,China,,2026-01-15 14:24:22.749999+00
+759,Nurul Yulia Utomo,3858********1758,Japan,,2026-01-15 14:24:22.749999+00
+760,Sri Ramadhan,3859********1759,Indonesia,,2026-01-15 14:24:22.749999+00
+761,Irwan Hidayat,3860********1760,Indonesia,Beneficial Owner #761,2026-01-15 14:24:22.749999+00
+762,Wati Wishnu Ramadhan,3861********1761,Indonesia,,2026-01-15 14:24:22.749999+00
+763,Lestari Hartono,3862********1762,Indonesia,Beneficial Owner #763,2026-01-15 14:24:22.749999+00
+764,Yanti Hidayat,3863********1763,Indonesia,,2026-01-15 14:24:22.749999+00
+765,Wishnu Feri Surya,3864********1764,Indonesia,,2026-01-15 14:24:22.749999+00
+766,Dwi Gunawan,3865********1765,Indonesia,,2026-01-15 14:24:22.749999+00
+767,Indah Suryanto,3866********1766,Netherlands,,2026-01-15 14:24:22.749999+00
+768,Ahmad Raharjo,3867********1767,Indonesia,,2026-01-15 14:24:22.749999+00
+769,Wati Pratama,3868********1768,Indonesia,,2026-01-15 14:24:22.749999+00
+770,Andi Kusumo,3869********1769,Indonesia,,2026-01-15 14:24:22.749999+00
+771,Agus Pratama,3870********1770,Indonesia,,2026-01-15 14:24:22.749999+00
+772,Wishnu Indah Hartono,3871********1771,Indonesia,,2026-01-15 14:24:22.749999+00
+773,Bambang Prasetyo,3872********1772,Indonesia,,2026-01-15 14:24:22.749999+00
+774,Yulia Hidayat,3873********1773,Indonesia,,2026-01-15 14:24:22.749999+00
+775,Feri Wati Prasetyo,3874********1774,Indonesia,,2026-01-15 14:24:22.749999+00
+776,Tri Ahmad Hartono,3875********1775,Indonesia,,2026-01-15 14:24:22.749999+00
+777,Sari Utomo,3876********1776,China,,2026-01-15 14:24:22.749999+00
+778,Budi Adi Wijaya,3877********1777,Indonesia,,2026-01-15 14:24:22.749999+00
+779,Yanti Agus Raharjo,3878********1778,Indonesia,,2026-01-15 14:24:22.749999+00
+780,Rina Surya,3879********1779,Indonesia,,2026-01-15 14:24:22.749999+00
+781,Putri Wijaya,3880********1780,Indonesia,,2026-01-15 14:24:22.749999+00
+782,Hadi Wijaya,3881********1781,Indonesia,,2026-01-15 14:24:22.749999+00
+783,Kurnia Permana,3882********1782,Indonesia,,2026-01-15 14:24:22.749999+00
+784,Ahmad Hartono,3883********1783,Indonesia,,2026-01-15 14:24:22.749999+00
+785,Ahmad Susanto,3884********1784,Indonesia,,2026-01-15 14:24:22.749999+00
+786,Wulan Ardiansyah,3885********1785,Singapore,,2026-01-15 14:24:22.749999+00
+787,Dian Wishnu Kusumo,3886********1786,Japan,,2026-01-15 14:24:22.749999+00
+788,Hadi Rudi Saputra,3887********1787,Indonesia,,2026-01-15 14:24:22.749999+00
+789,Putri Utomo,3888********1788,Indonesia,,2026-01-15 14:24:22.749999+00
+790,Sari Ramadhan,3889********1789,Indonesia,Beneficial Owner #790,2026-01-15 14:24:22.749999+00
+791,Ahmad Fitri Suharto,3890********1790,Indonesia,,2026-01-15 14:24:22.749999+00
+792,Adi Hadi Saputra,3891********1791,Indonesia,,2026-01-15 14:24:22.749999+00
+793,Sigit Raharjo,3892********1792,Indonesia,,2026-01-15 14:24:22.749999+00
+794,Wati Suharto,3893********1793,Indonesia,,2026-01-15 14:24:22.749999+00
+795,Irwan Indah Surya,3894********1794,Indonesia,,2026-01-15 14:24:22.749999+00
+796,Rudi Gunawan,3895********1795,Indonesia,,2026-01-15 14:24:22.749999+00
+797,Irwan Dewi Nugroho,3896********1796,Indonesia,,2026-01-15 14:24:22.749999+00
+798,Agus Budi Prabowo,3897********1797,Indonesia,,2026-01-15 14:24:22.749999+00
+799,Hendro Raharjo,3898********1798,Indonesia,Beneficial Owner #799,2026-01-15 14:24:22.749999+00
+800,Indah Prabowo,3899********1799,Indonesia,,2026-01-15 14:24:22.749999+00
+801,Rudi Ramadhan,3900********1800,Indonesia,,2026-01-15 14:24:22.749999+00
+802,Irwan Nugroho,3901********1801,Indonesia,,2026-01-15 14:24:22.749999+00
+803,Yulia Dwi Purwanto,3902********1802,Indonesia,Beneficial Owner #803,2026-01-15 14:24:22.749999+00
+804,Siti Kurnia Pratama,3903********1803,Indonesia,,2026-01-15 14:24:22.749999+00
+805,Rudi Ramadhan,3904********1804,Indonesia,,2026-01-15 14:24:22.749999+00
+806,Tri Siti Raharjo,3905********1805,Indonesia,,2026-01-15 14:24:22.749999+00
+807,Eko Ardiansyah,3906********1806,Indonesia,,2026-01-15 14:24:22.749999+00
+808,Wishnu Ramadhan,3907********1807,Indonesia,,2026-01-15 14:24:22.749999+00
+809,Sri Rina Raharjo,3908********1808,Indonesia,,2026-01-15 14:24:22.749999+00
+810,Yulia Aditya,3909********1809,Indonesia,,2026-01-15 14:24:22.749999+00
+811,Adi Bambang Permana,3910********1810,Indonesia,Beneficial Owner #811,2026-01-15 14:24:22.749999+00
+812,Wulan Maya Wibowo,3911********1811,Indonesia,,2026-01-15 14:24:22.749999+00
+813,Sigit Susanto,3912********1812,Malaysia,,2026-01-15 14:24:22.749999+00
+814,Putri Hermawan,3913********1813,Indonesia,,2026-01-15 14:24:22.749999+00
+815,Rudi Raharjo,3914********1814,Indonesia,,2026-01-15 14:24:22.749999+00
+816,Fitri Irwan Cahya,3915********1815,Indonesia,Beneficial Owner #816,2026-01-15 14:24:22.749999+00
+817,Ratna Budi Wijaya,3916********1816,Indonesia,,2026-01-15 14:24:22.749999+00
+818,Rudi Dewi Wijaya,3917********1817,Indonesia,,2026-01-15 14:24:22.749999+00
+819,Sigit Budi Wibowo,3918********1818,Indonesia,,2026-01-15 14:24:22.749999+00
+820,Yulia Wahyu Prabowo,3919********1819,Indonesia,,2026-01-15 14:24:22.749999+00
+821,Dewi Nugroho,3920********1820,Indonesia,,2026-01-15 14:24:22.749999+00
+822,Hendro Ramadhan,3921********1821,Indonesia,Beneficial Owner #822,2026-01-15 14:24:22.749999+00
+823,Hendro Adi Cahya,3922********1822,Indonesia,,2026-01-15 14:24:22.749999+00
+824,Wishnu Nita Putra,3923********1823,Indonesia,,2026-01-15 14:24:22.749999+00
+825,Agus Susanto,3924********1824,Indonesia,,2026-01-15 14:24:22.749999+00
+826,Wulan Firmansyah,3925********1825,Indonesia,,2026-01-15 14:24:22.749999+00
+827,Rizki Kurnia Raharjo,3926********1826,Indonesia,Beneficial Owner #827,2026-01-15 14:24:22.749999+00
+828,Rina Andi Firmansyah,3927********1827,Malaysia,Beneficial Owner #828,2026-01-15 14:24:22.749999+00
+829,Nita Kusumo,3928********1828,Indonesia,Beneficial Owner #829,2026-01-15 14:24:22.749999+00
+830,Hendro Nurul Nugroho,3929********1829,Indonesia,Beneficial Owner #830,2026-01-15 14:24:22.749999+00
+831,Hendro Purwanto,3930********1830,Indonesia,,2026-01-15 14:24:22.749999+00
+832,Hadi Santoso,3931********1831,Indonesia,,2026-01-15 14:24:22.749999+00
+833,Eko Wishnu Aditya,3932********1832,Indonesia,,2026-01-15 14:24:22.749999+00
+834,Ratna Kurnia Kusuma,3933********1833,Indonesia,,2026-01-15 14:24:22.749999+00
+835,Lestari Hartono,3934********1834,Indonesia,,2026-01-15 14:24:22.749999+00
+836,Wahyu Tri Purwanto,3935********1835,Indonesia,,2026-01-15 14:24:22.749999+00
+837,Yulia Rina Aditya,3936********1836,Indonesia,,2026-01-15 14:24:22.749999+00
+838,Adi Wulan Santoso,3937********1837,Indonesia,,2026-01-15 14:24:22.749999+00
+839,Rudi Ramadhan,3938********1838,Indonesia,,2026-01-15 14:24:22.749999+00
+840,Feri Hartono,3939********1839,Indonesia,,2026-01-15 14:24:22.749999+00
+841,Tri Tri Saputra,3940********1840,Indonesia,,2026-01-15 14:24:22.749999+00
+842,Dwi Maya Prasetyo,3941********1841,Indonesia,Beneficial Owner #842,2026-01-15 14:24:22.749999+00
+843,Dewi Indah Purwanto,3942********1842,Indonesia,,2026-01-15 14:24:22.749999+00
+844,Dian Firmansyah,3943********1843,Indonesia,,2026-01-15 14:24:22.749999+00
+845,Kurnia Setiawan,3944********1844,Malaysia,,2026-01-15 14:24:22.749999+00
+846,Adi Raharjo,3945********1845,Indonesia,,2026-01-15 14:24:22.749999+00
+847,Lestari Sari Hartono,3946********1846,Netherlands,,2026-01-15 14:24:22.749999+00
+848,Wahyu Mahendra,3947********1847,Netherlands,,2026-01-15 14:24:22.749999+00
+849,Andi Yanti Surya,3948********1848,Indonesia,,2026-01-15 14:24:22.749999+00
+850,Ratna Sari Hartono,3949********1849,Indonesia,Beneficial Owner #850,2026-01-15 14:24:22.749999+00
+851,Andi Hadi Firmansyah,3950********1850,Indonesia,,2026-01-15 14:24:22.749999+00
+852,Ratna Rizki Susanto,3951********1851,Indonesia,,2026-01-15 14:24:22.749999+00
+853,Tri Putri Utomo,3952********1852,Indonesia,,2026-01-15 14:24:22.749999+00
+854,Rizki Permana,3953********1853,China,,2026-01-15 14:24:22.749999+00
+855,Hendra Kusumo,3954********1854,Indonesia,,2026-01-15 14:24:22.749999+00
+856,Budi Agus Santoso,3955********1855,Indonesia,,2026-01-15 14:24:22.749999+00
+857,Rina Andi Firmansyah,3956********1856,Indonesia,,2026-01-15 14:24:22.749999+00
+858,Rina Putra,3957********1857,Indonesia,,2026-01-15 14:24:22.749999+00
+859,Dewi Hadi Ramadhan,3958********1858,Indonesia,,2026-01-15 14:24:22.749999+00
+860,Agus Sri Raharjo,3959********1859,Indonesia,,2026-01-15 14:24:22.749999+00
+861,Maya Putra,3960********1860,Indonesia,Beneficial Owner #861,2026-01-15 14:24:22.749999+00
+862,Wulan Kusumo,3961********1861,Indonesia,,2026-01-15 14:24:22.749999+00
+863,Eko Permana,3962********1862,Singapore,,2026-01-15 14:24:22.749999+00
+864,Wishnu Putra,3963********1863,Japan,,2026-01-15 14:24:22.749999+00
+865,Nurul Indah Mahendra,3964********1864,Indonesia,,2026-01-15 14:24:22.749999+00
+866,Agus Wibowo,3965********1865,Indonesia,Beneficial Owner #866,2026-01-15 14:24:22.749999+00
+867,Lestari Agus Surya,3966********1866,Indonesia,,2026-01-15 14:24:22.749999+00
+868,Lestari Nugroho,3967********1867,Japan,,2026-01-15 14:24:22.749999+00
+869,Ratna Siti Santoso,3968********1868,Malaysia,,2026-01-15 14:24:22.749999+00
+870,Sari Permana,3969********1869,Indonesia,,2026-01-15 14:24:22.749999+00
+871,Hadi Eko Wibowo,3970********1870,Indonesia,,2026-01-15 14:24:22.749999+00
+872,Taufik Taufik Surya,3971********1871,Indonesia,Beneficial Owner #872,2026-01-15 14:24:22.749999+00
+873,Nurul Adi Santoso,3972********1872,Indonesia,,2026-01-15 14:24:22.749999+00
+874,Andi Hendro Surya,3973********1873,Indonesia,,2026-01-15 14:24:22.749999+00
+875,Yulia Santoso,3974********1874,Indonesia,,2026-01-15 14:24:22.749999+00
+876,Sigit Gunawan,3975********1875,Singapore,,2026-01-15 14:24:22.749999+00
+877,Wishnu Budi Firmansyah,3976********1876,Indonesia,,2026-01-15 14:24:22.749999+00
+878,Ratna Hadi Gunawan,3977********1877,Indonesia,,2026-01-15 14:24:22.749999+00
+879,Putri Nugroho,3978********1878,Indonesia,,2026-01-15 14:24:22.749999+00
+880,Sari Taufik Cahya,3979********1879,Indonesia,,2026-01-15 14:24:22.749999+00
+881,Eko Permana,3980********1880,Indonesia,,2026-01-15 14:24:22.749999+00
+882,Wahyu Gunawan,3981********1881,Indonesia,,2026-01-15 14:24:22.749999+00
+883,Sari Yanti Ramadhan,3982********1882,Indonesia,,2026-01-15 14:24:22.749999+00
+884,Maya Sigit Wibowo,3983********1883,Singapore,,2026-01-15 14:24:22.749999+00
+885,Wishnu Siti Wibowo,3984********1884,Indonesia,,2026-01-15 14:24:22.749999+00
+886,Indah Bambang Raharjo,3985********1885,Indonesia,,2026-01-15 14:24:22.749999+00
+887,Wishnu Saputra,3986********1886,Indonesia,,2026-01-15 14:24:22.749999+00
+888,Yulia Dian Kusuma,3987********1887,Indonesia,Beneficial Owner #888,2026-01-15 14:24:22.749999+00
+889,Nita Pratama,3988********1888,Indonesia,,2026-01-15 14:24:22.749999+00
+890,Dian Yulia Firmansyah,3989********1889,Indonesia,,2026-01-15 14:24:22.749999+00
+891,Adi Prabowo,3990********1890,Singapore,,2026-01-15 14:24:22.749999+00
+892,Indah Nita Wibowo,3991********1891,Indonesia,,2026-01-15 14:24:22.749999+00
+893,Sigit Suryanto,3992********1892,Indonesia,,2026-01-15 14:24:22.749999+00
+894,Ratna Prabowo,3993********1893,Indonesia,,2026-01-15 14:24:22.749999+00
+895,Yanti Hartono,3994********1894,Indonesia,Beneficial Owner #895,2026-01-15 14:24:22.749999+00
+896,Ratna Setiawan,3995********1895,Indonesia,,2026-01-15 14:24:22.749999+00
+897,Dwi Gunawan,3996********1896,Indonesia,,2026-01-15 14:24:22.749999+00
+898,Irwan Prabowo,3997********1897,Indonesia,,2026-01-15 14:24:22.749999+00
+899,Sari Nurul Mahendra,3998********1898,Indonesia,Beneficial Owner #899,2026-01-15 14:24:22.749999+00
+900,Indah Dian Utomo,3999********1899,Indonesia,,2026-01-15 14:24:22.749999+00
+901,Hendro Hidayat,4000********1900,Indonesia,,2026-01-15 14:24:22.749999+00
+902,Agus Joko Raharjo,4001********1901,Indonesia,Beneficial Owner #902,2026-01-15 14:24:22.749999+00
+903,Wahyu Nurul Firmansyah,4002********1902,Indonesia,,2026-01-15 14:24:22.749999+00
+904,Irwan Sari Suharto,4003********1903,Indonesia,Beneficial Owner #904,2026-01-15 14:24:22.749999+00
+905,Wati Nurul Prasetyo,4004********1904,Indonesia,,2026-01-15 14:24:22.749999+00
+906,Sari Rudi Utomo,4005********1905,Indonesia,,2026-01-15 14:24:22.749999+00
+907,Dwi Saputra,4006********1906,Indonesia,Beneficial Owner #907,2026-01-15 14:24:22.749999+00
+908,Joko Prabowo,4007********1907,Indonesia,,2026-01-15 14:24:22.749999+00
+909,Budi Suharto,4008********1908,Indonesia,,2026-01-15 14:24:22.749999+00
+910,Hadi Ratna Aditya,4009********1909,Indonesia,,2026-01-15 14:24:22.749999+00
+911,Indah Raharjo,4010********1910,Singapore,,2026-01-15 14:24:22.749999+00
+912,Sigit Rina Surya,4011********1911,Indonesia,,2026-01-15 14:24:22.749999+00
+913,Hendra Putri Ardiansyah,4012********1912,Indonesia,Beneficial Owner #913,2026-01-15 14:24:22.749999+00
+914,Dian Wulan Hermawan,4013********1913,Indonesia,Beneficial Owner #914,2026-01-15 14:24:22.749999+00
+915,Wati Wati Raharjo,4014********1914,Indonesia,Beneficial Owner #915,2026-01-15 14:24:22.749999+00
+916,Wishnu Sri Raharjo,4015********1915,Indonesia,,2026-01-15 14:24:22.749999+00
+917,Sri Mahendra,4016********1916,Indonesia,,2026-01-15 14:24:22.749999+00
+918,Wahyu Purwanto,4017********1917,Indonesia,Beneficial Owner #918,2026-01-15 14:24:22.749999+00
+919,Tri Hermawan,4018********1918,Indonesia,,2026-01-15 14:24:22.749999+00
+920,Putri Suryanto,4019********1919,Indonesia,,2026-01-15 14:24:22.749999+00
+921,Dian Taufik Saputra,4020********1920,Indonesia,Beneficial Owner #921,2026-01-15 14:24:22.749999+00
+922,Dwi Purwanto,4021********1921,Indonesia,,2026-01-15 14:24:22.749999+00
+923,Rizki Ahmad Prabowo,4022********1922,Indonesia,,2026-01-15 14:24:22.749999+00
+924,Eko Putri Saputra,4023********1923,China,,2026-01-15 14:24:22.749999+00
+925,Sari Prabowo,4024********1924,Indonesia,Beneficial Owner #925,2026-01-15 14:24:22.749999+00
+926,Wahyu Hendro Gunawan,4025********1925,Indonesia,Beneficial Owner #926,2026-01-15 14:24:22.749999+00
+927,Dewi Santoso,4026********1926,Indonesia,Beneficial Owner #927,2026-01-15 14:24:22.749999+00
+928,Tri Hartono,4027********1927,Indonesia,,2026-01-15 14:24:22.749999+00
+929,Agus Suryanto,4028********1928,Indonesia,Beneficial Owner #929,2026-01-15 14:24:22.749999+00
+930,Bambang Pratama,4029********1929,Indonesia,,2026-01-15 14:24:22.749999+00
+931,Maya Wibowo,4030********1930,Indonesia,,2026-01-15 14:24:22.749999+00
+932,Joko Gunawan,4031********1931,Indonesia,,2026-01-15 14:24:22.749999+00
+933,Irwan Ratna Setiawan,4032********1932,Indonesia,,2026-01-15 14:24:22.749999+00
+934,Rudi Putra,4033********1933,Indonesia,Beneficial Owner #934,2026-01-15 14:24:22.749999+00
+935,Dian Purwanto,4034********1934,Indonesia,,2026-01-15 14:24:22.749999+00
+936,Rizki Putra,4035********1935,Indonesia,,2026-01-15 14:24:22.749999+00
+937,Putri Nita Ramadhan,4036********1936,Indonesia,Beneficial Owner #937,2026-01-15 14:24:22.749999+00
+938,Andi Pratama,4037********1937,Indonesia,,2026-01-15 14:24:22.749999+00
+939,Rina Joko Surya,4038********1938,Indonesia,Beneficial Owner #939,2026-01-15 14:24:22.749999+00
+940,Lestari Ahmad Ramadhan,4039********1939,Indonesia,,2026-01-15 14:24:22.749999+00
+941,Ratna Kusumo,4040********1940,Indonesia,,2026-01-15 14:24:22.749999+00
+942,Yulia Saputra,4041********1941,Indonesia,,2026-01-15 14:24:22.749999+00
+943,Hadi Suryanto,4042********1942,Malaysia,,2026-01-15 14:24:22.749999+00
+944,Wati Tri Wibowo,4043********1943,Indonesia,,2026-01-15 14:24:22.749999+00
+945,Taufik Hendro Mahendra,4044********1944,Indonesia,Beneficial Owner #945,2026-01-15 14:24:22.749999+00
+946,Yanti Hendra Putra,4045********1945,Indonesia,,2026-01-15 14:24:22.749999+00
+947,Nita Rizki Hermawan,4046********1946,Singapore,,2026-01-15 14:24:22.749999+00
+948,Hendra Wishnu Putra,4047********1947,Indonesia,,2026-01-15 14:24:22.749999+00
+949,Maya Ratna Aditya,4048********1948,Indonesia,Beneficial Owner #949,2026-01-15 14:24:22.749999+00
+950,Feri Pratama,4049********1949,Japan,Beneficial Owner #950,2026-01-15 14:24:22.749999+00
+951,Joko Maya Setiawan,4050********1950,Indonesia,,2026-01-15 14:24:22.749999+00
+952,Lestari Purwanto,4051********1951,Indonesia,Beneficial Owner #952,2026-01-15 14:24:22.749999+00
+953,Irwan Ramadhan,4052********1952,Indonesia,,2026-01-15 14:24:22.749999+00
+954,Sari Setiawan,4053********1953,Indonesia,Beneficial Owner #954,2026-01-15 14:24:22.749999+00
+955,Fitri Wijaya,4054********1954,Malaysia,,2026-01-15 14:24:22.749999+00
+956,Sri Dian Ardiansyah,4055********1955,Indonesia,,2026-01-15 14:24:22.749999+00
+957,Nurul Maya Ardiansyah,4056********1956,Indonesia,,2026-01-15 14:24:22.749999+00
+958,Siti Bambang Nugroho,4057********1957,Indonesia,Beneficial Owner #958,2026-01-15 14:24:22.749999+00
+959,Kurnia Sari Wibowo,4058********1958,Indonesia,Beneficial Owner #959,2026-01-15 14:24:22.749999+00
+960,Adi Purwanto,4059********1959,Indonesia,,2026-01-15 14:24:22.749999+00
+961,Eko Prasetyo,4060********1960,China,,2026-01-15 14:24:22.749999+00
+962,Maya Ahmad Wibowo,4061********1961,Indonesia,,2026-01-15 14:24:22.749999+00
+963,Dewi Sigit Mahendra,4062********1962,Indonesia,Beneficial Owner #963,2026-01-15 14:24:22.749999+00
+964,Hadi Agus Kusuma,4063********1963,Indonesia,,2026-01-15 14:24:22.749999+00
+965,Dewi Cahya,4064********1964,Indonesia,,2026-01-15 14:24:22.749999+00
+966,Andi Nita Setiawan,4065********1965,Malaysia,Beneficial Owner #966,2026-01-15 14:24:22.749999+00
+967,Feri Sari Hartono,4066********1966,Indonesia,,2026-01-15 14:24:22.749999+00
+968,Nita Rina Pratama,4067********1967,Indonesia,,2026-01-15 14:24:22.749999+00
+969,Sari Putra,4068********1968,Indonesia,,2026-01-15 14:24:22.749999+00
+970,Hendro Nugroho,4069********1969,Indonesia,,2026-01-15 14:24:22.749999+00
+971,Yulia Hadi Suharto,4070********1970,Indonesia,Beneficial Owner #971,2026-01-15 14:24:22.749999+00
+972,Wulan Rudi Wijaya,4071********1971,Indonesia,,2026-01-15 14:24:22.749999+00
+973,Irwan Wijaya,4072********1972,Netherlands,,2026-01-15 14:24:22.749999+00
+974,Rizki Adi Suharto,4073********1973,Indonesia,,2026-01-15 14:24:22.749999+00
+975,Wati Dian Aditya,4074********1974,Indonesia,,2026-01-15 14:24:22.749999+00
+976,Hendro Nugroho,4075********1975,Indonesia,,2026-01-15 14:24:22.749999+00
+977,Lestari Tri Wibowo,4076********1976,Indonesia,,2026-01-15 14:24:22.749999+00
+978,Fitri Kusumo,4077********1977,Indonesia,Beneficial Owner #978,2026-01-15 14:24:22.749999+00
+979,Eko Aditya,4078********1978,Indonesia,,2026-01-15 14:24:22.749999+00
+980,Wati Gunawan,4079********1979,Indonesia,,2026-01-15 14:24:22.749999+00
+981,Yanti Bambang Mahendra,4080********1980,Indonesia,Beneficial Owner #981,2026-01-15 14:24:22.749999+00
+982,Nita Prasetyo,4081********1981,Indonesia,Beneficial Owner #982,2026-01-15 14:24:22.749999+00
+983,Siti Raharjo,4082********1982,Indonesia,,2026-01-15 14:24:22.749999+00
+984,Bambang Nita Saputra,4083********1983,Netherlands,,2026-01-15 14:24:22.749999+00
+985,Sri Wati Nugroho,4084********1984,Indonesia,,2026-01-15 14:24:22.749999+00
+986,Indah Cahya,4085********1985,Indonesia,,2026-01-15 14:24:22.749999+00
+987,Maya Cahya,4086********1986,Indonesia,,2026-01-15 14:24:22.749999+00
+988,Wulan Wijaya,4087********1987,Indonesia,,2026-01-15 14:24:22.749999+00
+989,Adi Joko Prasetyo,4088********1988,Indonesia,,2026-01-15 14:24:22.749999+00
+990,Lestari Hartono,4089********1989,Indonesia,,2026-01-15 14:24:22.749999+00
+991,Lestari Hermawan,4090********1990,Indonesia,Beneficial Owner #991,2026-01-15 14:24:22.749999+00
+992,Ahmad Eko Purwanto,4091********1991,Indonesia,,2026-01-15 14:24:22.749999+00
+993,Tri Agus Raharjo,4092********1992,Japan,,2026-01-15 14:24:22.749999+00
+994,Rina Dian Nugroho,4093********1993,Indonesia,,2026-01-15 14:24:22.749999+00
+995,Bambang Suryanto,4094********1994,Indonesia,,2026-01-15 14:24:22.749999+00
+996,Dian Santoso,4095********1995,Indonesia,,2026-01-15 14:24:22.749999+00
+997,Rizki Suharto,4096********1996,Indonesia,,2026-01-15 14:24:22.749999+00
+998,Rina Yanti Aditya,4097********1997,Indonesia,,2026-01-15 14:24:22.749999+00
+999,Nita Prabowo,4098********1998,Indonesia,,2026-01-15 14:24:22.749999+00
+1000,Lestari Suharto,4099********1999,Japan,,2026-01-15 14:24:22.749999+00

@@ -1,0 +1,501 @@
+id,name,sector,notes,extra_metadata,created_at
+1,Grup Firma Abadi Buana Sejahtera,Jasa Keuangan,Business group #1,{},2026-01-15 14:24:12.216582+00
+2,Grup Firma Lestari Abadi Prima,Properti,Business group #2,{},2026-01-15 14:24:12.216582+00
+3,Grup Gemilang Global,Properti,Business group #3,{},2026-01-15 14:24:12.216582+00
+4,Grup UD Berlian Mandiri Terpadu,Transportasi,Business group #4,{},2026-01-15 14:24:12.216582+00
+5,Grup Sentosa Mandiri Rajawali,Telekomunikasi,Business group #5,{},2026-01-15 14:24:12.216582+00
+6,Grup Koperasi Usaha Terpadu,Agrikultur,Business group #6,{},2026-01-15 14:24:12.216582+00
+7,Grup Tbk Abadi Prima,Transportasi,Business group #7,{},2026-01-15 14:24:12.216582+00
+8,Grup PD Jaya Berkah,Retail,Business group #8,{},2026-01-15 14:24:12.216582+00
+9,Grup PD Berlian Gemilang,Jasa Keuangan,Business group #9,{},2026-01-15 14:24:12.216582+00
+10,Grup Jaya Gemilang Utama,Retail,Business group #10,{},2026-01-15 14:24:12.216582+00
+11,Grup Firma Karya Utama,Pariwisata,Business group #11,{},2026-01-15 14:24:12.216582+00
+12,Grup Koperasi Mitra Nusantara Sejahtera,Pariwisata,Business group #12,{},2026-01-15 14:24:12.216582+00
+13,Grup Tbk Elang Lestari Astra,Retail,Business group #13,{},2026-01-15 14:24:12.216582+00
+14,Grup Sentosa Nusantara,Pendidikan,Business group #14,{},2026-01-15 14:24:12.216582+00
+15,Grup UD Terpadu Karya Indo,Telekomunikasi,Business group #15,{},2026-01-15 14:24:12.216582+00
+16,Grup PD Makmur Abadi Astra,Makanan & Minuman,Business group #16,{},2026-01-15 14:24:12.216582+00
+17,Grup Sinar Merak Pusaka,Perdagangan,Business group #17,{},2026-01-15 14:24:12.216582+00
+18,Grup Mitra Garuda Astra,Energi,Business group #18,{},2026-01-15 14:24:12.216582+00
+19,Grup Koperasi Karya Gemilang,Makanan & Minuman,Business group #19,{},2026-01-15 14:24:12.216582+00
+20,Grup Tbk Berlian Makmur,Makanan & Minuman,Business group #20,{},2026-01-15 14:24:12.216582+00
+21,Grup Koperasi Permata Nusantara,Konstruksi,Business group #21,{},2026-01-15 14:24:12.216582+00
+22,Grup Firma Mega Karya,Pariwisata,Business group #22,{},2026-01-15 14:24:12.216582+00
+23,Grup Perum Pusaka Utama Cendana,Konstruksi,Business group #23,{},2026-01-15 14:24:12.216582+00
+24,Grup Koperasi Bersama Mandiri,Manufaktur,Business group #24,{},2026-01-15 14:24:12.216582+00
+25,Grup Koperasi Sinar Berkah Utama,Energi,Business group #25,{},2026-01-15 14:24:12.216582+00
+26,Grup Global Prima Garuda,Pendidikan,Business group #26,{},2026-01-15 14:24:12.216582+00
+27,Grup Lestari Usaha Permata,Telekomunikasi,Business group #27,{},2026-01-15 14:24:12.216582+00
+28,Grup PD Terpadu Berkah,Pertambangan,Business group #28,{},2026-01-15 14:24:12.216582+00
+29,Grup Buana Sinar,Pariwisata,Business group #29,{},2026-01-15 14:24:12.216582+00
+30,Grup PD Utama Buana Terpadu,Telekomunikasi,Business group #30,{},2026-01-15 14:24:12.216582+00
+31,Grup UD Cipta Sentosa Utama,Agrikultur,Business group #31,{},2026-01-15 14:24:12.216582+00
+32,Grup Perum Intan Sejahtera Nusantara,Pariwisata,Business group #32,{},2026-01-15 14:24:12.216582+00
+33,Grup PD Intan Elang Pusaka,Transportasi,Business group #33,{},2026-01-15 14:24:12.216582+00
+34,Grup Koperasi Mega Astra Berlian,Retail,Business group #34,{},2026-01-15 14:24:12.216582+00
+35,Grup PD Makmur Permata Jaya,Konstruksi,Business group #35,{},2026-01-15 14:24:12.216582+00
+36,Grup Perum Usaha Buana Makmur,Pendidikan,Business group #36,{},2026-01-15 14:24:12.216582+00
+37,Grup Tbk Cendana Karya,Jasa Keuangan,Business group #37,{},2026-01-15 14:24:12.216582+00
+38,Grup Koperasi Pusaka Cendana,Agrikultur,Business group #38,{},2026-01-15 14:24:12.216582+00
+39,Grup PD Prima Sejahtera,Teknologi,Business group #39,{},2026-01-15 14:24:12.216582+00
+40,Grup Sentosa Merak,Pariwisata,Business group #40,{},2026-01-15 14:24:12.216582+00
+41,Grup Koperasi Nusantara Gemilang,Pendidikan,Business group #41,{},2026-01-15 14:24:12.216582+00
+42,Grup PD Nusantara Garuda,Telekomunikasi,Business group #42,{},2026-01-15 14:24:12.216582+00
+43,Grup Garuda Berkah Buana,Pariwisata,Business group #43,{},2026-01-15 14:24:12.216582+00
+44,Grup PD Mandiri Sejahtera Makmur,Perdagangan,Business group #44,{},2026-01-15 14:24:12.216582+00
+45,Grup Perum Karya Berkah,Pendidikan,Business group #45,{},2026-01-15 14:24:12.216582+00
+46,Grup Niaga Gemilang,Kesehatan,Business group #46,{},2026-01-15 14:24:12.216582+00
+47,Grup Pusaka Bersama Jaya,Pariwisata,Business group #47,{},2026-01-15 14:24:12.216582+00
+48,Grup Karya Mega Bersama,Konstruksi,Business group #48,{},2026-01-15 14:24:12.216582+00
+49,Grup Firma Cipta Buana,Pariwisata,Business group #49,{},2026-01-15 14:24:12.216582+00
+50,Grup UD Elang Sejahtera Gemilang,Makanan & Minuman,Business group #50,{},2026-01-15 14:24:12.216582+00
+51,Grup Bersama Terpadu,Jasa Keuangan,Business group #51,{},2026-01-15 14:24:12.216582+00
+52,Grup UD Usaha Buana,Retail,Business group #52,{},2026-01-15 14:24:12.216582+00
+53,Grup Koperasi Sentosa Utama Gemilang,Pendidikan,Business group #53,{},2026-01-15 14:24:12.216582+00
+54,Grup PD Merak Nusantara,Kesehatan,Business group #54,{},2026-01-15 14:24:12.216582+00
+55,Grup Prima Astra Sinar,Transportasi,Business group #55,{},2026-01-15 14:24:12.216582+00
+56,Grup Jaya Bersama Berlian,Energi,Business group #56,{},2026-01-15 14:24:12.216582+00
+57,Grup Koperasi Jaya Bersama Merak,Konstruksi,Business group #57,{},2026-01-15 14:24:12.216582+00
+58,Grup Firma Terpadu Rajawali,Manufaktur,Business group #58,{},2026-01-15 14:24:12.216582+00
+59,Grup Prima Elang Berlian,Transportasi,Business group #59,{},2026-01-15 14:24:12.216582+00
+60,Grup Perum Nusantara Makmur,Telekomunikasi,Business group #60,{},2026-01-15 14:24:12.216582+00
+61,Grup PD Astra Berkah Garuda,Manufaktur,Business group #61,{},2026-01-15 14:24:12.216582+00
+62,Grup Makmur Intan Garuda,Energi,Business group #62,{},2026-01-15 14:24:12.216582+00
+63,Grup Sentosa Mitra Prima,Agrikultur,Business group #63,{},2026-01-15 14:24:12.216582+00
+64,Grup Bersama Jaya,Teknologi,Business group #64,{},2026-01-15 14:24:12.216582+00
+65,Grup UD Sentosa Permata Merak,Pariwisata,Business group #65,{},2026-01-15 14:24:12.216582+00
+66,Grup Koperasi Nusantara Merak Sinar,Makanan & Minuman,Business group #66,{},2026-01-15 14:24:12.216582+00
+67,Grup Pusaka Mandiri Berkah,Teknologi,Business group #67,{},2026-01-15 14:24:12.216582+00
+68,Grup Tbk Niaga Elang Lestari,Kesehatan,Business group #68,{},2026-01-15 14:24:12.216582+00
+69,Grup Perum Sejahtera Indo Niaga,Teknologi,Business group #69,{},2026-01-15 14:24:12.216582+00
+70,Grup Koperasi Prima Nusantara Rajawali,Jasa Keuangan,Business group #70,{},2026-01-15 14:24:12.216582+00
+71,Grup Firma Niaga Prima Intan,Manufaktur,Business group #71,{},2026-01-15 14:24:12.216582+00
+72,Grup Koperasi Mandiri Mitra,Energi,Business group #72,{},2026-01-15 14:24:12.216582+00
+73,Grup Jaya Mitra Utama,Transportasi,Business group #73,{},2026-01-15 14:24:12.216582+00
+74,Grup Perum Indo Intan Prima,Transportasi,Business group #74,{},2026-01-15 14:24:12.216582+00
+75,Grup Intan Utama,Kesehatan,Business group #75,{},2026-01-15 14:24:12.216582+00
+76,Grup Tbk Permata Mitra,Transportasi,Business group #76,{},2026-01-15 14:24:12.216582+00
+77,Grup UD Bersama Terpadu,Properti,Business group #77,{},2026-01-15 14:24:12.216582+00
+78,Grup Mitra Berlian,Properti,Business group #78,{},2026-01-15 14:24:12.216582+00
+79,Grup Cendana Merak,Transportasi,Business group #79,{},2026-01-15 14:24:12.216582+00
+80,Grup Tbk Gemilang Abadi Berlian,Retail,Business group #80,{},2026-01-15 14:24:12.216582+00
+81,Grup Perum Cendana Sentosa Lestari,Jasa Keuangan,Business group #81,{},2026-01-15 14:24:12.216582+00
+82,Grup Sejahtera Mandiri,Agrikultur,Business group #82,{},2026-01-15 14:24:12.216582+00
+83,Grup Perum Gemilang Utama,Teknologi,Business group #83,{},2026-01-15 14:24:12.216582+00
+84,Grup Mega Sinar,Telekomunikasi,Business group #84,{},2026-01-15 14:24:12.216582+00
+85,Grup Rajawali Pusaka,Pariwisata,Business group #85,{},2026-01-15 14:24:12.216582+00
+86,Grup Berkah Berlian Gemilang,Retail,Business group #86,{},2026-01-15 14:24:12.216582+00
+87,Grup Firma Mega Cipta Sejahtera,Jasa Keuangan,Business group #87,{},2026-01-15 14:24:12.216582+00
+88,Grup Perum Permata Niaga,Agrikultur,Business group #88,{},2026-01-15 14:24:12.216582+00
+89,Grup Perum Makmur Berlian Karya,Pertambangan,Business group #89,{},2026-01-15 14:24:12.216582+00
+90,Grup Firma Permata Usaha,Makanan & Minuman,Business group #90,{},2026-01-15 14:24:12.216582+00
+91,Grup Mandiri Karya Mega,Telekomunikasi,Business group #91,{},2026-01-15 14:24:12.216582+00
+92,Grup PD Bersama Sinar Prima,Jasa Keuangan,Business group #92,{},2026-01-15 14:24:12.216582+00
+93,Grup Firma Niaga Astra Abadi,Energi,Business group #93,{},2026-01-15 14:24:12.216582+00
+94,Grup Gemilang Karya Merak,Transportasi,Business group #94,{},2026-01-15 14:24:12.216582+00
+95,Grup PD Terpadu Sentosa Gemilang,Kesehatan,Business group #95,{},2026-01-15 14:24:12.216582+00
+96,Grup Intan Global,Pariwisata,Business group #96,{},2026-01-15 14:24:12.216582+00
+97,Grup Astra Usaha Jaya,Telekomunikasi,Business group #97,{},2026-01-15 14:24:12.216582+00
+98,Grup Perum Terpadu Elang Indo,Telekomunikasi,Business group #98,{},2026-01-15 14:24:12.216582+00
+99,Grup Gemilang Permata Pusaka,Teknologi,Business group #99,{},2026-01-15 14:24:12.216582+00
+100,Grup Jaya Sejahtera Nusantara,Telekomunikasi,Business group #100,{},2026-01-15 14:24:12.216582+00
+101,Grup Bersama Makmur,Properti,Business group #101,{},2026-01-15 14:24:12.216582+00
+102,Grup Mega Cendana,Makanan & Minuman,Business group #102,{},2026-01-15 14:24:12.216582+00
+103,Grup Koperasi Global Rajawali Buana,Konstruksi,Business group #103,{},2026-01-15 14:24:12.216582+00
+104,Grup Perum Rajawali Mega Mitra,Properti,Business group #104,{},2026-01-15 14:24:12.216582+00
+105,Grup PD Global Rajawali Mandiri,Konstruksi,Business group #105,{},2026-01-15 14:24:12.216582+00
+106,Grup Tbk Cendana Buana,Jasa Keuangan,Business group #106,{},2026-01-15 14:24:12.216582+00
+107,Grup PD Merak Sinar,Perdagangan,Business group #107,{},2026-01-15 14:24:12.216582+00
+108,Grup UD Sejahtera Mega Cendana,Jasa Keuangan,Business group #108,{},2026-01-15 14:24:12.216582+00
+109,Grup Merak Global Bersama,Energi,Business group #109,{},2026-01-15 14:24:12.216582+00
+110,Grup Perum Niaga Pusaka,Perdagangan,Business group #110,{},2026-01-15 14:24:12.216582+00
+111,Grup PD Sentosa Garuda,Energi,Business group #111,{},2026-01-15 14:24:12.216582+00
+112,Grup Firma Berkah Prima,Teknologi,Business group #112,{},2026-01-15 14:24:12.216582+00
+113,Grup Firma Bersama Makmur,Properti,Business group #113,{},2026-01-15 14:24:12.216582+00
+114,Grup UD Gemilang Abadi Pusaka,Manufaktur,Business group #114,{},2026-01-15 14:24:12.216582+00
+115,Grup Global Mandiri,Kesehatan,Business group #115,{},2026-01-15 14:24:12.216582+00
+116,Grup Firma Mandiri Garuda,Makanan & Minuman,Business group #116,{},2026-01-15 14:24:12.216582+00
+117,Grup Cendana Bersama,Kesehatan,Business group #117,{},2026-01-15 14:24:12.216582+00
+118,Grup Firma Utama Sejahtera,Makanan & Minuman,Business group #118,{},2026-01-15 14:24:12.216582+00
+119,Grup UD Sentosa Utama Mitra,Kesehatan,Business group #119,{},2026-01-15 14:24:12.216582+00
+120,Grup Perum Cendana Prima Cipta,Kesehatan,Business group #120,{},2026-01-15 14:24:12.216582+00
+121,Grup Firma Cendana Gemilang,Makanan & Minuman,Business group #121,{},2026-01-15 14:24:12.216582+00
+122,Grup PD Indo Terpadu Jaya,Pertambangan,Business group #122,{},2026-01-15 14:24:12.216582+00
+123,Grup Tbk Cendana Nusantara Pusaka,Perdagangan,Business group #123,{},2026-01-15 14:24:12.216582+00
+124,Grup Koperasi Astra Prima Global,Kesehatan,Business group #124,{},2026-01-15 14:24:12.216582+00
+125,Grup Tbk Bersama Sejahtera,Konstruksi,Business group #125,{},2026-01-15 14:24:12.216582+00
+126,Grup PD Elang Prima,Pariwisata,Business group #126,{},2026-01-15 14:24:12.216582+00
+127,Grup Global Sentosa,Makanan & Minuman,Business group #127,{},2026-01-15 14:24:12.216582+00
+128,Grup PD Buana Indo,Pertambangan,Business group #128,{},2026-01-15 14:24:12.216582+00
+129,Grup PD Berlian Niaga Permata,Kesehatan,Business group #129,{},2026-01-15 14:24:12.216582+00
+130,Grup Koperasi Sinar Karya,Energi,Business group #130,{},2026-01-15 14:24:12.216582+00
+131,Grup Perum Indo Sinar Prima,Pendidikan,Business group #131,{},2026-01-15 14:24:12.216582+00
+132,Grup UD Berlian Cipta,Makanan & Minuman,Business group #132,{},2026-01-15 14:24:12.216582+00
+133,Grup UD Astra Mitra,Transportasi,Business group #133,{},2026-01-15 14:24:12.216582+00
+134,Grup UD Mandiri Cipta,Transportasi,Business group #134,{},2026-01-15 14:24:12.216582+00
+135,Grup Nusantara Usaha,Pertambangan,Business group #135,{},2026-01-15 14:24:12.216582+00
+136,Grup Nusantara Makmur,Telekomunikasi,Business group #136,{},2026-01-15 14:24:12.216582+00
+137,Grup Niaga Bersama,Jasa Keuangan,Business group #137,{},2026-01-15 14:24:12.216582+00
+138,Grup Tbk Merak Intan Cendana,Perdagangan,Business group #138,{},2026-01-15 14:24:12.216582+00
+139,Grup PD Mega Sentosa Pusaka,Energi,Business group #139,{},2026-01-15 14:24:12.216582+00
+140,Grup Firma Mandiri Jaya Sentosa,Telekomunikasi,Business group #140,{},2026-01-15 14:24:12.216582+00
+141,Grup UD Karya Cipta,Pariwisata,Business group #141,{},2026-01-15 14:24:12.216582+00
+142,Grup Tbk Buana Permata,Jasa Keuangan,Business group #142,{},2026-01-15 14:24:12.216582+00
+143,Grup Perum Nusantara Intan,Retail,Business group #143,{},2026-01-15 14:24:12.216582+00
+144,Grup UD Mandiri Makmur,Kesehatan,Business group #144,{},2026-01-15 14:24:12.216582+00
+145,Grup PD Global Berkah Merak,Perdagangan,Business group #145,{},2026-01-15 14:24:12.216582+00
+146,Grup Firma Jaya Gemilang Merak,Konstruksi,Business group #146,{},2026-01-15 14:24:12.216582+00
+147,Grup Perum Sentosa Bersama,Manufaktur,Business group #147,{},2026-01-15 14:24:12.216582+00
+148,Grup Koperasi Sinar Nusantara Global,Properti,Business group #148,{},2026-01-15 14:24:12.216582+00
+149,Grup Koperasi Buana Permata,Properti,Business group #149,{},2026-01-15 14:24:12.216582+00
+150,Grup Koperasi Mitra Usaha,Pendidikan,Business group #150,{},2026-01-15 14:24:12.216582+00
+151,Grup Tbk Intan Indo Utama,Perdagangan,Business group #151,{},2026-01-15 14:24:12.216582+00
+152,Grup Mitra Gemilang Elang,Telekomunikasi,Business group #152,{},2026-01-15 14:24:12.216582+00
+153,Grup Koperasi Permata Sinar Sejahtera,Perdagangan,Business group #153,{},2026-01-15 14:24:12.216582+00
+154,Grup Tbk Prima Nusantara,Telekomunikasi,Business group #154,{},2026-01-15 14:24:12.216582+00
+155,Grup Mega Gemilang Bersama,Energi,Business group #155,{},2026-01-15 14:24:12.216582+00
+156,Grup Tbk Astra Mega Niaga,Makanan & Minuman,Business group #156,{},2026-01-15 14:24:12.216582+00
+157,Grup UD Mega Merak Lestari,Konstruksi,Business group #157,{},2026-01-15 14:24:12.216582+00
+158,Grup Elang Niaga,Teknologi,Business group #158,{},2026-01-15 14:24:12.216582+00
+159,Grup Firma Gemilang Sejahtera,Pariwisata,Business group #159,{},2026-01-15 14:24:12.216582+00
+160,Grup Tbk Karya Jaya Rajawali,Teknologi,Business group #160,{},2026-01-15 14:24:12.216582+00
+161,Grup Perum Usaha Karya,Pariwisata,Business group #161,{},2026-01-15 14:24:12.216582+00
+162,Grup Koperasi Astra Niaga,Energi,Business group #162,{},2026-01-15 14:24:12.216582+00
+163,Grup UD Astra Abadi Gemilang,Retail,Business group #163,{},2026-01-15 14:24:12.216582+00
+164,Grup Perum Usaha Bersama,Teknologi,Business group #164,{},2026-01-15 14:24:12.216582+00
+165,Grup Perum Niaga Global,Makanan & Minuman,Business group #165,{},2026-01-15 14:24:12.216582+00
+166,Grup Astra Cendana,Manufaktur,Business group #166,{},2026-01-15 14:24:12.216582+00
+167,Grup Koperasi Bersama Buana Intan,Pertambangan,Business group #167,{},2026-01-15 14:24:12.216582+00
+168,Grup Cendana Intan Cipta,Konstruksi,Business group #168,{},2026-01-15 14:24:12.216582+00
+169,Grup Tbk Nusantara Bersama,Telekomunikasi,Business group #169,{},2026-01-15 14:24:12.216582+00
+170,Grup Koperasi Rajawali Global,Pertambangan,Business group #170,{},2026-01-15 14:24:12.216582+00
+171,Grup PD Elang Global Astra,Pendidikan,Business group #171,{},2026-01-15 14:24:12.216582+00
+172,Grup UD Mega Sinar Gemilang,Kesehatan,Business group #172,{},2026-01-15 14:24:12.216582+00
+173,Grup Tbk Gemilang Sentosa Cipta,Kesehatan,Business group #173,{},2026-01-15 14:24:12.216582+00
+174,Grup Perum Sejahtera Indo Lestari,Teknologi,Business group #174,{},2026-01-15 14:24:12.216582+00
+175,Grup UD Buana Bersama Elang,Pariwisata,Business group #175,{},2026-01-15 14:24:12.216582+00
+176,Grup Tbk Lestari Cendana Nusantara,Jasa Keuangan,Business group #176,{},2026-01-15 14:24:12.216582+00
+177,Grup Koperasi Makmur Karya Elang,Pariwisata,Business group #177,{},2026-01-15 14:24:12.216582+00
+178,Grup Firma Abadi Indo,Energi,Business group #178,{},2026-01-15 14:24:12.216582+00
+179,Grup Nusantara Garuda,Manufaktur,Business group #179,{},2026-01-15 14:24:12.216582+00
+180,Grup Tbk Usaha Mega Mitra,Kesehatan,Business group #180,{},2026-01-15 14:24:12.216582+00
+181,Grup Jaya Sinar Gemilang,Agrikultur,Business group #181,{},2026-01-15 14:24:12.216582+00
+182,Grup Firma Cipta Nusantara,Agrikultur,Business group #182,{},2026-01-15 14:24:12.216582+00
+183,Grup Tbk Lestari Permata,Agrikultur,Business group #183,{},2026-01-15 14:24:12.216582+00
+184,Grup Perum Utama Indo,Pertambangan,Business group #184,{},2026-01-15 14:24:12.216582+00
+185,Grup Koperasi Sejahtera Cipta Makmur,Energi,Business group #185,{},2026-01-15 14:24:12.216582+00
+186,Grup Koperasi Terpadu Elang,Transportasi,Business group #186,{},2026-01-15 14:24:12.216582+00
+187,Grup Perum Niaga Abadi,Agrikultur,Business group #187,{},2026-01-15 14:24:12.216582+00
+188,Grup Firma Karya Lestari,Transportasi,Business group #188,{},2026-01-15 14:24:12.216582+00
+189,Grup Tbk Astra Indo Rajawali,Perdagangan,Business group #189,{},2026-01-15 14:24:12.216582+00
+190,Grup PD Karya Buana,Telekomunikasi,Business group #190,{},2026-01-15 14:24:12.216582+00
+191,Grup Merak Astra,Pendidikan,Business group #191,{},2026-01-15 14:24:12.216582+00
+192,Grup Perum Indo Makmur Astra,Telekomunikasi,Business group #192,{},2026-01-15 14:24:12.216582+00
+193,Grup PD Berkah Indo Berlian,Transportasi,Business group #193,{},2026-01-15 14:24:12.216582+00
+194,Grup UD Global Nusantara,Retail,Business group #194,{},2026-01-15 14:24:12.216582+00
+195,Grup Merak Rajawali Niaga,Pendidikan,Business group #195,{},2026-01-15 14:24:12.216582+00
+196,Grup Firma Makmur Bersama,Telekomunikasi,Business group #196,{},2026-01-15 14:24:12.216582+00
+197,Grup Firma Utama Mega Indo,Makanan & Minuman,Business group #197,{},2026-01-15 14:24:12.216582+00
+198,Grup Tbk Niaga Lestari Nusantara,Pendidikan,Business group #198,{},2026-01-15 14:24:12.216582+00
+199,Grup UD Merak Sentosa,Retail,Business group #199,{},2026-01-15 14:24:12.216582+00
+200,Grup UD Bersama Mitra Sinar,Energi,Business group #200,{},2026-01-15 14:24:12.216582+00
+201,Grup Firma Sinar Niaga,Makanan & Minuman,Business group #201,{},2026-01-15 14:24:12.216582+00
+202,Grup Lestari Makmur,Manufaktur,Business group #202,{},2026-01-15 14:24:12.216582+00
+203,Grup Koperasi Karya Nusantara,Energi,Business group #203,{},2026-01-15 14:24:12.216582+00
+204,Grup Cendana Astra,Jasa Keuangan,Business group #204,{},2026-01-15 14:24:12.216582+00
+205,Grup Merak Utama,Pertambangan,Business group #205,{},2026-01-15 14:24:12.216582+00
+206,Grup UD Sentosa Rajawali,Konstruksi,Business group #206,{},2026-01-15 14:24:12.216582+00
+207,Grup PD Mitra Karya Indo,Telekomunikasi,Business group #207,{},2026-01-15 14:24:12.216582+00
+208,Grup Tbk Cipta Elang Intan,Energi,Business group #208,{},2026-01-15 14:24:12.216582+00
+209,Grup Tbk Cendana Usaha Berkah,Pendidikan,Business group #209,{},2026-01-15 14:24:12.216582+00
+210,Grup Jaya Gemilang Sinar,Pendidikan,Business group #210,{},2026-01-15 14:24:12.216582+00
+211,Grup Firma Abadi Utama,Manufaktur,Business group #211,{},2026-01-15 14:24:12.216582+00
+212,Grup UD Elang Permata,Manufaktur,Business group #212,{},2026-01-15 14:24:12.216582+00
+213,Grup Firma Intan Gemilang,Agrikultur,Business group #213,{},2026-01-15 14:24:12.216582+00
+214,Grup PD Garuda Prima Rajawali,Perdagangan,Business group #214,{},2026-01-15 14:24:12.216582+00
+215,Grup Koperasi Permata Astra,Jasa Keuangan,Business group #215,{},2026-01-15 14:24:12.216582+00
+216,Grup Gemilang Berlian Indo,Kesehatan,Business group #216,{},2026-01-15 14:24:12.216582+00
+217,Grup Niaga Jaya,Telekomunikasi,Business group #217,{},2026-01-15 14:24:12.216582+00
+218,Grup Perum Lestari Pusaka Buana,Teknologi,Business group #218,{},2026-01-15 14:24:12.216582+00
+219,Grup UD Mandiri Makmur,Pariwisata,Business group #219,{},2026-01-15 14:24:12.216582+00
+220,Grup Perum Cendana Berkah Karya,Kesehatan,Business group #220,{},2026-01-15 14:24:12.216582+00
+221,Grup Tbk Karya Sejahtera,Jasa Keuangan,Business group #221,{},2026-01-15 14:24:12.216582+00
+222,Grup Firma Mega Sentosa Pusaka,Konstruksi,Business group #222,{},2026-01-15 14:24:12.216582+00
+223,Grup Tbk Buana Garuda Utama,Teknologi,Business group #223,{},2026-01-15 14:24:12.216582+00
+224,Grup PD Cendana Buana Mitra,Pariwisata,Business group #224,{},2026-01-15 14:24:12.216582+00
+225,Grup Tbk Intan Astra Merak,Konstruksi,Business group #225,{},2026-01-15 14:24:12.216582+00
+226,Grup PD Sentosa Sejahtera Mandiri,Agrikultur,Business group #226,{},2026-01-15 14:24:12.216582+00
+227,Grup PD Berlian Sentosa,Properti,Business group #227,{},2026-01-15 14:24:12.216582+00
+228,Grup PD Karya Sentosa Cendana,Makanan & Minuman,Business group #228,{},2026-01-15 14:24:12.216582+00
+229,Grup Gemilang Mega Cipta,Retail,Business group #229,{},2026-01-15 14:24:12.216582+00
+230,Grup PD Permata Abadi,Properti,Business group #230,{},2026-01-15 14:24:12.216582+00
+231,Grup Global Niaga Gemilang,Pendidikan,Business group #231,{},2026-01-15 14:24:12.216582+00
+232,Grup Nusantara Jaya Lestari,Telekomunikasi,Business group #232,{},2026-01-15 14:24:12.216582+00
+233,Grup Koperasi Sentosa Nusantara Merak,Kesehatan,Business group #233,{},2026-01-15 14:24:12.216582+00
+234,Grup Perum Merak Sentosa Utama,Pertambangan,Business group #234,{},2026-01-15 14:24:12.216582+00
+235,Grup Perum Niaga Karya,Pertambangan,Business group #235,{},2026-01-15 14:24:12.216582+00
+236,Grup PD Sentosa Nusantara,Pertambangan,Business group #236,{},2026-01-15 14:24:12.216582+00
+237,Grup UD Usaha Karya Buana,Teknologi,Business group #237,{},2026-01-15 14:24:12.216582+00
+238,Grup PD Cendana Global,Energi,Business group #238,{},2026-01-15 14:24:12.216582+00
+239,Grup PD Makmur Pusaka,Energi,Business group #239,{},2026-01-15 14:24:12.216582+00
+240,Grup Tbk Mitra Permata,Properti,Business group #240,{},2026-01-15 14:24:12.216582+00
+241,Grup PD Mitra Bersama,Teknologi,Business group #241,{},2026-01-15 14:24:12.216582+00
+242,Grup Perum Utama Berkah Sentosa,Perdagangan,Business group #242,{},2026-01-15 14:24:12.216582+00
+243,Grup UD Berlian Niaga Mandiri,Pariwisata,Business group #243,{},2026-01-15 14:24:12.216582+00
+244,Grup Tbk Garuda Gemilang Sinar,Pertambangan,Business group #244,{},2026-01-15 14:24:12.216582+00
+245,Grup PD Indo Merak,Perdagangan,Business group #245,{},2026-01-15 14:24:12.216582+00
+246,Grup Firma Permata Mega,Properti,Business group #246,{},2026-01-15 14:24:12.216582+00
+247,Grup Perum Sinar Elang,Pendidikan,Business group #247,{},2026-01-15 14:24:12.216582+00
+248,Grup Rajawali Niaga Berlian,Pertambangan,Business group #248,{},2026-01-15 14:24:12.216582+00
+249,Grup Intan Mega,Pariwisata,Business group #249,{},2026-01-15 14:24:12.216582+00
+250,Grup Utama Mitra,Agrikultur,Business group #250,{},2026-01-15 14:24:12.216582+00
+251,Grup Tbk Jaya Sinar Makmur,Makanan & Minuman,Business group #251,{},2026-01-15 14:24:12.216582+00
+252,Grup Koperasi Intan Nusantara,Pariwisata,Business group #252,{},2026-01-15 14:24:12.216582+00
+253,Grup Tbk Merak Karya Berlian,Transportasi,Business group #253,{},2026-01-15 14:24:12.216582+00
+254,Grup Merak Gemilang,Pertambangan,Business group #254,{},2026-01-15 14:24:12.216582+00
+255,Grup Koperasi Pusaka Sentosa Berkah,Manufaktur,Business group #255,{},2026-01-15 14:24:12.216582+00
+256,Grup PD Terpadu Nusantara Sinar,Properti,Business group #256,{},2026-01-15 14:24:12.216582+00
+257,Grup PD Sejahtera Utama,Kesehatan,Business group #257,{},2026-01-15 14:24:12.216582+00
+258,Grup Firma Cipta Berkah Gemilang,Retail,Business group #258,{},2026-01-15 14:24:12.216582+00
+259,Grup Tbk Usaha Rajawali,Manufaktur,Business group #259,{},2026-01-15 14:24:12.216582+00
+260,Grup PD Berlian Jaya Pusaka,Retail,Business group #260,{},2026-01-15 14:24:12.216582+00
+261,Grup Firma Jaya Buana,Agrikultur,Business group #261,{},2026-01-15 14:24:12.216582+00
+262,Grup Tbk Sejahtera Merak,Perdagangan,Business group #262,{},2026-01-15 14:24:12.216582+00
+263,Grup UD Mandiri Karya Makmur,Perdagangan,Business group #263,{},2026-01-15 14:24:12.216582+00
+264,Grup Koperasi Nusantara Bersama,Energi,Business group #264,{},2026-01-15 14:24:12.216582+00
+265,Grup Karya Mitra Garuda,Manufaktur,Business group #265,{},2026-01-15 14:24:12.216582+00
+266,Grup UD Abadi Intan Prima,Transportasi,Business group #266,{},2026-01-15 14:24:12.216582+00
+267,Grup Perum Astra Sentosa Berlian,Retail,Business group #267,{},2026-01-15 14:24:12.216582+00
+268,Grup PD Niaga Garuda,Agrikultur,Business group #268,{},2026-01-15 14:24:12.216582+00
+269,Grup Utama Sinar,Agrikultur,Business group #269,{},2026-01-15 14:24:12.216582+00
+270,Grup Permata Abadi Merak,Agrikultur,Business group #270,{},2026-01-15 14:24:12.216582+00
+271,Grup UD Garuda Utama,Teknologi,Business group #271,{},2026-01-15 14:24:12.216582+00
+272,Grup Tbk Sentosa Sejahtera,Konstruksi,Business group #272,{},2026-01-15 14:24:12.216582+00
+273,Grup Firma Gemilang Global Bersama,Transportasi,Business group #273,{},2026-01-15 14:24:12.216582+00
+274,Grup UD Indo Cipta Gemilang,Retail,Business group #274,{},2026-01-15 14:24:12.216582+00
+275,Grup Koperasi Niaga Cipta,Konstruksi,Business group #275,{},2026-01-15 14:24:12.216582+00
+276,Grup Mitra Prima Cipta,Pariwisata,Business group #276,{},2026-01-15 14:24:12.216582+00
+277,Grup Tbk Global Pusaka Sejahtera,Konstruksi,Business group #277,{},2026-01-15 14:24:12.216582+00
+278,Grup PD Mega Prima Jaya,Jasa Keuangan,Business group #278,{},2026-01-15 14:24:12.216582+00
+279,Grup Perum Utama Pusaka Garuda,Transportasi,Business group #279,{},2026-01-15 14:24:12.216582+00
+280,Grup Koperasi Buana Sejahtera Sinar,Kesehatan,Business group #280,{},2026-01-15 14:24:12.216582+00
+281,Grup Pusaka Indo,Pertambangan,Business group #281,{},2026-01-15 14:24:12.216582+00
+282,Grup Makmur Astra,Manufaktur,Business group #282,{},2026-01-15 14:24:12.216582+00
+283,Grup Bersama Terpadu Garuda,Retail,Business group #283,{},2026-01-15 14:24:12.216582+00
+284,Grup PD Pusaka Buana Rajawali,Perdagangan,Business group #284,{},2026-01-15 14:24:12.216582+00
+285,Grup Tbk Gemilang Lestari,Transportasi,Business group #285,{},2026-01-15 14:24:12.216582+00
+286,Grup Koperasi Terpadu Nusantara Jaya,Jasa Keuangan,Business group #286,{},2026-01-15 14:24:12.216582+00
+287,Grup Permata Gemilang,Manufaktur,Business group #287,{},2026-01-15 14:24:12.216582+00
+288,Grup Firma Prima Lestari Karya,Makanan & Minuman,Business group #288,{},2026-01-15 14:24:12.216582+00
+289,Grup Firma Pusaka Elang,Jasa Keuangan,Business group #289,{},2026-01-15 14:24:12.216582+00
+290,Grup UD Pusaka Sentosa Buana,Pertambangan,Business group #290,{},2026-01-15 14:24:12.216582+00
+291,Grup Firma Berlian Astra,Makanan & Minuman,Business group #291,{},2026-01-15 14:24:12.216582+00
+292,Grup PD Gemilang Sejahtera Garuda,Manufaktur,Business group #292,{},2026-01-15 14:24:12.216582+00
+293,Grup Pusaka Intan,Jasa Keuangan,Business group #293,{},2026-01-15 14:24:12.216582+00
+294,Grup Nusantara Abadi Pusaka,Manufaktur,Business group #294,{},2026-01-15 14:24:12.216582+00
+295,Grup Firma Merak Intan Prima,Agrikultur,Business group #295,{},2026-01-15 14:24:12.216582+00
+296,Grup Merak Mandiri Abadi,Transportasi,Business group #296,{},2026-01-15 14:24:12.216582+00
+297,Grup Perum Jaya Mega,Konstruksi,Business group #297,{},2026-01-15 14:24:12.216582+00
+298,Grup Firma Mandiri Sinar Global,Pertambangan,Business group #298,{},2026-01-15 14:24:12.216582+00
+299,Grup Permata Berlian,Transportasi,Business group #299,{},2026-01-15 14:24:12.216582+00
+300,Grup Perum Sejahtera Garuda,Pertambangan,Business group #300,{},2026-01-15 14:24:12.216582+00
+301,Grup Lestari Nusantara,Kesehatan,Business group #301,{},2026-01-15 14:24:12.216582+00
+302,Grup UD Prima Terpadu,Transportasi,Business group #302,{},2026-01-15 14:24:12.216582+00
+303,Grup Makmur Jaya,Pariwisata,Business group #303,{},2026-01-15 14:24:12.216582+00
+304,Grup PD Buana Pusaka,Telekomunikasi,Business group #304,{},2026-01-15 14:24:12.216582+00
+305,Grup Firma Utama Prima,Pendidikan,Business group #305,{},2026-01-15 14:24:12.216582+00
+306,Grup Perum Sentosa Mandiri,Telekomunikasi,Business group #306,{},2026-01-15 14:24:12.216582+00
+307,Grup Perum Usaha Pusaka Berlian,Properti,Business group #307,{},2026-01-15 14:24:12.216582+00
+308,Grup PD Buana Mandiri Terpadu,Energi,Business group #308,{},2026-01-15 14:24:12.216582+00
+309,Grup Perum Jaya Sejahtera Abadi,Konstruksi,Business group #309,{},2026-01-15 14:24:12.216582+00
+310,Grup Karya Sentosa,Retail,Business group #310,{},2026-01-15 14:24:12.216582+00
+311,Grup Perum Sentosa Pusaka,Perdagangan,Business group #311,{},2026-01-15 14:24:12.216582+00
+312,Grup Indo Lestari,Perdagangan,Business group #312,{},2026-01-15 14:24:12.216582+00
+313,Grup Firma Usaha Lestari Cipta,Konstruksi,Business group #313,{},2026-01-15 14:24:12.216582+00
+314,Grup Prima Intan,Perdagangan,Business group #314,{},2026-01-15 14:24:12.216582+00
+315,Grup Perum Bersama Lestari,Pendidikan,Business group #315,{},2026-01-15 14:24:12.216582+00
+316,Grup UD Jaya Usaha,Telekomunikasi,Business group #316,{},2026-01-15 14:24:12.216582+00
+317,Grup Tbk Usaha Lestari,Pendidikan,Business group #317,{},2026-01-15 14:24:12.216582+00
+318,Grup Koperasi Cendana Berlian Niaga,Pertambangan,Business group #318,{},2026-01-15 14:24:12.216582+00
+319,Grup Mandiri Utama Garuda,Telekomunikasi,Business group #319,{},2026-01-15 14:24:12.216582+00
+320,Grup Koperasi Merak Mitra Mega,Perdagangan,Business group #320,{},2026-01-15 14:24:12.216582+00
+321,Grup Tbk Berkah Intan Rajawali,Kesehatan,Business group #321,{},2026-01-15 14:24:12.216582+00
+322,Grup PD Lestari Elang Pusaka,Energi,Business group #322,{},2026-01-15 14:24:12.216582+00
+323,Grup Tbk Garuda Mandiri Permata,Teknologi,Business group #323,{},2026-01-15 14:24:12.216582+00
+324,Grup Firma Jaya Lestari,Telekomunikasi,Business group #324,{},2026-01-15 14:24:12.216582+00
+325,Grup Berkah Global Pusaka,Pendidikan,Business group #325,{},2026-01-15 14:24:12.216582+00
+326,Grup Tbk Karya Mitra,Manufaktur,Business group #326,{},2026-01-15 14:24:12.216582+00
+327,Grup Tbk Karya Cendana,Konstruksi,Business group #327,{},2026-01-15 14:24:12.216582+00
+328,Grup Buana Nusantara Gemilang,Pariwisata,Business group #328,{},2026-01-15 14:24:12.216582+00
+329,Grup Koperasi Jaya Bersama Elang,Manufaktur,Business group #329,{},2026-01-15 14:24:12.216582+00
+330,Grup Firma Lestari Buana,Konstruksi,Business group #330,{},2026-01-15 14:24:12.216582+00
+331,Grup Koperasi Sejahtera Indo Lestari,Konstruksi,Business group #331,{},2026-01-15 14:24:12.216582+00
+332,Grup Pusaka Berkah,Teknologi,Business group #332,{},2026-01-15 14:24:12.216582+00
+333,Grup Koperasi Cendana Buana Elang,Energi,Business group #333,{},2026-01-15 14:24:12.216582+00
+334,Grup UD Permata Cipta,Energi,Business group #334,{},2026-01-15 14:24:12.216582+00
+335,Grup Koperasi Sinar Buana Sentosa,Kesehatan,Business group #335,{},2026-01-15 14:24:12.216582+00
+336,Grup PD Terpadu Pusaka,Pertambangan,Business group #336,{},2026-01-15 14:24:12.216582+00
+337,Grup Firma Cendana Sinar,Jasa Keuangan,Business group #337,{},2026-01-15 14:24:12.216582+00
+338,Grup Firma Gemilang Sentosa Abadi,Energi,Business group #338,{},2026-01-15 14:24:12.216582+00
+339,Grup UD Bersama Niaga Cipta,Pendidikan,Business group #339,{},2026-01-15 14:24:12.216582+00
+340,Grup Astra Pusaka Bersama,Teknologi,Business group #340,{},2026-01-15 14:24:12.216582+00
+341,Grup Koperasi Mitra Intan,Properti,Business group #341,{},2026-01-15 14:24:12.216582+00
+342,Grup Sentosa Indo Intan,Teknologi,Business group #342,{},2026-01-15 14:24:12.216582+00
+343,Grup Elang Nusantara Cendana,Makanan & Minuman,Business group #343,{},2026-01-15 14:24:12.216582+00
+344,Grup Koperasi Intan Indo Prima,Telekomunikasi,Business group #344,{},2026-01-15 14:24:12.216582+00
+345,Grup Global Astra,Konstruksi,Business group #345,{},2026-01-15 14:24:12.216582+00
+346,Grup UD Nusantara Merak,Properti,Business group #346,{},2026-01-15 14:24:12.216582+00
+347,Grup UD Utama Berlian Astra,Telekomunikasi,Business group #347,{},2026-01-15 14:24:12.216582+00
+348,Grup Berlian Sentosa Prima,Kesehatan,Business group #348,{},2026-01-15 14:24:12.216582+00
+349,Grup UD Global Permata Mandiri,Pariwisata,Business group #349,{},2026-01-15 14:24:12.216582+00
+350,Grup Tbk Merak Terpadu Cipta,Retail,Business group #350,{},2026-01-15 14:24:12.216582+00
+351,Grup Firma Gemilang Karya,Properti,Business group #351,{},2026-01-15 14:24:12.216582+00
+352,Grup Tbk Abadi Usaha Karya,Manufaktur,Business group #352,{},2026-01-15 14:24:12.216582+00
+353,Grup Koperasi Nusantara Niaga Sejahtera,Kesehatan,Business group #353,{},2026-01-15 14:24:12.216582+00
+354,Grup Berlian Elang Sinar,Manufaktur,Business group #354,{},2026-01-15 14:24:12.216582+00
+355,Grup Karya Niaga,Energi,Business group #355,{},2026-01-15 14:24:12.216582+00
+356,Grup PD Bersama Lestari,Transportasi,Business group #356,{},2026-01-15 14:24:12.216582+00
+357,Grup Firma Niaga Indo,Konstruksi,Business group #357,{},2026-01-15 14:24:12.216582+00
+358,Grup Perum Gemilang Cendana,Pendidikan,Business group #358,{},2026-01-15 14:24:12.216582+00
+359,Grup Bersama Nusantara,Energi,Business group #359,{},2026-01-15 14:24:12.216582+00
+360,Grup Abadi Indo,Manufaktur,Business group #360,{},2026-01-15 14:24:12.216582+00
+361,Grup Firma Makmur Pusaka Cipta,Telekomunikasi,Business group #361,{},2026-01-15 14:24:12.216582+00
+362,Grup Sinar Mitra Buana,Makanan & Minuman,Business group #362,{},2026-01-15 14:24:12.216582+00
+363,Grup Koperasi Sejahtera Makmur,Konstruksi,Business group #363,{},2026-01-15 14:24:12.216582+00
+364,Grup Lestari Makmur Sinar,Manufaktur,Business group #364,{},2026-01-15 14:24:12.216582+00
+365,Grup UD Elang Utama Niaga,Properti,Business group #365,{},2026-01-15 14:24:12.216582+00
+366,Grup UD Elang Abadi,Kesehatan,Business group #366,{},2026-01-15 14:24:12.216582+00
+367,Grup Koperasi Garuda Cipta,Kesehatan,Business group #367,{},2026-01-15 14:24:12.216582+00
+368,Grup PD Terpadu Utama Global,Konstruksi,Business group #368,{},2026-01-15 14:24:12.216582+00
+369,Grup PD Berlian Mitra,Makanan & Minuman,Business group #369,{},2026-01-15 14:24:12.216582+00
+370,Grup PD Mega Buana Berkah,Retail,Business group #370,{},2026-01-15 14:24:12.216582+00
+371,Grup Rajawali Gemilang Nusantara,Pertambangan,Business group #371,{},2026-01-15 14:24:12.216582+00
+372,Grup Tbk Cendana Gemilang Cipta,Agrikultur,Business group #372,{},2026-01-15 14:24:12.216582+00
+373,Grup Perum Nusantara Gemilang,Konstruksi,Business group #373,{},2026-01-15 14:24:12.216582+00
+374,Grup Makmur Sinar Gemilang,Perdagangan,Business group #374,{},2026-01-15 14:24:12.216582+00
+375,Grup Tbk Prima Mega Sejahtera,Pariwisata,Business group #375,{},2026-01-15 14:24:12.216582+00
+376,Grup Abadi Pusaka,Kesehatan,Business group #376,{},2026-01-15 14:24:12.216582+00
+377,Grup Koperasi Nusantara Karya,Pertambangan,Business group #377,{},2026-01-15 14:24:12.216582+00
+378,Grup Niaga Elang Sentosa,Perdagangan,Business group #378,{},2026-01-15 14:24:12.216582+00
+379,Grup Firma Merak Mega Lestari,Retail,Business group #379,{},2026-01-15 14:24:12.216582+00
+380,Grup Koperasi Usaha Berlian Astra,Energi,Business group #380,{},2026-01-15 14:24:12.216582+00
+381,Grup Global Indo,Manufaktur,Business group #381,{},2026-01-15 14:24:12.216582+00
+382,Grup Makmur Indo,Kesehatan,Business group #382,{},2026-01-15 14:24:12.216582+00
+383,Grup Cipta Berlian Prima,Energi,Business group #383,{},2026-01-15 14:24:12.216582+00
+384,Grup UD Buana Elang Mandiri,Kesehatan,Business group #384,{},2026-01-15 14:24:12.216582+00
+385,Grup Firma Sentosa Sejahtera,Transportasi,Business group #385,{},2026-01-15 14:24:12.216582+00
+386,Grup Tbk Permata Buana Cipta,Properti,Business group #386,{},2026-01-15 14:24:12.216582+00
+387,Grup PD Niaga Garuda Lestari,Teknologi,Business group #387,{},2026-01-15 14:24:12.216582+00
+388,Grup UD Utama Sejahtera,Konstruksi,Business group #388,{},2026-01-15 14:24:12.216582+00
+389,Grup Berkah Karya Prima,Konstruksi,Business group #389,{},2026-01-15 14:24:12.216582+00
+390,Grup UD Mitra Buana,Jasa Keuangan,Business group #390,{},2026-01-15 14:24:12.216582+00
+391,Grup Cendana Niaga Jaya,Energi,Business group #391,{},2026-01-15 14:24:12.216582+00
+392,Grup Firma Permata Indo Abadi,Makanan & Minuman,Business group #392,{},2026-01-15 14:24:12.216582+00
+393,Grup Elang Karya Sejahtera,Konstruksi,Business group #393,{},2026-01-15 14:24:12.216582+00
+394,Grup Perum Permata Indo Sejahtera,Pertambangan,Business group #394,{},2026-01-15 14:24:12.216582+00
+395,Grup Firma Merak Lestari Sentosa,Pertambangan,Business group #395,{},2026-01-15 14:24:12.216582+00
+396,Grup Koperasi Mitra Merak Lestari,Jasa Keuangan,Business group #396,{},2026-01-15 14:24:12.216582+00
+397,Grup Prima Pusaka,Pertambangan,Business group #397,{},2026-01-15 14:24:12.216582+00
+398,Grup Perum Merak Buana Gemilang,Makanan & Minuman,Business group #398,{},2026-01-15 14:24:12.216582+00
+399,Grup PD Lestari Niaga,Energi,Business group #399,{},2026-01-15 14:24:12.216582+00
+400,Grup PD Sentosa Sejahtera,Telekomunikasi,Business group #400,{},2026-01-15 14:24:12.216582+00
+401,Grup Perum Mitra Pusaka,Pendidikan,Business group #401,{},2026-01-15 14:24:12.216582+00
+402,Grup UD Jaya Sentosa,Makanan & Minuman,Business group #402,{},2026-01-15 14:24:12.216582+00
+403,Grup Firma Rajawali Karya,Telekomunikasi,Business group #403,{},2026-01-15 14:24:12.216582+00
+404,Grup UD Global Rajawali,Properti,Business group #404,{},2026-01-15 14:24:12.216582+00
+405,Grup Firma Utama Terpadu Gemilang,Agrikultur,Business group #405,{},2026-01-15 14:24:12.216582+00
+406,Grup UD Merak Intan Usaha,Pariwisata,Business group #406,{},2026-01-15 14:24:12.216582+00
+407,Grup Firma Cendana Indo,Konstruksi,Business group #407,{},2026-01-15 14:24:12.216582+00
+408,Grup Tbk Global Lestari,Retail,Business group #408,{},2026-01-15 14:24:12.216582+00
+409,Grup Tbk Berlian Nusantara Garuda,Jasa Keuangan,Business group #409,{},2026-01-15 14:24:12.216582+00
+410,Grup Perum Terpadu Global Jaya,Jasa Keuangan,Business group #410,{},2026-01-15 14:24:12.216582+00
+411,Grup Firma Jaya Elang,Retail,Business group #411,{},2026-01-15 14:24:12.216582+00
+412,Grup UD Abadi Mitra Bersama,Transportasi,Business group #412,{},2026-01-15 14:24:12.216582+00
+413,Grup Perum Karya Elang,Manufaktur,Business group #413,{},2026-01-15 14:24:12.216582+00
+414,Grup PD Jaya Berlian,Pendidikan,Business group #414,{},2026-01-15 14:24:12.216582+00
+415,Grup Koperasi Berkah Mitra,Transportasi,Business group #415,{},2026-01-15 14:24:12.216582+00
+416,Grup Terpadu Pusaka Jaya,Transportasi,Business group #416,{},2026-01-15 14:24:12.216582+00
+417,Grup Rajawali Buana Utama,Agrikultur,Business group #417,{},2026-01-15 14:24:12.216582+00
+418,Grup UD Nusantara Usaha Sinar,Pariwisata,Business group #418,{},2026-01-15 14:24:12.216582+00
+419,Grup Koperasi Lestari Utama,Pendidikan,Business group #419,{},2026-01-15 14:24:12.216582+00
+420,Grup Indo Cipta,Energi,Business group #420,{},2026-01-15 14:24:12.216582+00
+421,Grup Firma Jaya Terpadu Abadi,Pertambangan,Business group #421,{},2026-01-15 14:24:12.216582+00
+422,Grup Utama Nusantara,Pertambangan,Business group #422,{},2026-01-15 14:24:12.216582+00
+423,Grup Sejahtera Makmur,Konstruksi,Business group #423,{},2026-01-15 14:24:12.216582+00
+424,Grup Bersama Garuda,Telekomunikasi,Business group #424,{},2026-01-15 14:24:12.216582+00
+425,Grup Firma Utama Bersama Mega,Agrikultur,Business group #425,{},2026-01-15 14:24:12.216582+00
+426,Grup Karya Sinar Mitra,Pertambangan,Business group #426,{},2026-01-15 14:24:12.216582+00
+427,Grup UD Garuda Rajawali Usaha,Pariwisata,Business group #427,{},2026-01-15 14:24:12.216582+00
+428,Grup UD Sentosa Makmur Astra,Makanan & Minuman,Business group #428,{},2026-01-15 14:24:12.216582+00
+429,Grup UD Merak Berkah,Perdagangan,Business group #429,{},2026-01-15 14:24:12.216582+00
+430,Grup Firma Lestari Berlian,Agrikultur,Business group #430,{},2026-01-15 14:24:12.216582+00
+431,Grup Terpadu Berkah,Jasa Keuangan,Business group #431,{},2026-01-15 14:24:12.216582+00
+432,Grup Firma Mega Permata Bersama,Jasa Keuangan,Business group #432,{},2026-01-15 14:24:12.216582+00
+433,Grup Koperasi Sejahtera Elang,Transportasi,Business group #433,{},2026-01-15 14:24:12.216582+00
+434,Grup Karya Utama Abadi,Jasa Keuangan,Business group #434,{},2026-01-15 14:24:12.216582+00
+435,Grup Tbk Lestari Sentosa Pusaka,Pariwisata,Business group #435,{},2026-01-15 14:24:12.216582+00
+436,Grup Elang Mitra,Telekomunikasi,Business group #436,{},2026-01-15 14:24:12.216582+00
+437,Grup Perum Rajawali Niaga,Makanan & Minuman,Business group #437,{},2026-01-15 14:24:12.216582+00
+438,Grup PD Lestari Global Gemilang,Konstruksi,Business group #438,{},2026-01-15 14:24:12.216582+00
+439,Grup Koperasi Karya Global Elang,Jasa Keuangan,Business group #439,{},2026-01-15 14:24:12.216582+00
+440,Grup UD Prima Permata,Agrikultur,Business group #440,{},2026-01-15 14:24:12.216582+00
+441,Grup Perum Permata Bersama,Pariwisata,Business group #441,{},2026-01-15 14:24:12.216582+00
+442,Grup Astra Pusaka,Kesehatan,Business group #442,{},2026-01-15 14:24:12.216582+00
+443,Grup Mandiri Lestari,Telekomunikasi,Business group #443,{},2026-01-15 14:24:12.216582+00
+444,Grup Prima Global Niaga,Agrikultur,Business group #444,{},2026-01-15 14:24:12.216582+00
+445,Grup Tbk Mandiri Makmur,Transportasi,Business group #445,{},2026-01-15 14:24:12.216582+00
+446,Grup PD Usaha Mega Rajawali,Jasa Keuangan,Business group #446,{},2026-01-15 14:24:12.216582+00
+447,Grup UD Sejahtera Berlian,Konstruksi,Business group #447,{},2026-01-15 14:24:12.216582+00
+448,Grup UD Garuda Permata Mandiri,Pertambangan,Business group #448,{},2026-01-15 14:24:12.216582+00
+449,Grup Koperasi Mitra Prima Global,Kesehatan,Business group #449,{},2026-01-15 14:24:12.216582+00
+450,Grup Perum Gemilang Sinar Usaha,Teknologi,Business group #450,{},2026-01-15 14:24:12.216582+00
+451,Grup Tbk Utama Intan Buana,Perdagangan,Business group #451,{},2026-01-15 14:24:12.216582+00
+452,Grup Tbk Sinar Permata,Konstruksi,Business group #452,{},2026-01-15 14:24:12.216582+00
+453,Grup Tbk Pusaka Karya Cipta,Teknologi,Business group #453,{},2026-01-15 14:24:12.216582+00
+454,Grup Perum Berkah Utama Bersama,Konstruksi,Business group #454,{},2026-01-15 14:24:12.216582+00
+455,Grup PD Permata Intan,Transportasi,Business group #455,{},2026-01-15 14:24:12.216582+00
+456,Grup Perum Mitra Sinar Rajawali,Properti,Business group #456,{},2026-01-15 14:24:12.216582+00
+457,Grup Sejahtera Jaya Makmur,Transportasi,Business group #457,{},2026-01-15 14:24:12.216582+00
+458,Grup Bersama Cendana Rajawali,Teknologi,Business group #458,{},2026-01-15 14:24:12.216582+00
+459,Grup Tbk Utama Intan Usaha,Pendidikan,Business group #459,{},2026-01-15 14:24:12.216582+00
+460,Grup Tbk Abadi Bersama Berlian,Konstruksi,Business group #460,{},2026-01-15 14:24:12.216582+00
+461,Grup Firma Cipta Gemilang Sinar,Kesehatan,Business group #461,{},2026-01-15 14:24:12.216582+00
+462,Grup PD Bersama Prima Mandiri,Transportasi,Business group #462,{},2026-01-15 14:24:12.216582+00
+463,Grup Tbk Mandiri Karya,Pariwisata,Business group #463,{},2026-01-15 14:24:12.216582+00
+464,Grup Perum Buana Sinar,Properti,Business group #464,{},2026-01-15 14:24:12.216582+00
+465,Grup UD Mitra Niaga,Manufaktur,Business group #465,{},2026-01-15 14:24:12.216582+00
+466,Grup UD Buana Berkah,Telekomunikasi,Business group #466,{},2026-01-15 14:24:12.216582+00
+467,Grup Utama Indo Permata,Manufaktur,Business group #467,{},2026-01-15 14:24:12.216582+00
+468,Grup Firma Gemilang Merak,Konstruksi,Business group #468,{},2026-01-15 14:24:12.216582+00
+469,Grup Cendana Utama Nusantara,Retail,Business group #469,{},2026-01-15 14:24:12.216582+00
+470,Grup PD Buana Rajawali Cipta,Properti,Business group #470,{},2026-01-15 14:24:12.216582+00
+471,Grup Tbk Mitra Berlian,Agrikultur,Business group #471,{},2026-01-15 14:24:12.216582+00
+472,Grup Rajawali Pusaka Astra,Jasa Keuangan,Business group #472,{},2026-01-15 14:24:12.216582+00
+473,Grup Prima Abadi,Pariwisata,Business group #473,{},2026-01-15 14:24:12.216582+00
+474,Grup UD Berkah Sejahtera Makmur,Perdagangan,Business group #474,{},2026-01-15 14:24:12.216582+00
+475,Grup Elang Global Sejahtera,Pertambangan,Business group #475,{},2026-01-15 14:24:12.216582+00
+476,Grup Koperasi Abadi Cipta,Properti,Business group #476,{},2026-01-15 14:24:12.216582+00
+477,Grup UD Merak Mega,Kesehatan,Business group #477,{},2026-01-15 14:24:12.216582+00
+478,Grup Niaga Makmur Mega,Teknologi,Business group #478,{},2026-01-15 14:24:12.216582+00
+479,Grup UD Buana Mega,Retail,Business group #479,{},2026-01-15 14:24:12.216582+00
+480,Grup Tbk Prima Indo,Makanan & Minuman,Business group #480,{},2026-01-15 14:24:12.216582+00
+481,Grup PD Makmur Intan Rajawali,Konstruksi,Business group #481,{},2026-01-15 14:24:12.216582+00
+482,Grup Firma Mitra Astra Cipta,Pariwisata,Business group #482,{},2026-01-15 14:24:12.216582+00
+483,Grup Mega Prima Buana,Pariwisata,Business group #483,{},2026-01-15 14:24:12.216582+00
+484,Grup Pusaka Lestari Gemilang,Jasa Keuangan,Business group #484,{},2026-01-15 14:24:12.216582+00
+485,Grup Jaya Bersama,Teknologi,Business group #485,{},2026-01-15 14:24:12.216582+00
+486,Grup Perum Mandiri Nusantara,Pendidikan,Business group #486,{},2026-01-15 14:24:12.216582+00
+487,Grup UD Intan Sentosa,Manufaktur,Business group #487,{},2026-01-15 14:24:12.216582+00
+488,Grup Koperasi Rajawali Garuda Berkah,Konstruksi,Business group #488,{},2026-01-15 14:24:12.216582+00
+489,Grup UD Berkah Terpadu,Makanan & Minuman,Business group #489,{},2026-01-15 14:24:12.216582+00
+490,Grup Tbk Permata Prima Pusaka,Properti,Business group #490,{},2026-01-15 14:24:12.216582+00
+491,Grup Permata Global,Retail,Business group #491,{},2026-01-15 14:24:12.216582+00
+492,Grup Karya Sejahtera,Jasa Keuangan,Business group #492,{},2026-01-15 14:24:12.216582+00
+493,Grup Koperasi Garuda Nusantara,Energi,Business group #493,{},2026-01-15 14:24:12.216582+00
+494,Grup Merak Bersama Abadi,Pendidikan,Business group #494,{},2026-01-15 14:24:12.216582+00
+495,Grup Firma Terpadu Intan,Pertambangan,Business group #495,{},2026-01-15 14:24:12.216582+00
+496,Grup UD Pusaka Bersama,Jasa Keuangan,Business group #496,{},2026-01-15 14:24:12.216582+00
+497,Grup Elang Sentosa Karya,Properti,Business group #497,{},2026-01-15 14:24:12.216582+00
+498,Grup UD Jaya Niaga Nusantara,Telekomunikasi,Business group #498,{},2026-01-15 14:24:12.216582+00
+499,Grup Firma Utama Merak,Energi,Business group #499,{},2026-01-15 14:24:12.216582+00
+500,Grup Tbk Usaha Sinar,Retail,Business group #500,{},2026-01-15 14:24:12.216582+00

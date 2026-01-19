@@ -9,6 +9,9 @@ class EntityType(str, enum.Enum):
     TAXPAYER = "TAXPAYER"
     BENEFICIAL_OWNER = "BENEFICIAL_OWNER"
     ENTITY = "ENTITY"
+    OFFICER = "OFFICER"
+    ADDRESS = "ADDRESS"
+    INTERMEDIARY = "INTERMEDIARY"
 
 
 class RelationshipType(str, enum.Enum):

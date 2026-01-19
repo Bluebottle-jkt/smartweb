@@ -7,7 +7,7 @@ from sqlalchemy.orm import Session
 
 from app.api.deps import get_current_user
 from app.db.session import get_db
-from app.db.models import BeneficialOwner, EntityType, Taxpayer, UserAccount, UserRole
+from app.db.models import BeneficialOwner, EntityType, Taxpayer, UserAccount, UserRole, Officer, Address, Intermediary
 from app.services.network_service import build_network_graph, build_network_layer_stats
 
 
@@ -17,6 +17,9 @@ router = APIRouter(prefix="/network", tags=["network"])
 class RootEntityType(str, Enum):
     TAXPAYER = "TAXPAYER"
     BENEFICIAL_OWNER = "BENEFICIAL_OWNER"
+    OFFICER = "OFFICER"
+    ADDRESS = "ADDRESS"
+    INTERMEDIARY = "INTERMEDIARY"
 
 
 class NetworkNode(BaseModel):
@@ -27,6 +30,7 @@ class NetworkNode(BaseModel):
     name: str
     location_label: str
     layer: int
+    category: Optional[str] = None
 
 
 class NetworkEdge(BaseModel):
@@ -71,8 +75,16 @@ def _get_role_max_nodes(user: UserAccount) -> int:
 def _validate_root(db: Session, root_type: RootEntityType, root_id: int) -> None:
     if root_type == RootEntityType.TAXPAYER:
         exists = db.query(Taxpayer.id).filter(Taxpayer.id == root_id).first()
-    else:
+    elif root_type == RootEntityType.BENEFICIAL_OWNER:
         exists = db.query(BeneficialOwner.id).filter(BeneficialOwner.id == root_id).first()
+    elif root_type == RootEntityType.OFFICER:
+        exists = db.query(Officer.id).filter(Officer.id == root_id).first()
+    elif root_type == RootEntityType.ADDRESS:
+        exists = db.query(Address.id).filter(Address.id == root_id).first()
+    elif root_type == RootEntityType.INTERMEDIARY:
+        exists = db.query(Intermediary.id).filter(Intermediary.id == root_id).first()
+    else:
+        exists = None
 
     if not exists:
         raise HTTPException(status_code=404, detail="Root entity not found")

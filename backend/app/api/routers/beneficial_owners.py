@@ -1,5 +1,5 @@
-from typing import List
-from fastapi import APIRouter, Depends, HTTPException
+from typing import List, Optional
+from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
 from pydantic import BaseModel
 
@@ -8,6 +8,24 @@ from app.api.deps import get_current_user
 from app.db.models import BeneficialOwner, BeneficialOwnerTaxpayer, GroupMembership
 
 router = APIRouter(prefix="/beneficial-owners", tags=["beneficial_owners"])
+
+
+class BOListItem(BaseModel):
+    id: int
+    name: str
+    id_number_masked: Optional[str]
+    nationality: Optional[str]
+
+    class Config:
+        from_attributes = True
+
+
+class BOListResponse(BaseModel):
+    items: List[BOListItem]
+    total: int
+    page: int
+    page_size: int
+    total_pages: int
 
 
 class BODetailResponse(BaseModel):
@@ -21,6 +39,46 @@ class BODetailResponse(BaseModel):
 
     class Config:
         from_attributes = True
+
+
+@router.get("", response_model=BOListResponse)
+def list_beneficial_owners(
+    page: int = Query(1, ge=1),
+    page_size: int = Query(20, ge=1, le=100),
+    search: Optional[str] = Query(None),
+    nationality: Optional[str] = Query(None),
+    db: Session = Depends(get_db),
+    current_user = Depends(get_current_user)
+):
+    """List beneficial owners with pagination and filtering."""
+    query = db.query(BeneficialOwner)
+
+    # Apply filters
+    if search:
+        query = query.filter(
+            (BeneficialOwner.name.ilike(f"%{search}%")) |
+            (BeneficialOwner.id_number_masked.ilike(f"%{search}%"))
+        )
+
+    if nationality:
+        query = query.filter(BeneficialOwner.nationality == nationality)
+
+    # Get total count
+    total = query.count()
+
+    # Apply pagination
+    offset = (page - 1) * page_size
+    items = query.order_by(BeneficialOwner.name).offset(offset).limit(page_size).all()
+
+    total_pages = (total + page_size - 1) // page_size
+
+    return BOListResponse(
+        items=[BOListItem.from_orm(item) for item in items],
+        total=total,
+        page=page,
+        page_size=page_size,
+        total_pages=total_pages
+    )
 
 
 @router.get("/{bo_id}")

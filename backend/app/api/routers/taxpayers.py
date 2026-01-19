@@ -1,5 +1,5 @@
 from typing import List, Optional
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
 from pydantic import BaseModel
 
@@ -13,6 +13,26 @@ from app.db.models import (
 )
 
 router = APIRouter(prefix="/taxpayers", tags=["taxpayers"])
+
+
+class TaxpayerListItem(BaseModel):
+    id: int
+    npwp_masked: str
+    name: str
+    entity_type: Optional[str]
+    address: Optional[str]
+    status: Optional[str]
+
+    class Config:
+        from_attributes = True
+
+
+class TaxpayerListResponse(BaseModel):
+    items: List[TaxpayerListItem]
+    total: int
+    page: int
+    page_size: int
+    total_pages: int
 
 
 class TaxpayerDetailResponse(BaseModel):
@@ -32,6 +52,50 @@ class TaxpayerDetailResponse(BaseModel):
 
     class Config:
         from_attributes = True
+
+
+@router.get("", response_model=TaxpayerListResponse)
+def list_taxpayers(
+    page: int = Query(1, ge=1),
+    page_size: int = Query(20, ge=1, le=100),
+    search: Optional[str] = Query(None),
+    entity_type: Optional[str] = Query(None),
+    status: Optional[str] = Query(None),
+    db: Session = Depends(get_db),
+    current_user = Depends(get_current_user)
+):
+    """List taxpayers with pagination and filtering."""
+    query = db.query(Taxpayer)
+
+    # Apply filters
+    if search:
+        query = query.filter(
+            (Taxpayer.name.ilike(f"%{search}%")) |
+            (Taxpayer.npwp_masked.ilike(f"%{search}%"))
+        )
+
+    if entity_type:
+        query = query.filter(Taxpayer.entity_type == entity_type)
+
+    if status:
+        query = query.filter(Taxpayer.status == status)
+
+    # Get total count
+    total = query.count()
+
+    # Apply pagination
+    offset = (page - 1) * page_size
+    items = query.order_by(Taxpayer.name).offset(offset).limit(page_size).all()
+
+    total_pages = (total + page_size - 1) // page_size
+
+    return TaxpayerListResponse(
+        items=[TaxpayerListItem.from_orm(item) for item in items],
+        total=total,
+        page=page,
+        page_size=page_size,
+        total_pages=total_pages
+    )
 
 
 @router.get("/{taxpayer_id}")

@@ -3,6 +3,9 @@ from app.db.models.user import UserAccount, UserRole
 from app.db.models.group import Group
 from app.db.models.taxpayer import Taxpayer
 from app.db.models.beneficial_owner import BeneficialOwner
+from app.db.models.officer import Officer
+from app.db.models.address import Address
+from app.db.models.intermediary import Intermediary
 from app.db.models.membership import GroupMembership, BeneficialOwnerTaxpayer
 from app.db.models.financial import TaxpayerYearlyFinancial
 from app.db.models.ratios import TaxpayerYearlyRatio
@@ -22,6 +25,9 @@ __all__ = [
     "Group",
     "Taxpayer",
     "BeneficialOwner",
+    "Officer",
+    "Address",
+    "Intermediary",
     "GroupMembership",
     "BeneficialOwnerTaxpayer",
     "TaxpayerYearlyFinancial",

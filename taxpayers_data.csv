@@ -1,0 +1,2001 @@
+id,npwp_masked,name,entity_type,address,status,extra_metadata,created_at
+1,10.000.***.***-***.100,UD Cendana Global Bersama,UD,"Gg. Jayawijaya No. 143
+Dumai, Jawa Tengah 99112",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+2,11.000.***.***-***.100,Firma Berkah Terpadu Jaya,PT,"Gg. K.H. Wahid Hasyim No. 6
+Gorontalo, Kepulauan Riau 15900",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+3,12.000.***.***-***.100,Perum Elang Intan,CV,"Gang Lembong No. 33
+Langsa, JB 14520",Dalam Pemeriksaan,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+4,13.000.***.***-***.100,PT Terpadu Cipta Makmur,UD,"Gang Dr. Djunjunan No. 9
+Tasikmalaya, DKI Jakarta 98914",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+5,14.000.***.***-***.100,PT Elang Nusantara Global,UD,"Gg. Sukajadi No. 031
+Batu, Sulawesi Tenggara 09491",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+6,15.000.***.***-***.100,UD Usaha Gemilang Elang,PT Tbk,"Gang W.R. Supratman No. 867
+Serang, GO 04522",Non-Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+7,16.000.***.***-***.100,PT Terpadu Sejahtera Mega,CV,"Gg. PHH. Mustofa No. 8
+Probolinggo, KR 29697",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+8,17.000.***.***-***.100,PT Tbk Mitra Terpadu Mandiri,PT,"Gang Cempaka No. 80
+Samarinda, Sulawesi Selatan 66677",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+9,18.000.***.***-***.100,UD Indo Sejahtera,PT Tbk,"Gg. Jayawijaya No. 98
+Pekalongan, Jawa Barat 27917",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+10,19.000.***.***-***.100,Perum Garuda Astra Abadi,PT Tbk,"Jl. H.J Maemunah No. 536
+Tasikmalaya, RI 71798",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+11,20.000.***.***-***.100,UD Sejahtera Buana,PT,"Jl. Antapani Lama No. 9
+Palopo, Sumatera Barat 53160",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+12,21.000.***.***-***.100,UD Gemilang Usaha,CV,"Jl. Tubagus Ismail No. 48
+Mataram, Kalimantan Selatan 97435",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+13,22.000.***.***-***.100,PT Berlian Jaya,Firma,"Jl. Dipenogoro No. 9
+Sukabumi, Sumatera Utara 55962",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+14,23.000.***.***-***.100,UD Permata Pusaka,PT Tbk,"Gg. Laswi No. 72
+Kota Administrasi Jakarta Pusat, BT 37869",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+15,24.000.***.***-***.100,UD Sentosa Merak,PT Tbk,"Gang Rungkut Industri No. 58
+Parepare, KR 76568",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+16,25.000.***.***-***.100,Perum Terpadu Gemilang Bersama,CV,"Gang HOS. Cokroaminoto No. 09
+Sorong, RI 45255",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+17,26.000.***.***-***.100,PT Tbk Gemilang Makmur,UD,"Jalan Dipatiukur No. 7
+Sabang, SU 33511",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+18,27.000.***.***-***.100,Firma Global Merak Garuda,PT,"Jl. Cihampelas No. 68
+Dumai, Maluku 56588",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+19,28.000.***.***-***.100,PD Lestari Pusaka,CV,"Gang Otto Iskandardinata No. 563
+Padang, Nusa Tenggara Timur 01207",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+20,29.000.***.***-***.100,PD Intan Indo Sentosa,CV,"Jl. Siliwangi No. 0
+Kotamobagu, JI 91487",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+21,30.000.***.***-***.100,Koperasi Intan Gemilang Garuda,Firma,"Jalan Dipenogoro No. 35
+Tasikmalaya, Kalimantan Selatan 32459",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+22,31.000.***.***-***.100,PT Tbk Global Mitra Utama,CV,"Gg. Bangka Raya No. 1
+Parepare, SU 91231",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+23,32.000.***.***-***.100,Perum Bersama Sentosa,PT Tbk,"Gang Rawamangun No. 1
+Payakumbuh, Banten 25351",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+24,33.000.***.***-***.100,Koperasi Buana Karya,CV,"Gang Cikapayang No. 416
+Pekanbaru, KR 15022",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+25,34.000.***.***-***.100,PD Makmur Merak Lestari,CV,"Gang Asia Afrika No. 783
+Kediri, BA 60206",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+26,35.000.***.***-***.100,PT Tbk Merak Nusantara Elang,PT,"Jalan Ahmad Yani No. 34
+Langsa, Papua 76336",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+27,36.000.***.***-***.100,Koperasi Garuda Jaya Buana,UD,"Jalan Ahmad Dahlan No. 9
+Salatiga, Sulawesi Barat 18870",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+28,37.000.***.***-***.100,PD Berlian Elang,CV,"Jl. R.E Martadinata No. 9
+Bogor, Kalimantan Barat 02482",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+29,38.000.***.***-***.100,Koperasi Berkah Sentosa,PT,"Gang Suniaraja No. 77
+Surabaya, ST 57904",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+30,39.000.***.***-***.100,Koperasi Prima Mitra,Firma,"Jl. Medokan Ayu No. 144
+Pagaralam, KS 96715",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+31,40.000.***.***-***.100,PD Nusantara Rajawali,UD,"Gang Waringin No. 416
+Mataram, KT 41980",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+32,41.000.***.***-***.100,Firma Buana Lestari Niaga,CV,"Jl. Suryakencana No. 600
+Probolinggo, BA 14684",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+33,42.000.***.***-***.100,CV Gemilang Mitra,PT Tbk,"Jalan Kutisari Selatan No. 881
+Bitung, MA 70842",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+34,43.000.***.***-***.100,PD Usaha Prima,Firma,"Jl. Ahmad Yani No. 009
+Bandar Lampung, Bengkulu 79745",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+35,44.000.***.***-***.100,UD Pusaka Mega,UD,"Jl. S. Parman No. 7
+Padang Sidempuan, SB 03180",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+36,45.000.***.***-***.100,PT Tbk Garuda Mitra,CV,"Jl. Rajiman No. 02
+Bogor, Kepulauan Bangka Belitung 25543",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+37,46.000.***.***-***.100,UD Rajawali Makmur Utama,PT,"Gang Suniaraja No. 991
+Jayapura, Sumatera Selatan 27983",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+38,47.000.***.***-***.100,Perum Sentosa Global Mandiri,PT Tbk,"Jalan Cikutra Timur No. 617
+Tasikmalaya, KU 66283",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+39,48.000.***.***-***.100,Koperasi Rajawali Indo Permata,PT Tbk,"Jl. Yos Sudarso No. 72
+Malang, Aceh 54285",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+40,49.000.***.***-***.100,CV Mega Sinar Nusantara,CV,"Jalan Dipatiukur No. 9
+Magelang, LA 82996",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+41,50.000.***.***-***.100,PD Pusaka Sentosa,CV,"Jl. Pacuan Kuda No. 7
+Bogor, Nusa Tenggara Barat 30251",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+42,51.000.***.***-***.100,UD Garuda Merak Pusaka,PT Tbk,"Gg. Waringin No. 464
+Lhokseumawe, Sulawesi Tenggara 43865",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+43,52.000.***.***-***.100,PD Cipta Makmur Intan,UD,"Jalan Yos Sudarso No. 29
+Tomohon, SS 01849",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+44,53.000.***.***-***.100,PT Merak Utama,Firma,"Jl. HOS. Cokroaminoto No. 801
+Pangkalpinang, SU 74165",Dalam Pemeriksaan,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+45,54.000.***.***-***.100,Koperasi Permata Pusaka Elang,Firma,"Gang Suniaraja No. 50
+Sukabumi, Nusa Tenggara Timur 16032",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+46,55.000.***.***-***.100,PT Cendana Terpadu Lestari,CV,"Gang Dipatiukur No. 59
+Palembang, NT 78924",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+47,56.000.***.***-***.100,UD Intan Elang,PT,"Jalan Indragiri No. 1
+Tegal, Sulawesi Tengah 26460",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+48,57.000.***.***-***.100,PT Tbk Permata Global,Firma,"Gg. Raya Setiabudhi No. 066
+Surakarta, KT 31922",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+49,58.000.***.***-***.100,PT Mandiri Garuda Indo,PT,"Jl. Gedebage Selatan No. 252
+Tegal, Sulawesi Utara 71110",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+50,59.000.***.***-***.100,PT Tbk Global Abadi Sinar,Firma,"Jl. Antapani Lama No. 78
+Bitung, SG 58321",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+51,60.000.***.***-***.100,PT Tbk Bersama Lestari Elang,PT,"Gg. BKR No. 095
+Sukabumi, Papua Barat 71456",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+52,61.000.***.***-***.100,PD Prima Sejahtera Mega,UD,"Gang Rungkut Industri No. 2
+Meulaboh, Maluku Utara 53802",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+53,62.000.***.***-***.100,PT Berkah Berlian,CV,"Gang Wonoayu No. 4
+Banjarmasin, SB 59611",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+54,63.000.***.***-***.100,Koperasi Sejahtera Sinar,UD,"Jl. Gedebage Selatan No. 3
+Malang, GO 16601",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+55,64.000.***.***-***.100,CV Mandiri Intan Usaha,CV,"Gang Raya Ujungberung No. 552
+Padang, Sumatera Selatan 75278",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+56,65.000.***.***-***.100,PT Tbk Mandiri Berkah,PT,"Gg. Kiaracondong No. 97
+Malang, DKI Jakarta 72284",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+57,66.000.***.***-***.100,UD Bersama Gemilang,CV,"Gg. Cikutra Barat No. 22
+Ambon, BB 71044",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+58,67.000.***.***-***.100,PT Niaga Mitra Berkah,CV,"Jl. Rajawali Timur No. 2
+Binjai, Gorontalo 42158",Non-Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+59,68.000.***.***-***.100,PT Indo Prima Merak,PT,"Gang Cikapayang No. 586
+Banjar, SU 73400",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+60,69.000.***.***-***.100,Firma Mega Berlian Mandiri,UD,"Jalan Gegerkalong Hilir No. 983
+Tegal, Papua Barat 41571",Dalam Pemeriksaan,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+61,70.000.***.***-***.100,UD Karya Utama,PT Tbk,"Gg. M.T Haryono No. 8
+Pangkalpinang, JB 02595",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+62,71.000.***.***-***.100,PT Abadi Makmur Sejahtera,PT Tbk,"Gg. Cikutra Barat No. 34
+Tanjungbalai, JI 38600",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+63,72.000.***.***-***.100,PT Global Indo,PT Tbk,"Gang Pasteur No. 5
+Batam, Jambi 72578",Dalam Pemeriksaan,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+64,73.000.***.***-***.100,CV Nusantara Buana Makmur,PT Tbk,"Jalan Cikutra Barat No. 58
+Tual, Maluku Utara 10605",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+65,74.000.***.***-***.100,PT Tbk Buana Astra Merak,Firma,"Gang Dipenogoro No. 7
+Payakumbuh, Nusa Tenggara Timur 90941",Non-Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+66,75.000.***.***-***.100,PT Tbk Buana Prima Bersama,PT Tbk,"Gang Cikutra Barat No. 52
+Pagaralam, Aceh 56547",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+67,76.000.***.***-***.100,Perum Berkah Makmur,UD,"Gang Kebonjati No. 980
+Surabaya, Sulawesi Selatan 23302",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+68,77.000.***.***-***.100,Perum Permata Sentosa Cendana,PT,"Gang Cempaka No. 062
+Pagaralam, Bengkulu 36187",Non-Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+69,78.000.***.***-***.100,Firma Cipta Terpadu,UD,"Gang Stasiun Wonokromo No. 496
+Cimahi, Sulawesi Tengah 14292",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+70,79.000.***.***-***.100,Firma Mitra Sejahtera,UD,"Jalan Waringin No. 12
+Palu, AC 79625",Non-Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+71,80.000.***.***-***.100,PT Tbk Mitra Sejahtera Prima,PT,"Gg. Rawamangun No. 4
+Sungai Penuh, Kepulauan Riau 42447",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+72,81.000.***.***-***.100,PT Tbk Cipta Karya,PT Tbk,"Jl. Sukabumi No. 79
+Batu, Papua Barat 09255",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+73,82.000.***.***-***.100,PT Rajawali Mega Global,PT,"Gg. K.H. Wahid Hasyim No. 8
+Subulussalam, SU 20456",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+74,83.000.***.***-***.100,Firma Buana Abadi,Firma,"Gg. Kebonjati No. 028
+Tual, PA 66649",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+75,84.000.***.***-***.100,PT Tbk Mega Lestari Sinar,PT Tbk,"Gang Kutai No. 479
+Sukabumi, JB 66133",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+76,85.000.***.***-***.100,PT Tbk Jaya Makmur Mandiri,CV,"Gang Cihampelas No. 460
+Kota Administrasi Jakarta Timur, Sulawesi Selatan 50858",Non-Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+77,86.000.***.***-***.100,Firma Cipta Sejahtera Prima,PT Tbk,"Gg. Jamika No. 3
+Sukabumi, Bali 43841",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+78,87.000.***.***-***.100,Perum Prima Makmur,Firma,"Gg. Sukajadi No. 0
+Madiun, Kalimantan Barat 61426",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+79,88.000.***.***-***.100,Firma Berlian Karya Indo,Firma,"Jl. W.R. Supratman No. 4
+Padang, YO 82353",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+80,89.000.***.***-***.100,PT Tbk Abadi Mandiri,CV,"Gg. Veteran No. 88
+Metro, Maluku Utara 01523",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+81,90.000.***.***-***.100,PT Tbk Bersama Cipta Permata,PT Tbk,"Jalan Pacuan Kuda No. 7
+Pematangsiantar, NT 66952",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+82,91.000.***.***-***.100,UD Terpadu Gemilang,UD,"Gg. Rajawali Timur No. 3
+Semarang, SS 62821",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+83,92.000.***.***-***.100,Perum Mandiri Cendana,CV,"Jl. Raya Setiabudhi No. 64
+Sabang, KI 22433",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+84,93.000.***.***-***.100,CV Garuda Merak,PT Tbk,"Gang Indragiri No. 54
+Kotamobagu, KS 45229",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+85,94.000.***.***-***.100,PD Cendana Usaha,CV,"Gg. BKR No. 420
+Padang Sidempuan, Jawa Tengah 25473",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+86,95.000.***.***-***.100,Firma Terpadu Usaha,CV,"Jl. Abdul Muis No. 713
+Sungai Penuh, Sulawesi Selatan 37612",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+87,96.000.***.***-***.100,PT Usaha Intan,CV,"Jalan Jamika No. 2
+Sukabumi, Aceh 63560",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+88,97.000.***.***-***.100,Perum Nusantara Karya,PT,"Gang PHH. Mustofa No. 4
+Pagaralam, Sumatera Utara 59845",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+89,98.000.***.***-***.100,Firma Berlian Prima Gemilang,Firma,"Gg. KH Amin Jasuta No. 0
+Bandar Lampung, JI 85733",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+90,99.000.***.***-***.100,PT Niaga Rajawali Mandiri,UD,"Gg. Jakarta No. 670
+Gorontalo, Sumatera Utara 38956",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+91,10.000.***.***-***.101,Koperasi Astra Indo Global,PT Tbk,"Jalan Gegerkalong Hilir No. 7
+Sungai Penuh, SB 81506",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+92,11.000.***.***-***.101,Firma Cendana Makmur Niaga,PT,"Gang Suryakencana No. 040
+Sungai Penuh, Sulawesi Barat 38752",Non-Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+93,12.000.***.***-***.101,PT Tbk Pusaka Nusantara Global,UD,"Jl. Gegerkalong Hilir No. 8
+Meulaboh, Sulawesi Barat 73835",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+94,13.000.***.***-***.101,UD Mitra Karya Global,UD,"Jl. Gardujati No. 1
+Subulussalam, Kalimantan Utara 50734",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+95,14.000.***.***-***.101,Firma Lestari Bersama Terpadu,PT Tbk,"Gang Dr. Djunjunan No. 559
+Palu, PA 64847",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+96,15.000.***.***-***.101,UD Nusantara Berlian Niaga,PT,"Gg. Pasirkoja No. 103
+Magelang, KB 15553",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+97,16.000.***.***-***.101,PT Tbk Makmur Garuda Indo,CV,"Jalan R.E Martadinata No. 25
+Pangkalpinang, Papua Barat 07216",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+98,17.000.***.***-***.101,PT Berkah Elang Terpadu,PT,"Gg. Stasiun Wonokromo No. 571
+Langsa, Bali 40760",Non-Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+99,18.000.***.***-***.101,PT Tbk Usaha Berlian Nusantara,PT Tbk,"Gang Soekarno Hatta No. 01
+Lhokseumawe, RI 94943",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+100,19.000.***.***-***.101,PT Tbk Intan Pusaka Merak,PT,"Jalan Kapten Muslihat No. 0
+Purwokerto, Kalimantan Barat 27493",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+101,20.000.***.***-***.101,UD Terpadu Berlian,UD,"Jalan Erlangga No. 655
+Bogor, SU 04007",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+102,21.000.***.***-***.101,PT Tbk Elang Pusaka Intan,UD,"Jl. Jayawijaya No. 216
+Solok, Gorontalo 00092",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+103,22.000.***.***-***.101,PD Usaha Merak,PT Tbk,"Jalan Sukabumi No. 446
+Malang, JI 51857",Non-Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+104,23.000.***.***-***.101,CV Gemilang Permata,Firma,"Jl. Rajiman No. 19
+Banda Aceh, Nusa Tenggara Timur 55056",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+105,24.000.***.***-***.101,Koperasi Utama Permata Global,Firma,"Jalan Suryakencana No. 856
+Balikpapan, BT 08937",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+106,25.000.***.***-***.101,Firma Global Terpadu,UD,"Gg. Stasiun Wonokromo No. 271
+Kediri, SU 69948",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+107,26.000.***.***-***.101,PT Sinar Prima Mandiri,Firma,"Gg. Raya Ujungberung No. 8
+Jayapura, ST 82777",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+108,27.000.***.***-***.101,Perum Terpadu Garuda Jaya,Firma,"Jl. Raya Ujungberung No. 49
+Lhokseumawe, NT 25211",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+109,28.000.***.***-***.101,UD Karya Pusaka,Firma,"Gg. Pasirkoja No. 3
+Palopo, KR 46054",Non-Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+110,29.000.***.***-***.101,PT Tbk Rajawali Astra Niaga,UD,"Jalan Pacuan Kuda No. 9
+Banda Aceh, Papua 40178",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+111,30.000.***.***-***.101,PT Tbk Makmur Cipta,UD,"Gg. Abdul Muis No. 9
+Bogor, Banten 87399",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+112,31.000.***.***-***.101,UD Utama Niaga,PT,"Jalan Dr. Djunjunan No. 93
+Padangpanjang, BA 94928",Dalam Pemeriksaan,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+113,32.000.***.***-***.101,PT Tbk Astra Makmur,PT,"Gang Kendalsari No. 08
+Subulussalam, Nusa Tenggara Timur 94638",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+114,33.000.***.***-***.101,PT Tbk Abadi Prima Lestari,CV,"Gg. Moch. Toha No. 196
+Bukittinggi, Sulawesi Tengah 72816",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+115,34.000.***.***-***.101,Koperasi Buana Berlian Niaga,UD,"Jalan Kapten Muslihat No. 138
+Malang, Jawa Timur 29402",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+116,35.000.***.***-***.101,Perum Mandiri Sinar Permata,Firma,"Gang Jend. A. Yani No. 7
+Tomohon, YO 43170",Dalam Pemeriksaan,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+117,36.000.***.***-***.101,PT Intan Lestari Sinar,CV,"Gang Suryakencana No. 17
+Depok, Bengkulu 55910",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+118,37.000.***.***-***.101,PT Tbk Jaya Lestari,PT Tbk,"Gang Kutisari Selatan No. 997
+Purwokerto, Kepulauan Bangka Belitung 77851",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+119,38.000.***.***-***.101,PD Makmur Prima,PT,"Jl. Waringin No. 5
+Pagaralam, SS 90926",Dalam Pemeriksaan,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+120,39.000.***.***-***.101,Firma Garuda Abadi Usaha,UD,"Gg. K.H. Wahid Hasyim No. 3
+Pangkalpinang, Maluku Utara 75607",Non-Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+121,40.000.***.***-***.101,Perum Terpadu Mitra Mandiri,Firma,"Jl. Pasteur No. 797
+Sorong, MA 17027",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+122,41.000.***.***-***.101,Perum Nusantara Gemilang,Firma,"Gg. Dipatiukur No. 374
+Prabumulih, Aceh 61224",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+123,42.000.***.***-***.101,PD Niaga Mega,CV,"Jalan PHH. Mustofa No. 909
+Sawahlunto, SU 59216",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+124,43.000.***.***-***.101,Perum Mitra Prima,PT,"Jl. Ronggowarsito No. 1
+Palembang, Maluku 78009",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+125,44.000.***.***-***.101,Koperasi Karya Prima,PT,"Jalan Kapten Muslihat No. 9
+Bekasi, Gorontalo 70248",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+126,45.000.***.***-***.101,PT Sinar Utama,PT,"Gg. Laswi No. 360
+Batu, JI 00789",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+127,46.000.***.***-***.101,Firma Nusantara Utama Pusaka,PT,"Jalan Gardujati No. 22
+Serang, KU 45623",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+128,47.000.***.***-***.101,PT Tbk Usaha Sejahtera Indo,PT Tbk,"Gang Dr. Djunjunan No. 206
+Mataram, Bali 57431",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+129,48.000.***.***-***.101,Koperasi Mitra Global,UD,"Gang Dipenogoro No. 042
+Kota Administrasi Jakarta Selatan, Kepulauan Riau 78115",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+130,49.000.***.***-***.101,PT Berlian Jaya,PT,"Jl. W.R. Supratman No. 6
+Banda Aceh, JA 39113",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+131,50.000.***.***-***.101,PD Nusantara Mandiri Global,PT,"Gang Dipatiukur No. 780
+Banjar, DKI Jakarta 39019",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+132,51.000.***.***-***.101,CV Indo Mega Niaga,PT Tbk,"Jalan Pasir Koja No. 181
+Pontianak, Bengkulu 32935",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+133,52.000.***.***-***.101,CV Permata Terpadu,CV,"Gg. Peta No. 48
+Kota Administrasi Jakarta Utara, Kalimantan Selatan 87959",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+134,53.000.***.***-***.101,PD Berlian Berkah Permata,PT Tbk,"Jl. Cikapayang No. 01
+Lhokseumawe, SB 89705",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+135,54.000.***.***-***.101,PT Tbk Garuda Terpadu Intan,UD,"Gang Merdeka No. 6
+Jayapura, Maluku Utara 36769",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+136,55.000.***.***-***.101,Koperasi Pusaka Buana,CV,"Jalan Yos Sudarso No. 938
+Sawahlunto, BA 48073",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+137,56.000.***.***-***.101,PT Tbk Abadi Mandiri,UD,"Gang Kiaracondong No. 3
+Banda Aceh, Kalimantan Barat 81373",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+138,57.000.***.***-***.101,PT Tbk Utama Cipta Prima,Firma,"Gang Jend. A. Yani No. 49
+Tual, Sulawesi Selatan 28602",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+139,58.000.***.***-***.101,UD Abadi Cipta,PT,"Gg. Laswi No. 7
+Binjai, Maluku Utara 83208",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+140,59.000.***.***-***.101,Koperasi Indo Lestari,PT Tbk,"Jl. Ir. H. Djuanda No. 7
+Palu, Papua 61217",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+141,60.000.***.***-***.101,UD Buana Gemilang Sentosa,CV,"Gang Rajawali Barat No. 55
+Madiun, BE 33723",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+142,61.000.***.***-***.101,PD Elang Jaya,PT,"Jalan Asia Afrika No. 720
+Singkawang, Sulawesi Selatan 88926",Non-Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+143,62.000.***.***-***.101,PD Lestari Usaha,PT,"Gang Monginsidi No. 1
+Metro, Sulawesi Utara 82073",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+144,63.000.***.***-***.101,PD Usaha Terpadu Cipta,PT,"Gg. BKR No. 82
+Pekalongan, Bali 64778",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+145,64.000.***.***-***.101,PT Tbk Terpadu Bersama Rajawali,UD,"Jalan Rungkut Industri No. 70
+Batam, PB 22247",Non-Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+146,65.000.***.***-***.101,UD Bersama Sinar,PT,"Gg. Dr. Djunjunan No. 6
+Tanjungpinang, Aceh 80152",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+147,66.000.***.***-***.101,PT Buana Garuda,CV,"Jalan Surapati No. 4
+Palembang, KT 75322",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+148,67.000.***.***-***.101,Perum Makmur Sentosa,PT Tbk,"Gg. Peta No. 24
+Bandar Lampung, Jambi 54441",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+149,68.000.***.***-***.101,Perum Utama Mitra Buana,CV,"Gg. Rungkut Industri No. 8
+Manado, BA 00346",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+150,69.000.***.***-***.101,PT Pusaka Garuda Abadi,Firma,"Jl. Kebonjati No. 4
+Kota Administrasi Jakarta Barat, BA 53162",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+151,70.000.***.***-***.101,UD Sejahtera Berkah Merak,PT,"Gang Dipenogoro No. 0
+Sibolga, Maluku 10292",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+152,71.000.***.***-***.101,Perum Cipta Buana Mitra,CV,"Jl. Wonoayu No. 27
+Kupang, BE 59505",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+153,72.000.***.***-***.101,PT Tbk Utama Prima Elang,PT,"Jl. Gegerkalong Hilir No. 717
+Bogor, NT 82461",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+154,73.000.***.***-***.101,PT Tbk Sejahtera Berkah Permata,UD,"Jalan Ciumbuleuit No. 25
+Payakumbuh, KU 48595",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+155,74.000.***.***-***.101,PD Merak Gemilang Global,Firma,"Jl. M.H Thamrin No. 695
+Pekalongan, BE 25555",Dalam Pemeriksaan,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+156,75.000.***.***-***.101,PT Tbk Prima Cipta,PT,"Jalan Rajawali Timur No. 92
+Cimahi, Kepulauan Riau 72434",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+157,76.000.***.***-***.101,CV Astra Indo,PT Tbk,"Jalan Laswi No. 2
+Padang Sidempuan, JB 20784",Non-Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+158,77.000.***.***-***.101,CV Sentosa Astra Mega,CV,"Jalan Sukabumi No. 0
+Bukittinggi, SU 71432",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+159,78.000.***.***-***.101,CV Jaya Rajawali Bersama,CV,"Gang Cihampelas No. 0
+Depok, Maluku 59938",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+160,79.000.***.***-***.101,UD Nusantara Utama,PT,"Gang Pelajar Pejuang No. 6
+Bukittinggi, JK 81505",Non-Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+161,80.000.***.***-***.101,Firma Jaya Niaga Permata,UD,"Gg. Raya Setiabudhi No. 08
+Kota Administrasi Jakarta Pusat, Sumatera Selatan 61245",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+162,81.000.***.***-***.101,Firma Intan Elang Utama,CV,"Gang Moch. Ramdan No. 1
+Binjai, KR 57541",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+163,82.000.***.***-***.101,Perum Merak Gemilang,PT Tbk,"Gang Veteran No. 272
+Bengkulu, JA 30733",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+164,83.000.***.***-***.101,PT Terpadu Global,CV,"Jl. Cikutra Barat No. 5
+Sabang, Gorontalo 74063",Non-Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+165,84.000.***.***-***.101,UD Mitra Mega,CV,"Gang Jakarta No. 60
+Tarakan, Sulawesi Selatan 13965",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+166,85.000.***.***-***.101,UD Sinar Merak,PT,"Jl. Ahmad Dahlan No. 857
+Banjar, JI 74073",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+167,86.000.***.***-***.101,Perum Cipta Niaga,CV,"Jl. Ciwastra No. 28
+Pasuruan, Sulawesi Tengah 27358",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+168,87.000.***.***-***.101,Perum Mandiri Global,PT Tbk,"Gang Waringin No. 9
+Prabumulih, Kalimantan Selatan 14060",Non-Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+169,88.000.***.***-***.101,CV Nusantara Cipta,PT Tbk,"Jalan Antapani Lama No. 073
+Subulussalam, Kalimantan Utara 34223",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+170,89.000.***.***-***.101,CV Utama Elang,UD,"Gg. R.E Martadinata No. 3
+Bengkulu, Kalimantan Tengah 36259",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+171,90.000.***.***-***.101,PT Karya Lestari Usaha,PT,"Jalan Kebonjati No. 753
+Pontianak, JK 37844",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+172,91.000.***.***-***.101,PT Pusaka Mitra,CV,"Gg. Bangka Raya No. 101
+Kendari, BA 70926",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+173,92.000.***.***-***.101,Perum Mega Intan Bersama,Firma,"Gg. R.E Martadinata No. 23
+Tomohon, Aceh 10985",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+174,93.000.***.***-***.101,PD Berlian Sinar Gemilang,UD,"Jl. Tebet Barat Dalam No. 9
+Kota Administrasi Jakarta Timur, Nusa Tenggara Timur 53370",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+175,94.000.***.***-***.101,Perum Jaya Pusaka,PT Tbk,"Gang Soekarno Hatta No. 13
+Padangpanjang, MA 56878",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+176,95.000.***.***-***.101,UD Buana Mitra Berlian,PT,"Gg. Jend. A. Yani No. 154
+Sorong, Kalimantan Timur 09322",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+177,96.000.***.***-***.101,Perum Bersama Mega Merak,PT,"Jl. Rajawali Barat No. 181
+Bitung, Jawa Barat 11226",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+178,97.000.***.***-***.101,PD Mandiri Bersama Sinar,UD,"Gg. Dipenogoro No. 258
+Bau-Bau, BA 35082",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+179,98.000.***.***-***.101,PT Tbk Makmur Rajawali Berkah,PT Tbk,"Gang Suniaraja No. 6
+Samarinda, RI 25902",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+180,99.000.***.***-***.101,PT Tbk Astra Cendana,UD,"Jl. Cempaka No. 093
+Dumai, SS 19899",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+181,10.000.***.***-***.102,PT Abadi Niaga,PT,"Jl. Ciwastra No. 99
+Yogyakarta, Sulawesi Tengah 98792",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+182,11.000.***.***-***.102,PT Berlian Permata Global,PT,"Jalan Gedebage Selatan No. 94
+Tasikmalaya, Jambi 39189",Non-Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+183,12.000.***.***-***.102,PT Permata Makmur,CV,"Gg. Sukajadi No. 076
+Banjar, Kalimantan Timur 08469",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+184,13.000.***.***-***.102,PT Jaya Global Berlian,PT,"Gang Monginsidi No. 38
+Mataram, KS 23974",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+185,14.000.***.***-***.102,Koperasi Pusaka Niaga,PT,"Jalan Veteran No. 2
+Sukabumi, DKI Jakarta 83061",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+186,15.000.***.***-***.102,Firma Karya Gemilang,Firma,"Jalan Ir. H. Djuanda No. 6
+Madiun, SU 30341",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+187,16.000.***.***-***.102,PD Elang Jaya Sentosa,CV,"Jl. Peta No. 343
+Bogor, Kepulauan Bangka Belitung 56845",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+188,17.000.***.***-***.102,PT Mandiri Elang,PT,"Jalan Gedebage Selatan No. 1
+Surakarta, KB 67602",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+189,18.000.***.***-***.102,Firma Mandiri Berkah,CV,"Jalan Ciwastra No. 859
+Kotamobagu, Jawa Timur 49829",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+190,19.000.***.***-***.102,PD Niaga Gemilang Sentosa,UD,"Gg. Otto Iskandardinata No. 9
+Lhokseumawe, KR 57398",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+191,20.000.***.***-***.102,PT Tbk Permata Pusaka Astra,Firma,"Jalan Suryakencana No. 26
+Palangkaraya, KI 88239",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+192,21.000.***.***-***.102,PD Buana Lestari Elang,PT Tbk,"Gang Sentot Alibasa No. 6
+Banjarmasin, NT 16071",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+193,22.000.***.***-***.102,Koperasi Lestari Rajawali Karya,PT,"Jalan Rungkut Industri No. 6
+Pangkalpinang, Riau 94971",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+194,23.000.***.***-***.102,Perum Rajawali Mega Utama,Firma,"Gang Sentot Alibasa No. 283
+Dumai, LA 25545",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+195,24.000.***.***-***.102,UD Merak Nusantara,PT Tbk,"Jl. Jayawijaya No. 24
+Ambon, KU 36059",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+196,25.000.***.***-***.102,Firma Nusantara Mega Garuda,PT,"Jalan Moch. Toha No. 406
+Sungai Penuh, JT 93841",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+197,26.000.***.***-***.102,CV Makmur Mega Rajawali,UD,"Gg. Rajiman No. 130
+Palembang, Kalimantan Selatan 07718",Non-Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+198,27.000.***.***-***.102,PD Indo Cipta,Firma,"Gg. Raya Setiabudhi No. 5
+Kota Administrasi Jakarta Pusat, JA 42088",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+199,28.000.***.***-***.102,CV Terpadu Niaga,CV,"Gang Ronggowarsito No. 6
+Sorong, Jambi 12652",Dalam Pemeriksaan,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+200,29.000.***.***-***.102,PT Tbk Utama Gemilang Lestari,PT,"Jl. Medokan Ayu No. 0
+Bekasi, BB 11208",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+201,30.000.***.***-***.102,CV Pusaka Prima Niaga,Firma,"Gg. Stasiun Wonokromo No. 291
+Makassar, NB 80742",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+202,31.000.***.***-***.102,PT Karya Buana Lestari,PT,"Jl. Kebonjati No. 57
+Kupang, KS 58768",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+203,32.000.***.***-***.102,Koperasi Sentosa Lestari Intan,Firma,"Gg. Kiaracondong No. 370
+Kota Administrasi Jakarta Pusat, RI 17581",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+204,33.000.***.***-***.102,Perum Global Intan,PT,"Jl. Rajiman No. 7
+Cilegon, JK 00902",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+205,34.000.***.***-***.102,PT Tbk Jaya Astra,UD,"Jl. Ahmad Yani No. 58
+Bengkulu, Sumatera Utara 09794",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+206,35.000.***.***-***.102,UD Utama Global,CV,"Jl. M.H Thamrin No. 183
+Pematangsiantar, SU 45971",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+207,36.000.***.***-***.102,PT Makmur Berkah,CV,"Jl. Jakarta No. 19
+Tidore Kepulauan, JA 23911",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+208,37.000.***.***-***.102,Firma Cipta Terpadu,UD,"Gg. Rajawali Timur No. 71
+Palopo, KB 56931",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+209,38.000.***.***-***.102,Firma Elang Astra Terpadu,Firma,"Jl. Monginsidi No. 872
+Blitar, Bengkulu 60319",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+210,39.000.***.***-***.102,Perum Jaya Mega,PT Tbk,"Gg. Rajawali Barat No. 33
+Bima, Sulawesi Tengah 84149",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+211,40.000.***.***-***.102,PD Nusantara Cendana,Firma,"Jalan Kapten Muslihat No. 5
+Batu, KB 03433",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+212,41.000.***.***-***.102,Koperasi Astra Berlian,Firma,"Jalan Surapati No. 966
+Tegal, Maluku 06394",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+213,42.000.***.***-***.102,Perum Permata Buana,PT,"Gg. Abdul Muis No. 4
+Lhokseumawe, DI Yogyakarta 89392",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+214,43.000.***.***-***.102,CV Garuda Berkah Nusantara,CV,"Gg. Veteran No. 204
+Binjai, NB 05044",Dalam Pemeriksaan,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+215,44.000.***.***-***.102,UD Cipta Prima Merak,PT Tbk,"Jl. Kendalsari No. 251
+Banjar, Papua Barat 66270",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+216,45.000.***.***-***.102,PT Garuda Cipta Sinar,CV,"Gg. HOS. Cokroaminoto No. 280
+Kota Administrasi Jakarta Timur, Lampung 70388",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+217,46.000.***.***-***.102,PD Intan Indo,PT,"Jl. M.H Thamrin No. 377
+Sorong, Sulawesi Barat 30701",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+218,47.000.***.***-***.102,PT Tbk Nusantara Global,CV,"Gang Lembong No. 2
+Batu, Kepulauan Riau 44129",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+219,48.000.***.***-***.102,Firma Indo Gemilang,UD,"Jl. Moch. Ramdan No. 17
+Pangkalpinang, Sulawesi Selatan 51397",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+220,49.000.***.***-***.102,Koperasi Utama Intan Garuda,PT Tbk,"Gg. Ahmad Dahlan No. 85
+Jayapura, JB 77488",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+221,50.000.***.***-***.102,Koperasi Intan Jaya Sejahtera,PT Tbk,"Jl. Laswi No. 9
+Tarakan, Sumatera Barat 01949",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+222,51.000.***.***-***.102,PT Sinar Rajawali Sejahtera,Firma,"Jl. Tebet Barat Dalam No. 279
+Mataram, KU 25527",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+223,52.000.***.***-***.102,UD Pusaka Mandiri Mitra,PT,"Jalan Stasiun Wonokromo No. 4
+Purwokerto, Sulawesi Tengah 63057",Non-Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+224,53.000.***.***-***.102,UD Buana Intan Jaya,Firma,"Gg. H.J Maemunah No. 425
+Sabang, SS 32007",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+225,54.000.***.***-***.102,Perum Sejahtera Mitra Global,CV,"Gg. Sentot Alibasa No. 67
+Serang, DKI Jakarta 50450",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+226,55.000.***.***-***.102,Perum Permata Jaya,PT,"Jl. Kutisari Selatan No. 393
+Salatiga, PA 45910",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+227,56.000.***.***-***.102,PT Cendana Usaha Garuda,UD,"Gg. Bangka Raya No. 04
+Sibolga, Sumatera Utara 42297",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+228,57.000.***.***-***.102,PT Karya Sinar,PT,"Jalan Gegerkalong Hilir No. 4
+Tanjungbalai, SR 66518",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+229,58.000.***.***-***.102,Perum Berlian Cendana,PT,"Jalan Stasiun Wonokromo No. 9
+Tebingtinggi, Sumatera Utara 86701",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+230,59.000.***.***-***.102,CV Permata Merak,PT,"Gg. Sukajadi No. 57
+Denpasar, Kalimantan Tengah 65544",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+231,60.000.***.***-***.102,UD Lestari Gemilang,Firma,"Gg. BKR No. 03
+Pematangsiantar, SS 76776",Dalam Pemeriksaan,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+232,61.000.***.***-***.102,CV Jaya Cendana Mandiri,PT,"Gang M.T Haryono No. 42
+Sorong, Sulawesi Utara 37131",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+233,62.000.***.***-***.102,PD Indo Lestari,PT Tbk,"Gang Waringin No. 72
+Cirebon, AC 73935",Dalam Pemeriksaan,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+234,63.000.***.***-***.102,PD Global Cendana Karya,PT Tbk,"Jl. Indragiri No. 6
+Banjar, Kalimantan Timur 40714",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+235,64.000.***.***-***.102,Koperasi Merak Garuda Utama,UD,"Jalan Tubagus Ismail No. 9
+Tual, Kalimantan Barat 64512",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+236,65.000.***.***-***.102,Perum Makmur Usaha Terpadu,PT Tbk,"Gang Kapten Muslihat No. 472
+Palangkaraya, Kalimantan Timur 56115",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+237,66.000.***.***-***.102,Koperasi Astra Gemilang,PT,"Jl. Merdeka No. 9
+Kotamobagu, Sulawesi Utara 19528",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+238,67.000.***.***-***.102,CV Astra Rajawali Berlian,PT,"Gg. Antapani Lama No. 4
+Jayapura, DKI Jakarta 10365",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+239,68.000.***.***-***.102,PD Niaga Berkah,UD,"Jl. Suryakencana No. 698
+Tidore Kepulauan, Kalimantan Utara 54037",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+240,69.000.***.***-***.102,PD Astra Terpadu,UD,"Gang Ciwastra No. 34
+Mataram, Kalimantan Timur 58049",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+241,70.000.***.***-***.102,Firma Makmur Berkah,CV,"Jl. Rajawali Timur No. 80
+Bukittinggi, Jawa Barat 39031",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+242,71.000.***.***-***.102,PT Tbk Lestari Prima Cendana,UD,"Jl. KH Amin Jasuta No. 45
+Samarinda, JA 47567",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+243,72.000.***.***-***.102,PD Sentosa Sinar Mitra,CV,"Gang Siliwangi No. 203
+Ternate, Riau 32984",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+244,73.000.***.***-***.102,PT Tbk Mandiri Mega,Firma,"Gang BKR No. 7
+Sorong, Nusa Tenggara Timur 24368",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+245,74.000.***.***-***.102,PT Tbk Garuda Usaha Utama,UD,"Jl. Ahmad Yani No. 120
+Langsa, Sulawesi Selatan 99113",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+246,75.000.***.***-***.102,Firma Usaha Cipta Permata,UD,"Gg. Pacuan Kuda No. 72
+Banda Aceh, MA 95133",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+247,76.000.***.***-***.102,PT Tbk Utama Global,UD,"Jl. Siliwangi No. 2
+Semarang, DI Yogyakarta 75993",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+248,77.000.***.***-***.102,CV Mitra Sentosa Sinar,PT Tbk,"Gg. Bangka Raya No. 920
+Padang, KI 41187",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+249,78.000.***.***-***.102,CV Permata Nusantara,PT,"Jl. Gegerkalong Hilir No. 7
+Metro, KU 83523",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+250,79.000.***.***-***.102,UD Niaga Cipta,PT,"Jl. Abdul Muis No. 70
+Kupang, Kalimantan Barat 87225",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+251,80.000.***.***-***.102,Koperasi Berlian Prima Usaha,Firma,"Jl. Ahmad Dahlan No. 5
+Padang, Kalimantan Selatan 71481",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+252,81.000.***.***-***.102,Firma Berkah Prima Garuda,PT Tbk,"Jalan Ronggowarsito No. 598
+Sabang, Sulawesi Tenggara 13331",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+253,82.000.***.***-***.102,PT Karya Utama Makmur,Firma,"Jl. Pacuan Kuda No. 924
+Tomohon, Sulawesi Tengah 96343",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+254,83.000.***.***-***.102,PT Terpadu Nusantara Mitra,UD,"Gg. Pacuan Kuda No. 88
+Cilegon, Jawa Timur 14074",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+255,84.000.***.***-***.102,CV Permata Garuda,PT,"Jalan Stasiun Wonokromo No. 7
+Tarakan, PB 15486",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+256,85.000.***.***-***.102,PT Tbk Berlian Rajawali,PT,"Gang Jayawijaya No. 475
+Surabaya, Sulawesi Selatan 48139",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+257,86.000.***.***-***.102,Perum Permata Nusantara,PT,"Gg. Cikapayang No. 186
+Probolinggo, KT 39232",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+258,87.000.***.***-***.102,Firma Mandiri Prima,UD,"Gg. Rajawali Timur No. 4
+Kota Administrasi Jakarta Selatan, JI 42652",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+259,88.000.***.***-***.102,PD Jaya Indo Sentosa,PT,"Jl. Peta No. 963
+Palu, Lampung 48984",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+260,89.000.***.***-***.102,UD Garuda Makmur Sinar,PT Tbk,"Gg. Raya Setiabudhi No. 8
+Tebingtinggi, ST 15521",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+261,90.000.***.***-***.102,PT Makmur Sinar Astra,CV,"Gang Suryakencana No. 99
+Samarinda, Sulawesi Utara 65859",Non-Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+262,91.000.***.***-***.102,PD Karya Rajawali Mandiri,CV,"Jalan Sukabumi No. 292
+Bekasi, Banten 79517",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+263,92.000.***.***-***.102,UD Jaya Gemilang Rajawali,PT,"Gg. Kiaracondong No. 8
+Tidore Kepulauan, DI Yogyakarta 82605",Non-Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+264,93.000.***.***-***.102,UD Nusantara Berkah Abadi,PT Tbk,"Gg. Antapani Lama No. 88
+Manado, KT 04279",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+265,94.000.***.***-***.102,PD Buana Sejahtera Rajawali,Firma,"Gg. Pasir Koja No. 0
+Tegal, Lampung 66467",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+266,95.000.***.***-***.102,Koperasi Mega Cipta,Firma,"Jalan Ahmad Yani No. 491
+Bandung, KB 14030",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+267,96.000.***.***-***.102,Firma Bersama Usaha Permata,UD,"Jalan Ahmad Dahlan No. 244
+Bau-Bau, KS 25997",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+268,97.000.***.***-***.102,PT Abadi Usaha Bersama,Firma,"Jalan Moch. Ramdan No. 5
+Yogyakarta, RI 05748",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+269,98.000.***.***-***.102,CV Utama Cendana Indo,PT Tbk,"Gg. Ahmad Dahlan No. 586
+Sukabumi, KB 34001",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+270,99.000.***.***-***.102,Firma Mitra Usaha,PT,"Jl. Rajawali Timur No. 9
+Tanjungpinang, MU 56248",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+271,10.000.***.***-***.103,UD Lestari Makmur Sentosa,PT,"Gang Laswi No. 039
+Mojokerto, Sulawesi Selatan 94293",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+272,11.000.***.***-***.103,Perum Mega Terpadu Cendana,CV,"Jalan Peta No. 5
+Malang, JA 82081",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+273,12.000.***.***-***.103,PD Pusaka Utama Karya,PT Tbk,"Gg. S. Parman No. 312
+Batam, Banten 51713",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+274,13.000.***.***-***.103,Koperasi Permata Elang,PT Tbk,"Gang Dr. Djunjunan No. 7
+Semarang, Jawa Timur 64815",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+275,14.000.***.***-***.103,PT Tbk Sentosa Permata,UD,"Jalan Cikapayang No. 930
+Bandung, SS 95015",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+276,15.000.***.***-***.103,Koperasi Permata Utama,UD,"Jl. Moch. Toha No. 814
+Tangerang, NB 30031",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+277,16.000.***.***-***.103,Perum Berlian Abadi,UD,"Jl. Indragiri No. 68
+Pasuruan, Jambi 54898",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+278,17.000.***.***-***.103,Firma Mandiri Permata,Firma,"Gg. Rajawali Barat No. 27
+Parepare, PA 54292",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+279,18.000.***.***-***.103,Koperasi Permata Mandiri Karya,UD,"Gg. W.R. Supratman No. 88
+Bima, Kepulauan Bangka Belitung 11212",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+280,19.000.***.***-***.103,PT Tbk Abadi Gemilang,Firma,"Jalan Raya Ujungberung No. 753
+Sungai Penuh, SR 52096",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+281,20.000.***.***-***.103,Firma Permata Makmur Gemilang,UD,"Gg. Astana Anyar No. 1
+Medan, Jambi 46205",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+282,21.000.***.***-***.103,UD Global Buana,CV,"Gg. Ciwastra No. 44
+Jambi, KB 62602",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+283,22.000.***.***-***.103,PD Lestari Prima,PT Tbk,"Jalan Monginsidi No. 9
+Yogyakarta, Jawa Barat 05615",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+284,23.000.***.***-***.103,UD Mandiri Abadi Bersama,PT Tbk,"Jl. Cihampelas No. 513
+Purwokerto, Nusa Tenggara Timur 05927",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+285,24.000.***.***-***.103,PD Mandiri Nusantara,CV,"Gang Jakarta No. 14
+Bontang, Sulawesi Utara 37236",Dalam Pemeriksaan,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+286,25.000.***.***-***.103,PD Sejahtera Sentosa,PT,"Jalan Siliwangi No. 046
+Bau-Bau, SN 35471",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+287,26.000.***.***-***.103,PT Mega Global Intan,PT Tbk,"Jalan Ciwastra No. 55
+Semarang, Jawa Timur 99004",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+288,27.000.***.***-***.103,PT Elang Niaga,PT,"Gang KH Amin Jasuta No. 81
+Metro, Maluku Utara 13194",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+289,28.000.***.***-***.103,Koperasi Cendana Jaya Berlian,UD,"Gang Veteran No. 6
+Batu, Lampung 62404",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+290,29.000.***.***-***.103,Perum Makmur Astra Merak,UD,"Gg. Medokan Ayu No. 315
+Pangkalpinang, Bali 78723",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+291,30.000.***.***-***.103,PT Tbk Utama Lestari Usaha,CV,"Gg. KH Amin Jasuta No. 9
+Sukabumi, JB 25720",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+292,31.000.***.***-***.103,Koperasi Niaga Terpadu,CV,"Gg. Kapten Muslihat No. 892
+Banjarbaru, Nusa Tenggara Barat 40283",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+293,32.000.***.***-***.103,PT Tbk Pusaka Intan Karya,PT,"Jalan Moch. Toha No. 24
+Samarinda, PB 86001",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+294,33.000.***.***-***.103,Perum Jaya Karya Usaha,UD,"Jl. Rajawali Timur No. 45
+Kendari, GO 87188",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+295,34.000.***.***-***.103,CV Astra Karya Garuda,Firma,"Jl. Pasteur No. 9
+Dumai, Banten 70806",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+296,35.000.***.***-***.103,PT Tbk Nusantara Global,PT Tbk,"Gang Ahmad Dahlan No. 862
+Madiun, SU 21196",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+297,36.000.***.***-***.103,CV Jaya Utama Bersama,UD,"Gg. Gardujati No. 8
+Tangerang, DKI Jakarta 94508",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+298,37.000.***.***-***.103,PT Tbk Permata Gemilang,CV,"Jalan Surapati No. 28
+Palembang, KU 55602",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+299,38.000.***.***-***.103,UD Bersama Permata Cipta,Firma,"Gang Indragiri No. 26
+Sungai Penuh, SU 54367",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+300,39.000.***.***-***.103,Firma Global Elang Usaha,UD,"Jl. Moch. Ramdan No. 493
+Banjarbaru, KR 81430",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+301,40.000.***.***-***.103,Koperasi Nusantara Mitra,UD,"Jl. Cihampelas No. 10
+Bandar Lampung, DI Yogyakarta 21708",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+302,41.000.***.***-***.103,PT Tbk Abadi Sentosa,PT,"Jalan Bangka Raya No. 7
+Bandung, KU 18235",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+303,42.000.***.***-***.103,UD Sentosa Mitra,PT,"Jl. Kiaracondong No. 500
+Tanjungpinang, AC 02332",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+304,43.000.***.***-***.103,UD Global Bersama Permata,Firma,"Jl. Kutisari Selatan No. 485
+Kupang, Jawa Timur 77646",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+305,44.000.***.***-***.103,PD Intan Sejahtera Prima,PT,"Gang Wonoayu No. 5
+Semarang, PA 69730",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+306,45.000.***.***-***.103,CV Sejahtera Mitra Cipta,CV,"Gg. Moch. Toha No. 5
+Padangpanjang, NB 58119",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+307,46.000.***.***-***.103,PT Tbk Pusaka Mitra,PT,"Gang Antapani Lama No. 85
+Kendari, Papua Barat 56292",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+308,47.000.***.***-***.103,PD Rajawali Cipta,PT Tbk,"Jalan Rumah Sakit No. 6
+Palu, NB 85489",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+309,48.000.***.***-***.103,Perum Cipta Mega Buana,PT Tbk,"Jl. Kutisari Selatan No. 3
+Bau-Bau, Lampung 47122",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+310,49.000.***.***-***.103,PD Sejahtera Cipta Gemilang,CV,"Jalan Peta No. 8
+Serang, DKI Jakarta 45106",Dalam Pemeriksaan,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+311,50.000.***.***-***.103,PT Intan Mandiri Bersama,PT Tbk,"Gg. Cempaka No. 7
+Banjar, Kalimantan Selatan 21862",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+312,51.000.***.***-***.103,Firma Mega Rajawali Global,PT,"Jalan Raya Ujungberung No. 00
+Tarakan, Maluku Utara 23114",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+313,52.000.***.***-***.103,Koperasi Indo Garuda,CV,"Jl. Gegerkalong Hilir No. 077
+Tebingtinggi, Kalimantan Tengah 48308",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+314,53.000.***.***-***.103,PT Cipta Indo,Firma,"Gg. Bangka Raya No. 6
+Sukabumi, Kalimantan Tengah 03963",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+315,54.000.***.***-***.103,Firma Garuda Astra Permata,Firma,"Gg. Soekarno Hatta No. 479
+Pagaralam, Sulawesi Tenggara 68330",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+316,55.000.***.***-***.103,PD Nusantara Mandiri Terpadu,UD,"Gg. Rungkut Industri No. 19
+Jambi, Jambi 69349",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+317,56.000.***.***-***.103,PD Mitra Mandiri Global,PT Tbk,"Gang Ciwastra No. 97
+Surabaya, BT 64505",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+318,57.000.***.***-***.103,PT Tbk Karya Rajawali,Firma,"Jalan M.T Haryono No. 88
+Gorontalo, Sumatera Selatan 93415",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+319,58.000.***.***-***.103,PT Rajawali Mega,CV,"Jl. Raya Ujungberung No. 2
+Bandar Lampung, SB 18665",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+320,59.000.***.***-***.103,PT Tbk Nusantara Buana,PT Tbk,"Jalan Gedebage Selatan No. 827
+Malang, NT 10112",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+321,60.000.***.***-***.103,PT Tbk Mitra Karya,PT,"Jl. Pasir Koja No. 72
+Mataram, SU 09436",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+322,61.000.***.***-***.103,Perum Mitra Astra,Firma,"Jl. Cikutra Timur No. 689
+Ambon, RI 70584",Dalam Pemeriksaan,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+323,62.000.***.***-***.103,PD Merak Sinar,Firma,"Gang Pasteur No. 9
+Ambon, BT 10035",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+324,63.000.***.***-***.103,PT Buana Indo,PT,"Jl. Sukajadi No. 2
+Pagaralam, Kalimantan Utara 10774",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+325,64.000.***.***-***.103,UD Berkah Karya,PT Tbk,"Jl. Kiaracondong No. 021
+Sibolga, Papua 78039",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+326,65.000.***.***-***.103,Firma Intan Pusaka,Firma,"Gg. Kebonjati No. 95
+Batu, Sulawesi Tenggara 27057",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+327,66.000.***.***-***.103,PT Tbk Mitra Karya,Firma,"Gang Dr. Djunjunan No. 7
+Sawahlunto, PB 24316",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+328,67.000.***.***-***.103,Koperasi Cipta Utama Cendana,PT Tbk,"Jalan Sukabumi No. 23
+Bitung, DKI Jakarta 66885",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+329,68.000.***.***-***.103,PT Tbk Buana Gemilang,PT Tbk,"Gg. Joyoboyo No. 224
+Pematangsiantar, JT 33294",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+330,69.000.***.***-***.103,PT Indo Terpadu Merak,UD,"Jl. Merdeka No. 25
+Tangerang Selatan, Sumatera Barat 81733",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+331,70.000.***.***-***.103,PT Berlian Merak Sinar,PT,"Jalan Otto Iskandardinata No. 5
+Kendari, Nusa Tenggara Barat 64910",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+332,71.000.***.***-***.103,PT Tbk Intan Elang Berlian,CV,"Gg. Pelajar Pejuang No. 64
+Tarakan, KI 53448",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+333,72.000.***.***-***.103,PT Tbk Mega Permata,Firma,"Gang Indragiri No. 44
+Bengkulu, YO 08150",Dalam Pemeriksaan,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+334,73.000.***.***-***.103,PT Tbk Sentosa Cendana Intan,CV,"Gang Kendalsari No. 19
+Sabang, Kalimantan Barat 94580",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+335,74.000.***.***-***.103,CV Garuda Cendana,UD,"Gg. Pasir Koja No. 8
+Metro, Sulawesi Tengah 81461",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+336,75.000.***.***-***.103,Koperasi Sinar Berkah Garuda,Firma,"Jl. Veteran No. 2
+Payakumbuh, Aceh 31257",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+337,76.000.***.***-***.103,Perum Garuda Elang,Firma,"Jalan Rajawali Timur No. 0
+Cilegon, YO 92762",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+338,77.000.***.***-***.103,Koperasi Terpadu Sinar,PT Tbk,"Gg. Laswi No. 6
+Gorontalo, Kalimantan Utara 96174",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+339,78.000.***.***-***.103,CV Gemilang Intan Mandiri,PT Tbk,"Jl. Abdul Muis No. 412
+Salatiga, PA 05005",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+340,79.000.***.***-***.103,Firma Nusantara Indo Rajawali,PT,"Jalan Setiabudhi No. 43
+Subulussalam, Nusa Tenggara Barat 56599",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+341,80.000.***.***-***.103,Koperasi Intan Merak,CV,"Gang Pacuan Kuda No. 6
+Pasuruan, Sulawesi Tenggara 12502",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+342,81.000.***.***-***.103,UD Bersama Mitra Berkah,PT,"Gg. Rajawali Timur No. 246
+Kota Administrasi Jakarta Selatan, PA 60937",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+343,82.000.***.***-***.103,Firma Mega Rajawali,PT,"Gang Pasir Koja No. 443
+Cirebon, KR 57260",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+344,83.000.***.***-***.103,PD Merak Intan Permata,CV,"Jalan Indragiri No. 5
+Ternate, KR 79588",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+345,84.000.***.***-***.103,Koperasi Berkah Cipta Mitra,PT,"Jl. R.E Martadinata No. 949
+Parepare, BA 73290",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+346,85.000.***.***-***.103,CV Intan Karya,CV,"Gg. Ronggowarsito No. 39
+Semarang, Sumatera Selatan 85571",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+347,86.000.***.***-***.103,PT Elang Terpadu Mitra,Firma,"Jalan Rajiman No. 66
+Medan, Kepulauan Bangka Belitung 07533",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+348,87.000.***.***-***.103,CV Mandiri Mitra Astra,PT Tbk,"Gg. Dr. Djunjunan No. 891
+Sungai Penuh, SS 08225",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+349,88.000.***.***-***.103,Perum Karya Mega Indo,CV,"Jl. Stasiun Wonokromo No. 51
+Kotamobagu, SU 70352",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+350,89.000.***.***-***.103,CV Terpadu Astra Nusantara,PT Tbk,"Jalan Ir. H. Djuanda No. 2
+Tarakan, PB 39472",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+351,90.000.***.***-***.103,PD Astra Nusantara,Firma,"Jl. HOS. Cokroaminoto No. 8
+Batu, Papua 04952",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+352,91.000.***.***-***.103,UD Lestari Jaya,PT,"Jl. Rajawali Timur No. 0
+Cirebon, Sulawesi Utara 50042",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+353,92.000.***.***-***.103,Perum Cipta Merak Garuda,CV,"Jalan Gardujati No. 059
+Magelang, NB 84710",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+354,93.000.***.***-***.103,Firma Usaha Mitra,UD,"Gang Jend. A. Yani No. 75
+Bandar Lampung, Sumatera Selatan 96568",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+355,94.000.***.***-***.103,CV Nusantara Niaga,CV,"Gang Kutai No. 6
+Kota Administrasi Jakarta Pusat, SU 34302",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+356,95.000.***.***-***.103,UD Buana Mandiri Berkah,UD,"Jalan Bangka Raya No. 5
+Kotamobagu, RI 99888",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+357,96.000.***.***-***.103,PT Tbk Mitra Niaga Merak,UD,"Gang Bangka Raya No. 03
+Padang, Jambi 71769",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+358,97.000.***.***-***.103,PD Berkah Mandiri,CV,"Jl. M.T Haryono No. 24
+Gorontalo, Kalimantan Tengah 16801",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+359,98.000.***.***-***.103,CV Bersama Prima,PT Tbk,"Gg. Laswi No. 26
+Mojokerto, Kalimantan Barat 27945",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+360,99.000.***.***-***.103,CV Karya Astra Merak,CV,"Jalan Otto Iskandardinata No. 7
+Tidore Kepulauan, SN 42047",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+361,10.000.***.***-***.104,PD Elang Sinar,PT,"Gg. Jend. Sudirman No. 491
+Bandung, Riau 19829",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+362,11.000.***.***-***.104,UD Bersama Elang,CV,"Gg. Dipenogoro No. 3
+Tasikmalaya, Jawa Timur 91278",Non-Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+363,12.000.***.***-***.104,Firma Bersama Mandiri Cendana,PT Tbk,"Gang M.T Haryono No. 117
+Cimahi, Gorontalo 10441",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+364,13.000.***.***-***.104,Koperasi Nusantara Berlian,Firma,"Gg. Cikutra Barat No. 9
+Sibolga, Nusa Tenggara Timur 64239",Dalam Pemeriksaan,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+365,14.000.***.***-***.104,PT Tbk Rajawali Merak Sinar,UD,"Gang Siliwangi No. 029
+Mojokerto, JA 22280",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+366,15.000.***.***-***.104,Firma Intan Pusaka,Firma,"Gg. PHH. Mustofa No. 348
+Mojokerto, YO 37356",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+367,16.000.***.***-***.104,UD Sinar Astra,Firma,"Jl. Pasir Koja No. 56
+Palembang, Kalimantan Utara 66705",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+368,17.000.***.***-***.104,Firma Global Jaya,Firma,"Gang Antapani Lama No. 3
+Prabumulih, MU 00162",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+369,18.000.***.***-***.104,UD Astra Mandiri Nusantara,CV,"Jalan Moch. Toha No. 20
+Pekalongan, AC 96546",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+370,19.000.***.***-***.104,Perum Sejahtera Utama Mitra,PT Tbk,"Gang HOS. Cokroaminoto No. 30
+Solok, BA 34768",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+371,20.000.***.***-***.104,UD Lestari Permata Utama,PT Tbk,"Gang K.H. Wahid Hasyim No. 51
+Sawahlunto, Nusa Tenggara Timur 71025",Dalam Pemeriksaan,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+372,21.000.***.***-***.104,Koperasi Rajawali Berlian,Firma,"Jl. Stasiun Wonokromo No. 333
+Kotamobagu, SB 18789",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+373,22.000.***.***-***.104,Perum Niaga Makmur,Firma,"Jalan Cikutra Barat No. 0
+Metro, Sulawesi Selatan 87741",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+374,23.000.***.***-***.104,PD Karya Lestari,CV,"Jalan Joyoboyo No. 39
+Cilegon, KB 85409",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+375,24.000.***.***-***.104,Firma Mitra Permata,UD,"Gg. Pasir Koja No. 0
+Sukabumi, SU 48785",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+376,25.000.***.***-***.104,PT Tbk Mitra Gemilang,PT Tbk,"Gang M.T Haryono No. 81
+Batam, RI 25762",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+377,26.000.***.***-***.104,PT Merak Bersama Utama,Firma,"Jalan Erlangga No. 7
+Lhokseumawe, Gorontalo 67947",Dalam Pemeriksaan,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+378,27.000.***.***-***.104,PT Rajawali Bersama Sejahtera,Firma,"Jalan Veteran No. 85
+Ternate, SS 16618",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+379,28.000.***.***-***.104,PT Buana Intan,CV,"Jl. Setiabudhi No. 7
+Pematangsiantar, DI Yogyakarta 28805",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+380,29.000.***.***-***.104,UD Usaha Elang Sentosa,PT Tbk,"Gg. Rajawali Timur No. 69
+Bontang, SG 88730",Non-Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+381,30.000.***.***-***.104,PD Lestari Abadi Cendana,Firma,"Jalan Cikutra Barat No. 406
+Probolinggo, Kalimantan Selatan 56676",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+382,31.000.***.***-***.104,PT Garuda Buana,PT,"Gang KH Amin Jasuta No. 8
+Purwokerto, Riau 77340",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+383,32.000.***.***-***.104,PT Tbk Elang Niaga,PT Tbk,"Jl. Astana Anyar No. 3
+Tarakan, Aceh 07666",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+384,33.000.***.***-***.104,Firma Berlian Gemilang Pusaka,UD,"Jl. Rajawali Timur No. 0
+Banjarmasin, Papua Barat 53673",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+385,34.000.***.***-***.104,CV Garuda Pusaka,CV,"Jl. Kendalsari No. 436
+Banjarbaru, KR 50996",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+386,35.000.***.***-***.104,Firma Utama Nusantara,PT Tbk,"Jl. M.T Haryono No. 2
+Dumai, BA 53674",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+387,36.000.***.***-***.104,PT Nusantara Sejahtera,PT,"Gang Sadang Serang No. 30
+Kota Administrasi Jakarta Utara, BE 98431",Non-Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+388,37.000.***.***-***.104,Perum Buana Lestari Permata,PT,"Gang Kapten Muslihat No. 49
+Tangerang, Sulawesi Tenggara 90315",Dalam Pemeriksaan,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+389,38.000.***.***-***.104,CV Prima Buana Lestari,Firma,"Jalan PHH. Mustofa No. 7
+Medan, KB 53304",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+390,39.000.***.***-***.104,PT Tbk Mandiri Sinar Makmur,Firma,"Jl. Dipatiukur No. 2
+Binjai, SU 67440",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+391,40.000.***.***-***.104,Koperasi Gemilang Elang,Firma,"Gang Astana Anyar No. 0
+Tangerang, JB 26198",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+392,41.000.***.***-***.104,UD Mitra Sejahtera Jaya,Firma,"Jl. Rawamangun No. 5
+Parepare, Gorontalo 81548",Non-Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+393,42.000.***.***-***.104,CV Terpadu Sentosa Nusantara,PT,"Gang Tebet Barat Dalam No. 5
+Semarang, KU 98721",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+394,43.000.***.***-***.104,PT Tbk Sinar Karya,UD,"Gg. Sukajadi No. 296
+Kendari, KU 08912",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+395,44.000.***.***-***.104,UD Abadi Intan Makmur,CV,"Jalan Rajawali Barat No. 596
+Sukabumi, Jambi 06608",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+396,45.000.***.***-***.104,PT Abadi Pusaka,UD,"Gg. H.J Maemunah No. 876
+Bukittinggi, Riau 06624",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+397,46.000.***.***-***.104,CV Terpadu Intan,CV,"Jl. Sadang Serang No. 337
+Langsa, Nusa Tenggara Timur 18071",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+398,47.000.***.***-***.104,PT Garuda Abadi Karya,PT Tbk,"Jalan Cikutra Barat No. 237
+Palembang, ST 14170",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+399,48.000.***.***-***.104,CV Bersama Lestari,Firma,"Jl. Kutai No. 230
+Surabaya, PA 44926",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+400,49.000.***.***-***.104,UD Garuda Sejahtera,UD,"Jalan Ahmad Yani No. 0
+Mataram, SU 32743",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+401,50.000.***.***-***.104,Firma Jaya Elang,UD,"Gg. Siliwangi No. 358
+Cilegon, Sulawesi Selatan 64535",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+402,51.000.***.***-***.104,Koperasi Astra Cipta Berkah,CV,"Gg. Moch. Ramdan No. 099
+Pariaman, Sumatera Barat 83114",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+403,52.000.***.***-***.104,PD Gemilang Utama Sinar,Firma,"Jl. Merdeka No. 19
+Tanjungpinang, JA 86537",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+404,53.000.***.***-***.104,Firma Buana Merak Astra,UD,"Jalan Rumah Sakit No. 530
+Pekalongan, Kalimantan Selatan 99499",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+405,54.000.***.***-***.104,PD Cipta Terpadu,PT,"Jalan Waringin No. 9
+Palangkaraya, SB 92673",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+406,55.000.***.***-***.104,PT Tbk Garuda Permata,PT,"Gg. Cikutra Barat No. 1
+Bandung, SG 14304",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+407,56.000.***.***-***.104,CV Sejahtera Indo,CV,"Gang Dipenogoro No. 32
+Bukittinggi, Jawa Timur 28982",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+408,57.000.***.***-***.104,Perum Jaya Usaha Indo,UD,"Gg. BKR No. 270
+Depok, Gorontalo 38108",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+409,58.000.***.***-***.104,Koperasi Merak Mandiri Sentosa,CV,"Gang Jakarta No. 336
+Bitung, Kalimantan Barat 32974",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+410,59.000.***.***-***.104,PT Tbk Rajawali Karya,PT,"Jalan Rawamangun No. 643
+Banda Aceh, Sulawesi Selatan 62766",Dalam Pemeriksaan,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+411,60.000.***.***-***.104,UD Mandiri Lestari,CV,"Gg. Jend. Sudirman No. 55
+Bengkulu, NT 54498",Dalam Pemeriksaan,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+412,61.000.***.***-***.104,Firma Intan Global Pusaka,PT Tbk,"Gang Sukajadi No. 11
+Probolinggo, DI Yogyakarta 39910",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+413,62.000.***.***-***.104,PT Tbk Berkah Buana,Firma,"Gang Rawamangun No. 212
+Tangerang Selatan, MU 49646",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+414,63.000.***.***-***.104,PT Nusantara Karya Cipta,PT,"Gang Jamika No. 7
+Pasuruan, KR 00845",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+415,64.000.***.***-***.104,Firma Intan Lestari,Firma,"Gg. Kendalsari No. 484
+Pekanbaru, Jawa Timur 03890",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+416,65.000.***.***-***.104,UD Mitra Pusaka,PT Tbk,"Gg. Cikutra Barat No. 16
+Salatiga, Banten 58010",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+417,66.000.***.***-***.104,Koperasi Elang Astra,UD,"Gg. Pasirkoja No. 0
+Kendari, BE 71482",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+418,67.000.***.***-***.104,PT Garuda Sejahtera,PT Tbk,"Jalan Jayawijaya No. 57
+Pagaralam, Papua Barat 93998",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+419,68.000.***.***-***.104,UD Usaha Bersama Astra,UD,"Jalan Ronggowarsito No. 44
+Purwokerto, Sulawesi Barat 26106",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+420,69.000.***.***-***.104,CV Elang Indo Sinar,Firma,"Gang Setiabudhi No. 53
+Banjar, Jawa Tengah 57899",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+421,70.000.***.***-***.104,Koperasi Abadi Garuda,PT Tbk,"Gang Suniaraja No. 00
+Kendari, JA 46605",Dalam Pemeriksaan,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+422,71.000.***.***-***.104,PT Tbk Garuda Permata,Firma,"Jl. Cikapayang No. 425
+Bengkulu, Jawa Timur 13244",Non-Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+423,72.000.***.***-***.104,PT Karya Sejahtera Astra,PT,"Jalan Pasteur No. 0
+Banjarmasin, LA 16255",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+424,73.000.***.***-***.104,Perum Buana Terpadu,Firma,"Gang BKR No. 37
+Ambon, Kalimantan Barat 63718",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+425,74.000.***.***-***.104,PT Berkah Cipta,PT Tbk,"Gg. Astana Anyar No. 2
+Meulaboh, NB 28258",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+426,75.000.***.***-***.104,Perum Gemilang Usaha,UD,"Gg. PHH. Mustofa No. 92
+Sibolga, KS 07022",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+427,76.000.***.***-***.104,PT Tbk Lestari Sinar Utama,UD,"Gg. Moch. Toha No. 002
+Madiun, Sumatera Barat 08059",Non-Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+428,77.000.***.***-***.104,PT Pusaka Utama Elang,PT,"Jalan Sukabumi No. 93
+Payakumbuh, KR 75420",Non-Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+429,78.000.***.***-***.104,Firma Cendana Elang Sentosa,UD,"Jl. Otto Iskandardinata No. 3
+Surakarta, DKI Jakarta 91850",Non-Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+430,79.000.***.***-***.104,CV Bersama Abadi,Firma,"Jalan Otto Iskandardinata No. 54
+Tanjungpinang, MA 84463",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+431,80.000.***.***-***.104,CV Berkah Berlian Mandiri,Firma,"Jalan Antapani Lama No. 1
+Tarakan, SG 73231",Dalam Pemeriksaan,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+432,81.000.***.***-***.104,UD Astra Mega,PT Tbk,"Gang Astana Anyar No. 270
+Tanjungpinang, BT 47869",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+433,82.000.***.***-***.104,PD Bersama Rajawali Niaga,UD,"Gang Siliwangi No. 7
+Bekasi, Kalimantan Tengah 05201",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+434,83.000.***.***-***.104,UD Gemilang Jaya,PT Tbk,"Jl. Medokan Ayu No. 3
+Blitar, Maluku 54531",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+435,84.000.***.***-***.104,Firma Gemilang Permata Karya,CV,"Jalan Cikutra Barat No. 0
+Langsa, Kepulauan Bangka Belitung 21824",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+436,85.000.***.***-***.104,UD Indo Permata,PT,"Jl. Medokan Ayu No. 0
+Langsa, Papua Barat 29869",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+437,86.000.***.***-***.104,PT Mega Buana Merak,PT,"Jalan Rumah Sakit No. 155
+Bandung, PA 60235",Non-Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+438,87.000.***.***-***.104,PT Tbk Makmur Permata,Firma,"Jl. Pasir Koja No. 85
+Sungai Penuh, SU 21635",Dalam Pemeriksaan,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+439,88.000.***.***-***.104,PD Gemilang Jaya Sejahtera,Firma,"Jl. Pasirkoja No. 303
+Semarang, JI 83045",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+440,89.000.***.***-***.104,Firma Terpadu Elang,PT Tbk,"Jl. Wonoayu No. 890
+Tanjungbalai, Kalimantan Barat 04894",Dalam Pemeriksaan,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+441,90.000.***.***-***.104,CV Jaya Buana Karya,CV,"Gg. Lembong No. 459
+Palu, AC 14726",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+442,91.000.***.***-***.104,Firma Mega Cipta Merak,PT Tbk,"Jl. Ir. H. Djuanda No. 745
+Kota Administrasi Jakarta Pusat, Bengkulu 68122",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+443,92.000.***.***-***.104,PT Tbk Elang Berkah Cendana,CV,"Gg. Raya Setiabudhi No. 2
+Solok, BT 61173",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+444,93.000.***.***-***.104,CV Cendana Sentosa,PT,"Gg. Sukabumi No. 967
+Bitung, SN 37292",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+445,94.000.***.***-***.104,Firma Pusaka Berlian,CV,"Jl. Astana Anyar No. 82
+Tanjungpinang, Kepulauan Bangka Belitung 65851",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+446,95.000.***.***-***.104,UD Merak Mitra,PT,"Gang Raya Setiabudhi No. 0
+Kendari, Banten 11081",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+447,96.000.***.***-***.104,PT Tbk Rajawali Karya Mandiri,CV,"Jl. Pacuan Kuda No. 3
+Bengkulu, Sumatera Selatan 10252",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+448,97.000.***.***-***.104,Firma Terpadu Global,Firma,"Gg. R.E Martadinata No. 7
+Kota Administrasi Jakarta Utara, Maluku 06805",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+449,98.000.***.***-***.104,PT Prima Rajawali,CV,"Jalan Kutai No. 210
+Bekasi, Aceh 40142",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+450,99.000.***.***-***.104,Firma Makmur Nusantara Utama,PT,"Jl. Gardujati No. 8
+Pematangsiantar, RI 93584",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+451,10.000.***.***-***.105,PD Sejahtera Jaya,UD,"Jl. Cikutra Barat No. 570
+Binjai, NT 51415",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+452,11.000.***.***-***.105,PT Utama Nusantara,CV,"Gg. Otto Iskandardinata No. 8
+Padangpanjang, Jawa Timur 26599",Dalam Pemeriksaan,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+453,12.000.***.***-***.105,CV Nusantara Bersama,CV,"Jl. Laswi No. 2
+Kediri, DKI Jakarta 59918",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+454,13.000.***.***-***.105,Firma Berlian Usaha,PT Tbk,"Gang Suniaraja No. 197
+Banda Aceh, Kalimantan Utara 15847",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+455,14.000.***.***-***.105,Perum Niaga Mega Intan,CV,"Jl. Jend. Sudirman No. 8
+Banjarmasin, DKI Jakarta 45890",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+456,15.000.***.***-***.105,PT Indo Mega,UD,"Gang Raya Ujungberung No. 55
+Solok, MA 56346",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+457,16.000.***.***-***.105,Perum Bersama Berkah,CV,"Gang Sukajadi No. 0
+Kota Administrasi Jakarta Timur, Lampung 53141",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+458,17.000.***.***-***.105,Firma Cipta Niaga,UD,"Jalan Bangka Raya No. 2
+Batu, Kalimantan Barat 68329",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+459,18.000.***.***-***.105,PT Tbk Abadi Prima Rajawali,PT Tbk,"Jalan Kutai No. 50
+Surakarta, Bengkulu 97579",Dalam Pemeriksaan,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+460,19.000.***.***-***.105,Perum Lestari Jaya Cipta,UD,"Gg. Siliwangi No. 4
+Tangerang, SB 49191",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+461,20.000.***.***-***.105,Perum Berlian Intan,CV,"Jl. Dipatiukur No. 065
+Bau-Bau, Nusa Tenggara Timur 69624",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+462,21.000.***.***-***.105,Firma Nusantara Buana,PT Tbk,"Jalan R.E Martadinata No. 4
+Tebingtinggi, SG 59711",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+463,22.000.***.***-***.105,UD Sentosa Mitra,CV,"Gg. Joyoboyo No. 216
+Sungai Penuh, Kepulauan Bangka Belitung 34437",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+464,23.000.***.***-***.105,PT Nusantara Merak Cendana,UD,"Jalan Setiabudhi No. 6
+Tasikmalaya, Sumatera Selatan 82260",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+465,24.000.***.***-***.105,PT Tbk Rajawali Cendana Mandiri,PT,"Gg. Pasteur No. 014
+Tebingtinggi, Sulawesi Utara 98412",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+466,25.000.***.***-***.105,UD Global Mandiri Sejahtera,Firma,"Gang Tubagus Ismail No. 25
+Bontang, BB 61770",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+467,26.000.***.***-***.105,Firma Niaga Buana Usaha,CV,"Gg. H.J Maemunah No. 24
+Bau-Bau, Kalimantan Barat 14440",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+468,27.000.***.***-***.105,Perum Bersama Abadi,PT,"Gang Jend. Sudirman No. 43
+Tual, Sulawesi Selatan 37285",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+469,28.000.***.***-***.105,PD Makmur Jaya Sentosa,PT Tbk,"Jalan Ciumbuleuit No. 98
+Samarinda, Kepulauan Bangka Belitung 13158",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+470,29.000.***.***-***.105,CV Lestari Indo Sejahtera,PT,"Jalan Kendalsari No. 4
+Tarakan, LA 69694",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+471,30.000.***.***-***.105,Perum Global Sejahtera Elang,PT Tbk,"Gg. Raya Setiabudhi No. 2
+Tarakan, Kalimantan Barat 65202",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+472,31.000.***.***-***.105,Koperasi Abadi Sejahtera,CV,"Jalan Suniaraja No. 36
+Tangerang Selatan, NB 79379",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+473,32.000.***.***-***.105,CV Nusantara Berlian,CV,"Jl. M.H Thamrin No. 438
+Banjarbaru, BE 84708",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+474,33.000.***.***-***.105,Perum Indo Utama Sejahtera,Firma,"Jl. Ahmad Yani No. 12
+Tebingtinggi, AC 48809",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+475,34.000.***.***-***.105,PT Karya Sentosa Bersama,UD,"Jalan Kapten Muslihat No. 5
+Purwokerto, BA 71826",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+476,35.000.***.***-***.105,CV Rajawali Makmur,PT Tbk,"Jalan Bangka Raya No. 04
+Kupang, Kepulauan Bangka Belitung 65771",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+477,36.000.***.***-***.105,CV Global Mandiri,Firma,"Gang Monginsidi No. 160
+Meulaboh, JK 84796",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+478,37.000.***.***-***.105,Perum Niaga Merak,PT,"Jl. Indragiri No. 64
+Sibolga, AC 02326",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+479,38.000.***.***-***.105,Perum Elang Jaya,UD,"Jl. Gardujati No. 611
+Sawahlunto, MU 40216",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+480,39.000.***.***-***.105,UD Abadi Sejahtera,Firma,"Gang Jend. A. Yani No. 647
+Salatiga, Papua 42754",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+481,40.000.***.***-***.105,PT Nusantara Sentosa Prima,PT,"Gg. Ciwastra No. 41
+Dumai, PA 94681",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+482,41.000.***.***-***.105,Firma Terpadu Sejahtera,Firma,"Gg. Kendalsari No. 9
+Sawahlunto, PB 83480",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+483,42.000.***.***-***.105,Perum Karya Indo Berlian,PT Tbk,"Gg. Sadang Serang No. 5
+Kupang, Nusa Tenggara Timur 00608",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+484,43.000.***.***-***.105,UD Mitra Berkah,Firma,"Jalan Jend. A. Yani No. 72
+Tasikmalaya, Bali 65507",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+485,44.000.***.***-***.105,CV Merak Indo Prima,UD,"Jalan R.E Martadinata No. 60
+Kotamobagu, JA 29016",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+486,45.000.***.***-***.105,UD Prima Buana Berlian,UD,"Jl. Setiabudhi No. 5
+Kupang, DI Yogyakarta 92986",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+487,46.000.***.***-***.105,Perum Garuda Buana,PT Tbk,"Jalan Gegerkalong Hilir No. 336
+Pasuruan, JI 59070",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+488,47.000.***.***-***.105,CV Mandiri Terpadu,PT Tbk,"Jl. Gedebage Selatan No. 716
+Tidore Kepulauan, Maluku 62924",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+489,48.000.***.***-***.105,CV Sinar Prima Abadi,CV,"Jalan Gardujati No. 483
+Tebingtinggi, Papua 86433",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+490,49.000.***.***-***.105,UD Cendana Karya,Firma,"Gg. Ciwastra No. 414
+Payakumbuh, Sulawesi Tengah 16899",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+491,50.000.***.***-***.105,PD Permata Utama Abadi,PT,"Gg. Kendalsari No. 55
+Magelang, PA 03279",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+492,51.000.***.***-***.105,UD Mitra Prima Niaga,PT,"Gg. Dr. Djunjunan No. 527
+Sungai Penuh, YO 64799",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+493,52.000.***.***-***.105,CV Mega Indo Usaha,UD,"Gang Kutisari Selatan No. 3
+Gorontalo, MU 60094",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+494,53.000.***.***-***.105,PT Tbk Mega Rajawali,PT Tbk,"Gang Surapati No. 196
+Palembang, AC 69969",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+495,54.000.***.***-***.105,PT Tbk Permata Astra Jaya,PT,"Jalan Moch. Toha No. 1
+Blitar, Kepulauan Riau 78617",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+496,55.000.***.***-***.105,PT Tbk Terpadu Global Niaga,UD,"Jl. Moch. Toha No. 992
+Bengkulu, Maluku Utara 17885",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+497,56.000.***.***-***.105,Koperasi Elang Berlian,PT Tbk,"Jalan Ronggowarsito No. 067
+Tanjungbalai, Papua Barat 29671",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+498,57.000.***.***-***.105,UD Lestari Makmur Terpadu,CV,"Jalan Cihampelas No. 33
+Bau-Bau, BB 00640",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+499,58.000.***.***-***.105,PT Tbk Sentosa Berlian Garuda,PT Tbk,"Gg. Merdeka No. 4
+Tidore Kepulauan, Papua Barat 03232",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+500,59.000.***.***-***.105,Koperasi Pusaka Usaha Gemilang,PT Tbk,"Jl. Asia Afrika No. 899
+Padang, KT 35572",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+501,60.000.***.***-***.105,PT Tbk Permata Global Nusantara,UD,"Jl. Kendalsari No. 61
+Manado, Sulawesi Barat 98550",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+502,61.000.***.***-***.105,CV Gemilang Jaya,PT Tbk,"Gang Peta No. 3
+Makassar, BE 72781",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+503,62.000.***.***-***.105,Perum Merak Prima Sinar,PT,"Jalan Bangka Raya No. 1
+Sungai Penuh, Kepulauan Bangka Belitung 50123",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+504,63.000.***.***-***.105,Perum Usaha Sinar,PT Tbk,"Jl. Sentot Alibasa No. 18
+Sungai Penuh, SG 84763",Dalam Pemeriksaan,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+505,64.000.***.***-***.105,PT Tbk Cendana Nusantara,PT,"Gg. Erlangga No. 526
+Prabumulih, Papua Barat 19885",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+506,65.000.***.***-***.105,CV Intan Mega,PT,"Gang Antapani Lama No. 26
+Banda Aceh, Jawa Tengah 16434",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+507,66.000.***.***-***.105,PT Global Astra,PT Tbk,"Jalan Raya Ujungberung No. 60
+Singkawang, Riau 56273",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+508,67.000.***.***-***.105,Firma Usaha Karya Merak,Firma,"Gg. Cikapayang No. 2
+Meulaboh, Sulawesi Barat 09648",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+509,68.000.***.***-***.105,PT Tbk Sinar Elang,CV,"Jalan S. Parman No. 1
+Sibolga, Gorontalo 92022",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+510,69.000.***.***-***.105,PD Gemilang Rajawali,PT Tbk,"Jl. R.E Martadinata No. 916
+Ternate, SS 55739",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+511,70.000.***.***-***.105,PT Mega Usaha,CV,"Gang Cihampelas No. 6
+Pagaralam, Kalimantan Barat 02919",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+512,71.000.***.***-***.105,Koperasi Bersama Intan Niaga,UD,"Gang Asia Afrika No. 53
+Pagaralam, BA 20682",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+513,72.000.***.***-***.105,PT Tbk Garuda Gemilang Buana,PT,"Gg. BKR No. 03
+Pontianak, YO 00913",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+514,73.000.***.***-***.105,PT Tbk Sejahtera Permata Merak,UD,"Jalan Dipenogoro No. 497
+Mataram, SU 35213",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+515,74.000.***.***-***.105,Firma Pusaka Makmur Usaha,PT Tbk,"Gang HOS. Cokroaminoto No. 69
+Pematangsiantar, Sulawesi Barat 88089",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+516,75.000.***.***-***.105,PT Nusantara Usaha,CV,"Gg. Jend. A. Yani No. 1
+Kotamobagu, Gorontalo 29755",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+517,76.000.***.***-***.105,CV Garuda Rajawali,PT,"Gang Rajawali Barat No. 819
+Medan, DKI Jakarta 42769",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+518,77.000.***.***-***.105,UD Global Karya Permata,CV,"Jl. Tebet Barat Dalam No. 8
+Tebingtinggi, AC 94463",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+519,78.000.***.***-***.105,PD Intan Bersama Global,CV,"Gg. Veteran No. 84
+Kota Administrasi Jakarta Pusat, JK 95634",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+520,79.000.***.***-***.105,PT Tbk Sejahtera Lestari Utama,PT Tbk,"Gg. Rawamangun No. 10
+Binjai, Nusa Tenggara Timur 97601",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+521,80.000.***.***-***.105,PT Tbk Nusantara Sejahtera,UD,"Gg. Cihampelas No. 287
+Padang, JA 27748",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+522,81.000.***.***-***.105,Perum Niaga Makmur Berkah,Firma,"Jl. PHH. Mustofa No. 62
+Balikpapan, Banten 63885",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+523,82.000.***.***-***.105,UD Bersama Elang Rajawali,UD,"Gang Dipenogoro No. 135
+Mataram, Jawa Tengah 30265",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+524,83.000.***.***-***.105,PT Elang Makmur,CV,"Jl. PHH. Mustofa No. 51
+Subulussalam, KT 02502",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+525,84.000.***.***-***.105,Koperasi Rajawali Global,Firma,"Gang Kebonjati No. 01
+Gorontalo, AC 98351",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+526,85.000.***.***-***.105,Koperasi Merak Astra,CV,"Gang Kutai No. 0
+Padang, Bali 57045",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+527,86.000.***.***-***.105,CV Berkah Berlian Terpadu,CV,"Jl. Jamika No. 65
+Lubuklinggau, DKI Jakarta 68312",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+528,87.000.***.***-***.105,PT Tbk Mitra Intan Sinar,PT Tbk,"Gg. Sukabumi No. 4
+Payakumbuh, Papua 21597",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+529,88.000.***.***-***.105,UD Utama Gemilang Cipta,PT Tbk,"Gg. Rumah Sakit No. 690
+Samarinda, MA 30528",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+530,89.000.***.***-***.105,PT Permata Cipta Makmur,UD,"Jl. Raya Ujungberung No. 56
+Tomohon, Nusa Tenggara Barat 35798",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+531,90.000.***.***-***.105,PT Cendana Prima,UD,"Jl. Cihampelas No. 5
+Banjarbaru, Bengkulu 47112",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+532,91.000.***.***-***.105,PT Tbk Terpadu Elang Cendana,PT,"Jl. Kutisari Selatan No. 508
+Manado, JI 35164",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+533,92.000.***.***-***.105,PT Tbk Elang Mega Pusaka,UD,"Gg. Ahmad Dahlan No. 7
+Bandung, Maluku Utara 24578",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+534,93.000.***.***-***.105,PD Berlian Karya Utama,PT,"Gg. Stasiun Wonokromo No. 154
+Kendari, Kepulauan Bangka Belitung 28623",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+535,94.000.***.***-***.105,CV Cipta Permata Elang,Firma,"Jalan Rungkut Industri No. 94
+Bekasi, SR 02300",Dalam Pemeriksaan,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+536,95.000.***.***-***.105,PT Garuda Cipta Mitra,CV,"Gg. Ronggowarsito No. 0
+Ambon, KR 67117",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+537,96.000.***.***-***.105,UD Abadi Astra,PT,"Gg. Moch. Toha No. 164
+Tebingtinggi, SU 30379",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+538,97.000.***.***-***.105,CV Sejahtera Mandiri,CV,"Gang M.T Haryono No. 0
+Palopo, KR 11993",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+539,98.000.***.***-***.105,PD Niaga Mitra Makmur,CV,"Gang Jayawijaya No. 24
+Cirebon, Riau 69089",Dalam Pemeriksaan,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+540,99.000.***.***-***.105,PT Indo Nusantara,Firma,"Gg. K.H. Wahid Hasyim No. 387
+Sawahlunto, Kalimantan Barat 96531",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+541,10.000.***.***-***.106,PT Tbk Usaha Buana Prima,Firma,"Jl. Pasteur No. 112
+Singkawang, PB 61132",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+542,11.000.***.***-***.106,PD Sinar Prima Berkah,Firma,"Jl. Surapati No. 145
+Tarakan, Kalimantan Tengah 04046",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+543,12.000.***.***-***.106,CV Lestari Buana Mandiri,UD,"Jl. Moch. Ramdan No. 056
+Makassar, Maluku Utara 17183",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+544,13.000.***.***-***.106,CV Abadi Lestari Garuda,PT Tbk,"Jalan Pelajar Pejuang No. 1
+Tanjungbalai, NT 50047",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+545,14.000.***.***-***.106,Perum Berlian Berkah Niaga,PT Tbk,"Jl. Cikapayang No. 4
+Pekanbaru, KB 97597",Dalam Pemeriksaan,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+546,15.000.***.***-***.106,UD Lestari Nusantara,PT Tbk,"Gang Dr. Djunjunan No. 958
+Kota Administrasi Jakarta Utara, KU 99775",Dalam Pemeriksaan,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+547,16.000.***.***-***.106,PT Sinar Jaya Mandiri,UD,"Gg. Kutisari Selatan No. 907
+Makassar, NB 51752",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+548,17.000.***.***-***.106,PD Gemilang Mega,CV,"Jalan Waringin No. 472
+Bitung, Jawa Tengah 64719",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+549,18.000.***.***-***.106,PT Rajawali Indo,PT Tbk,"Jl. Suniaraja No. 5
+Serang, Kepulauan Bangka Belitung 23970",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+550,19.000.***.***-***.106,PT Tbk Lestari Buana Elang,UD,"Gg. Ciwastra No. 410
+Cirebon, BB 66225",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+551,20.000.***.***-***.106,CV Makmur Sentosa,PT Tbk,"Jl. Jend. A. Yani No. 986
+Cimahi, Papua 00865",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+552,21.000.***.***-***.106,Firma Sinar Permata,CV,"Jalan Monginsidi No. 8
+Lubuklinggau, JT 10863",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+553,22.000.***.***-***.106,UD Pusaka Astra Indo,PT Tbk,"Gg. Jend. Sudirman No. 785
+Pontianak, LA 60901",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+554,23.000.***.***-***.106,Firma Rajawali Intan,PT,"Jl. Sukabumi No. 01
+Meulaboh, Kalimantan Timur 17757",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+555,24.000.***.***-***.106,UD Mandiri Pusaka Abadi,CV,"Gg. Suryakencana No. 157
+Cilegon, MA 66004",Dalam Pemeriksaan,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+556,25.000.***.***-***.106,CV Terpadu Pusaka,PT Tbk,"Jl. Kapten Muslihat No. 0
+Yogyakarta, SU 14105",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+557,26.000.***.***-***.106,PT Tbk Elang Abadi,UD,"Jalan Veteran No. 6
+Langsa, MU 42176",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+558,27.000.***.***-***.106,Firma Mandiri Sejahtera Berkah,PT,"Gg. Gegerkalong Hilir No. 56
+Palu, Kepulauan Bangka Belitung 38233",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+559,28.000.***.***-***.106,PD Garuda Cipta,PT,"Gang Pacuan Kuda No. 83
+Sawahlunto, Sulawesi Utara 56704",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+560,29.000.***.***-***.106,CV Mega Prima,CV,"Jalan Dipenogoro No. 8
+Medan, Lampung 64070",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+561,30.000.***.***-***.106,CV Merak Karya Prima,UD,"Gg. Pasir Koja No. 363
+Tanjungpinang, JB 38444",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+562,31.000.***.***-***.106,PT Niaga Mega Sinar,PT,"Gg. Peta No. 176
+Pematangsiantar, PB 76470",Dalam Pemeriksaan,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+563,32.000.***.***-***.106,PD Jaya Terpadu Makmur,PT Tbk,"Gg. Wonoayu No. 10
+Mataram, KR 85461",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+564,33.000.***.***-***.106,Koperasi Bersama Buana,PT Tbk,"Jalan PHH. Mustofa No. 212
+Salatiga, Gorontalo 17952",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+565,34.000.***.***-***.106,UD Gemilang Global Bersama,UD,"Jalan Cikutra Timur No. 5
+Medan, Bali 08408",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+566,35.000.***.***-***.106,PD Rajawali Usaha Berkah,PT Tbk,"Jl. Rajawali Barat No. 5
+Cilegon, KR 53115",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+567,36.000.***.***-***.106,Koperasi Sentosa Jaya Niaga,UD,"Gang Peta No. 8
+Banda Aceh, SU 11089",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+568,37.000.***.***-***.106,Perum Terpadu Utama Astra,Firma,"Jalan Otto Iskandardinata No. 2
+Payakumbuh, JI 43746",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+569,38.000.***.***-***.106,Firma Elang Karya Nusantara,PT Tbk,"Gang Sukabumi No. 4
+Surabaya, PA 87592",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+570,39.000.***.***-***.106,Firma Nusantara Makmur,PT,"Gang Sukajadi No. 585
+Sabang, YO 18626",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+571,40.000.***.***-***.106,Perum Permata Berkah,Firma,"Jalan Otto Iskandardinata No. 2
+Tidore Kepulauan, JI 20772",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+572,41.000.***.***-***.106,UD Karya Abadi,CV,"Jalan Kutai No. 90
+Kota Administrasi Jakarta Timur, KB 82920",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+573,42.000.***.***-***.106,PD Global Merak Berlian,PT Tbk,"Jalan Ahmad Dahlan No. 248
+Palangkaraya, KB 33299",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+574,43.000.***.***-***.106,Koperasi Pusaka Jaya,CV,"Jalan Raya Ujungberung No. 0
+Tanjungpinang, Sulawesi Utara 26622",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+575,44.000.***.***-***.106,Koperasi Astra Cendana Gemilang,Firma,"Gang Antapani Lama No. 85
+Depok, Bengkulu 08120",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+576,45.000.***.***-***.106,PD Nusantara Terpadu,PT,"Jalan Ir. H. Djuanda No. 101
+Malang, Maluku 98432",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+577,46.000.***.***-***.106,PD Cipta Lestari,CV,"Jl. Gedebage Selatan No. 4
+Kota Administrasi Jakarta Pusat, Gorontalo 28389",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+578,47.000.***.***-***.106,Perum Mitra Makmur Jaya,PT,"Gg. Kutisari Selatan No. 833
+Surabaya, PA 51337",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+579,48.000.***.***-***.106,PT Tbk Astra Permata Sentosa,PT Tbk,"Gang Cikapayang No. 92
+Banjar, JK 10517",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+580,49.000.***.***-***.106,Perum Berkah Global,CV,"Gg. HOS. Cokroaminoto No. 841
+Bau-Bau, Sulawesi Tengah 15335",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+581,50.000.***.***-***.106,PD Terpadu Merak Lestari,PT Tbk,"Gang Dipatiukur No. 81
+Kendari, Jawa Timur 55321",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+582,51.000.***.***-***.106,CV Sejahtera Terpadu Cipta,CV,"Gang Ciwastra No. 425
+Ternate, Sulawesi Tengah 24883",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+583,52.000.***.***-***.106,PD Mandiri Sinar Buana,Firma,"Jalan M.T Haryono No. 753
+Tanjungbalai, JB 58980",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+584,53.000.***.***-***.106,Koperasi Niaga Berkah Makmur,UD,"Gang Pasirkoja No. 25
+Batam, JI 69808",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+585,54.000.***.***-***.106,UD Sejahtera Berlian Mandiri,Firma,"Jalan R.E Martadinata No. 0
+Pariaman, Jawa Tengah 39297",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+586,55.000.***.***-***.106,PT Utama Niaga Cipta,Firma,"Gang Astana Anyar No. 4
+Metro, Banten 69111",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+587,56.000.***.***-***.106,UD Garuda Cipta,PT,"Gg. PHH. Mustofa No. 23
+Padangpanjang, Jawa Tengah 75390",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+588,57.000.***.***-***.106,CV Cendana Bersama Usaha,UD,"Jl. Ciumbuleuit No. 515
+Bengkulu, KI 88336",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+589,58.000.***.***-***.106,CV Intan Sejahtera Merak,CV,"Gg. Erlangga No. 31
+Pekanbaru, KI 80969",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+590,59.000.***.***-***.106,UD Elang Astra Lestari,UD,"Gg. Rajawali Timur No. 1
+Jayapura, Lampung 02318",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+591,60.000.***.***-***.106,CV Nusantara Cendana Mandiri,PT Tbk,"Jalan Joyoboyo No. 2
+Jambi, Kepulauan Bangka Belitung 81235",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+592,61.000.***.***-***.106,Koperasi Abadi Cendana,Firma,"Gg. Moch. Toha No. 715
+Tegal, Nusa Tenggara Barat 62641",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+593,62.000.***.***-***.106,PT Tbk Bersama Berlian,CV,"Gg. Gardujati No. 9
+Pekanbaru, Gorontalo 22723",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+594,63.000.***.***-***.106,Perum Sejahtera Rajawali,UD,"Jalan Gardujati No. 226
+Surabaya, KU 53146",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+595,64.000.***.***-***.106,Perum Permata Lestari,UD,"Jalan Kebonjati No. 95
+Cimahi, Bali 88254",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+596,65.000.***.***-***.106,Koperasi Gemilang Berkah,PT,"Gg. Moch. Ramdan No. 9
+Tangerang Selatan, JB 06269",Dalam Pemeriksaan,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+597,66.000.***.***-***.106,PT Usaha Prima Permata,PT,"Jalan KH Amin Jasuta No. 8
+Batu, Sumatera Barat 50698",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+598,67.000.***.***-***.106,CV Utama Makmur Mitra,PT Tbk,"Gg. Siliwangi No. 83
+Payakumbuh, Sulawesi Tenggara 18420",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+599,68.000.***.***-***.106,Koperasi Gemilang Bersama Mitra,CV,"Jalan Kebonjati No. 836
+Serang, Jambi 74813",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+600,69.000.***.***-***.106,CV Buana Indo,Firma,"Gg. R.E Martadinata No. 1
+Samarinda, MU 30943",Non-Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+601,70.000.***.***-***.106,PT Usaha Elang Sentosa,CV,"Jalan Raya Ujungberung No. 045
+Bandung, Sulawesi Tenggara 02718",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+602,71.000.***.***-***.106,UD Mandiri Abadi,Firma,"Gang Tebet Barat Dalam No. 270
+Binjai, KR 67147",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+603,72.000.***.***-***.106,CV Elang Jaya Indo,PT Tbk,"Gg. HOS. Cokroaminoto No. 878
+Jayapura, Riau 01271",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+604,73.000.***.***-***.106,Perum Jaya Abadi,Firma,"Gg. Kendalsari No. 65
+Solok, Aceh 11348",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+605,74.000.***.***-***.106,UD Astra Mandiri Indo,Firma,"Gang Gegerkalong Hilir No. 6
+Probolinggo, KB 88652",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+606,75.000.***.***-***.106,PD Gemilang Mitra,CV,"Gang Dr. Djunjunan No. 3
+Bima, GO 82438",Dalam Pemeriksaan,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+607,76.000.***.***-***.106,PT Tbk Elang Mitra Utama,CV,"Jalan M.H Thamrin No. 48
+Binjai, Sulawesi Selatan 71146",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+608,77.000.***.***-***.106,PD Karya Indo Abadi,CV,"Gang Ahmad Dahlan No. 086
+Sukabumi, Kalimantan Selatan 86415",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+609,78.000.***.***-***.106,PD Nusantara Makmur Sinar,PT,"Jl. Stasiun Wonokromo No. 01
+Subulussalam, Sulawesi Utara 88982",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+610,79.000.***.***-***.106,Perum Intan Mitra,PT Tbk,"Jalan Asia Afrika No. 43
+Probolinggo, Sulawesi Tengah 91465",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+611,80.000.***.***-***.106,CV Gemilang Intan Sejahtera,Firma,"Jalan Sentot Alibasa No. 76
+Kota Administrasi Jakarta Utara, Lampung 88132",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+612,81.000.***.***-***.106,UD Buana Mega Jaya,UD,"Jalan Surapati No. 72
+Magelang, KI 55848",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+613,82.000.***.***-***.106,Koperasi Nusantara Abadi Intan,PT Tbk,"Jl. Indragiri No. 6
+Denpasar, Kepulauan Riau 06994",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+614,83.000.***.***-***.106,CV Nusantara Bersama,UD,"Gang Pasteur No. 0
+Bitung, BB 37003",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+615,84.000.***.***-***.106,PT Tbk Jaya Gemilang Elang,PT Tbk,"Gang Ir. H. Djuanda No. 8
+Tangerang, SU 74444",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+616,85.000.***.***-***.106,PT Tbk Rajawali Lestari Mega,PT Tbk,"Gang Ronggowarsito No. 51
+Kota Administrasi Jakarta Timur, Jawa Tengah 94467",Non-Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+617,86.000.***.***-***.106,Perum Niaga Elang Cipta,UD,"Jalan Rungkut Industri No. 8
+Kediri, KB 37431",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+618,87.000.***.***-***.106,PD Karya Niaga Utama,PT Tbk,"Jalan Rajiman No. 19
+Prabumulih, Papua 67535",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+619,88.000.***.***-***.106,Koperasi Mitra Merak,Firma,"Gang M.H Thamrin No. 13
+Palembang, ST 95266",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+620,89.000.***.***-***.106,Firma Elang Mitra Utama,PT Tbk,"Gg. Rawamangun No. 53
+Jambi, Bali 74004",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+621,90.000.***.***-***.106,PT Cipta Sentosa,PT Tbk,"Jalan Tebet Barat Dalam No. 856
+Purwokerto, KU 60736",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+622,91.000.***.***-***.106,Perum Intan Karya,UD,"Jalan Peta No. 966
+Makassar, PA 22572",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+623,92.000.***.***-***.106,PT Tbk Nusantara Mitra,Firma,"Jalan Cihampelas No. 309
+Dumai, JI 21165",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+624,93.000.***.***-***.106,UD Mandiri Sentosa Elang,Firma,"Gang Sukajadi No. 7
+Tasikmalaya, Kalimantan Selatan 99437",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+625,94.000.***.***-***.106,CV Cendana Utama Makmur,PT,"Jalan Dipenogoro No. 26
+Batam, Kalimantan Selatan 44675",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+626,95.000.***.***-***.106,PT Tbk Abadi Garuda Berkah,UD,"Jl. Rajiman No. 702
+Manado, Lampung 71905",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+627,96.000.***.***-***.106,Koperasi Terpadu Makmur Niaga,UD,"Gg. Ahmad Yani No. 232
+Pagaralam, MA 91298",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+628,97.000.***.***-***.106,Perum Bersama Mitra,PT Tbk,"Gg. Indragiri No. 09
+Bekasi, LA 58440",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+629,98.000.***.***-***.106,PD Nusantara Mega Lestari,CV,"Gg. Dr. Djunjunan No. 96
+Serang, Kalimantan Timur 95863",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+630,99.000.***.***-***.106,Firma Cendana Lestari,Firma,"Gg. M.H Thamrin No. 9
+Singkawang, GO 08315",Non-Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+631,10.000.***.***-***.107,PT Cendana Rajawali,PT,"Jl. Ir. H. Djuanda No. 77
+Pekanbaru, PA 44697",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+632,11.000.***.***-***.107,PD Jaya Global Indo,PT Tbk,"Jl. Kapten Muslihat No. 907
+Lubuklinggau, JT 07654",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+633,12.000.***.***-***.107,PD Prima Mandiri,UD,"Gg. Raya Ujungberung No. 52
+Cilegon, Kalimantan Tengah 31016",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+634,13.000.***.***-***.107,Koperasi Buana Garuda Indo,CV,"Jl. K.H. Wahid Hasyim No. 861
+Tanjungbalai, Sulawesi Tenggara 36880",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+635,14.000.***.***-***.107,Firma Bersama Lestari,Firma,"Gg. Rungkut Industri No. 8
+Subulussalam, Jambi 38369",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+636,15.000.***.***-***.107,Perum Niaga Astra Permata,CV,"Jalan KH Amin Jasuta No. 08
+Cimahi, Jawa Timur 22354",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+637,16.000.***.***-***.107,Koperasi Global Buana,PT Tbk,"Gg. Pelajar Pejuang No. 156
+Denpasar, Kalimantan Utara 13762",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+638,17.000.***.***-***.107,CV Mega Mandiri Astra,Firma,"Jalan W.R. Supratman No. 3
+Jambi, Jawa Barat 09328",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+639,18.000.***.***-***.107,PT Tbk Lestari Sentosa,PT Tbk,"Gang S. Parman No. 6
+Pekalongan, NT 68516",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+640,19.000.***.***-***.107,CV Abadi Sejahtera,PT Tbk,"Jl. Monginsidi No. 7
+Bontang, Kalimantan Barat 58521",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+641,20.000.***.***-***.107,Perum Mega Sinar Berkah,UD,"Jl. Pacuan Kuda No. 447
+Banjarmasin, Aceh 06272",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+642,21.000.***.***-***.107,Firma Terpadu Makmur Merak,Firma,"Jalan Joyoboyo No. 12
+Batam, Banten 88903",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+643,22.000.***.***-***.107,PT Niaga Cendana,PT,"Jl. Stasiun Wonokromo No. 329
+Tasikmalaya, PB 01406",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+644,23.000.***.***-***.107,UD Indo Lestari Gemilang,PT,"Gang Tubagus Ismail No. 675
+Sawahlunto, KI 20858",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+645,24.000.***.***-***.107,Koperasi Gemilang Bersama Karya,PT,"Jalan Sukajadi No. 757
+Lhokseumawe, GO 09864",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+646,25.000.***.***-***.107,Perum Abadi Sinar Makmur,PT,"Gg. Stasiun Wonokromo No. 80
+Banjarbaru, Nusa Tenggara Timur 09200",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+647,26.000.***.***-***.107,PT Berlian Mandiri Abadi,UD,"Jalan H.J Maemunah No. 185
+Yogyakarta, Bali 83718",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+648,27.000.***.***-***.107,PT Karya Astra,Firma,"Jalan Rajawali Timur No. 3
+Magelang, BA 20681",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+649,28.000.***.***-***.107,PT Tbk Karya Cipta Abadi,UD,"Gang Joyoboyo No. 52
+Cimahi, Kepulauan Bangka Belitung 03396",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+650,29.000.***.***-***.107,Perum Intan Permata Prima,CV,"Gang Rajawali Timur No. 050
+Pangkalpinang, SU 59759",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+651,30.000.***.***-***.107,CV Cipta Jaya Abadi,UD,"Jl. Pasirkoja No. 5
+Kota Administrasi Jakarta Utara, Maluku Utara 02246",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+652,31.000.***.***-***.107,UD Elang Pusaka,UD,"Gg. Siliwangi No. 0
+Ternate, Jawa Barat 63151",Dalam Pemeriksaan,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+653,32.000.***.***-***.107,PT Mitra Garuda Pusaka,PT,"Gg. Cihampelas No. 5
+Mojokerto, KS 12651",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+654,33.000.***.***-***.107,Perum Abadi Mega Karya,Firma,"Gg. Setiabudhi No. 2
+Mataram, KI 91882",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+655,34.000.***.***-***.107,CV Lestari Jaya,UD,"Jalan Joyoboyo No. 46
+Purwokerto, KB 36835",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+656,35.000.***.***-***.107,Perum Intan Mitra Karya,UD,"Jalan Gegerkalong Hilir No. 4
+Banda Aceh, Papua Barat 80371",Non-Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+657,36.000.***.***-***.107,CV Terpadu Bersama,UD,"Jl. BKR No. 2
+Kota Administrasi Jakarta Barat, NT 55299",Dalam Pemeriksaan,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+658,37.000.***.***-***.107,Perum Abadi Usaha Global,Firma,"Jalan K.H. Wahid Hasyim No. 2
+Depok, Sulawesi Utara 06290",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+659,38.000.***.***-***.107,Perum Berlian Sejahtera,Firma,"Jalan Siliwangi No. 4
+Makassar, Kalimantan Barat 67454",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+660,39.000.***.***-***.107,UD Lestari Merak,UD,"Jl. Jend. Sudirman No. 45
+Denpasar, SB 07006",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+661,40.000.***.***-***.107,Perum Mega Terpadu Utama,PT Tbk,"Gg. K.H. Wahid Hasyim No. 627
+Samarinda, Sulawesi Utara 88972",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+662,41.000.***.***-***.107,CV Usaha Berkah,CV,"Jl. Surapati No. 2
+Cimahi, Maluku Utara 58996",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+663,42.000.***.***-***.107,Koperasi Prima Rajawali Global,PT Tbk,"Jl. Ahmad Dahlan No. 3
+Palangkaraya, Sulawesi Tenggara 36884",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+664,43.000.***.***-***.107,UD Sejahtera Berlian,CV,"Jl. Suryakencana No. 878
+Cirebon, Sulawesi Selatan 77274",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+665,44.000.***.***-***.107,PT Tbk Mandiri Terpadu Cipta,PT,"Jalan Kutai No. 12
+Tarakan, Bengkulu 92719",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+666,45.000.***.***-***.107,PT Tbk Terpadu Buana Utama,PT,"Jl. Bangka Raya No. 076
+Medan, NB 07770",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+667,46.000.***.***-***.107,CV Mega Garuda,CV,"Jl. Cihampelas No. 221
+Padang, Maluku Utara 89163",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+668,47.000.***.***-***.107,CV Prima Karya Garuda,CV,"Jalan Kapten Muslihat No. 8
+Prabumulih, KU 66415",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+669,48.000.***.***-***.107,Firma Sejahtera Rajawali Sinar,Firma,"Jl. Wonoayu No. 7
+Parepare, SR 91634",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+670,49.000.***.***-***.107,PT Permata Makmur Intan,PT,"Jl. Kebonjati No. 5
+Sawahlunto, Bali 45867",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+671,50.000.***.***-***.107,PT Tbk Berlian Bersama Intan,PT,"Jl. Indragiri No. 980
+Kota Administrasi Jakarta Selatan, BB 29897",Non-Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+672,51.000.***.***-***.107,Koperasi Sinar Cendana Astra,UD,"Gg. Gegerkalong Hilir No. 22
+Pontianak, JB 15969",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+673,52.000.***.***-***.107,Koperasi Karya Rajawali Merak,PT Tbk,"Jl. Suryakencana No. 70
+Tanjungpinang, Aceh 88844",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+674,53.000.***.***-***.107,Firma Mandiri Mitra Merak,PT,"Jalan Jamika No. 38
+Sungai Penuh, Maluku Utara 27928",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+675,54.000.***.***-***.107,Perum Global Pusaka Sinar,UD,"Gg. Monginsidi No. 30
+Tasikmalaya, SS 79573",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+676,55.000.***.***-***.107,PT Mitra Nusantara Pusaka,UD,"Jl. Ahmad Yani No. 159
+Purwokerto, BE 38719",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+677,56.000.***.***-***.107,UD Garuda Usaha Permata,PT Tbk,"Gg. Pasteur No. 25
+Tarakan, Bengkulu 74041",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+678,57.000.***.***-***.107,Firma Rajawali Indo,CV,"Jl. Cikutra Barat No. 0
+Banjar, Jawa Timur 12574",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+679,58.000.***.***-***.107,UD Merak Jaya,Firma,"Gg. Setiabudhi No. 401
+Bau-Bau, Gorontalo 14268",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+680,59.000.***.***-***.107,Perum Sentosa Usaha,PT,"Jl. Soekarno Hatta No. 627
+Palangkaraya, Sulawesi Selatan 28477",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+681,60.000.***.***-***.107,UD Niaga Astra Garuda,Firma,"Gg. Kutai No. 9
+Madiun, SG 69897",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+682,61.000.***.***-***.107,UD Global Utama,PT Tbk,"Gang Bangka Raya No. 0
+Langsa, KT 15483",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+683,62.000.***.***-***.107,Perum Gemilang Buana,PT Tbk,"Jl. Abdul Muis No. 687
+Magelang, Jawa Timur 52320",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+684,63.000.***.***-***.107,Perum Indo Pusaka Karya,PT Tbk,"Gang Dipatiukur No. 029
+Meulaboh, SB 62721",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+685,64.000.***.***-***.107,UD Sejahtera Mandiri Berlian,UD,"Gang Setiabudhi No. 79
+Bontang, SU 86861",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+686,65.000.***.***-***.107,Koperasi Berkah Nusantara,PT Tbk,"Gang Stasiun Wonokromo No. 1
+Lubuklinggau, Jawa Barat 76616",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+687,66.000.***.***-***.107,PD Intan Niaga,Firma,"Jalan Pasirkoja No. 817
+Tangerang, Gorontalo 11210",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+688,67.000.***.***-***.107,PT Utama Sejahtera,Firma,"Jl. Astana Anyar No. 5
+Banjarmasin, KB 80516",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+689,68.000.***.***-***.107,PT Cendana Mandiri Global,PT Tbk,"Gg. Rajiman No. 19
+Pasuruan, Riau 07819",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+690,69.000.***.***-***.107,Firma Sejahtera Cendana Sinar,PT Tbk,"Jl. Jend. Sudirman No. 62
+Langsa, MU 90912",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+691,70.000.***.***-***.107,PT Sejahtera Indo Cendana,PT Tbk,"Gg. Indragiri No. 8
+Payakumbuh, SN 51928",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+692,71.000.***.***-***.107,Perum Jaya Mitra Nusantara,UD,"Gang Erlangga No. 0
+Kota Administrasi Jakarta Barat, Riau 36399",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+693,72.000.***.***-***.107,CV Mega Intan,PT,"Gg. M.H Thamrin No. 2
+Tomohon, Kepulauan Bangka Belitung 28998",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+694,73.000.***.***-***.107,CV Indo Nusantara,UD,"Jalan Lembong No. 4
+Serang, YO 00195",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+695,74.000.***.***-***.107,Perum Rajawali Nusantara Indo,CV,"Jalan Soekarno Hatta No. 09
+Kendari, Banten 73692",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+696,75.000.***.***-***.107,UD Merak Elang,UD,"Gang Sukajadi No. 15
+Langsa, Lampung 59890",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+697,76.000.***.***-***.107,PT Tbk Niaga Sinar,PT Tbk,"Jl. Jamika No. 0
+Depok, JI 30169",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+698,77.000.***.***-***.107,Koperasi Berlian Bersama,UD,"Jl. Jend. A. Yani No. 15
+Tegal, Jawa Timur 36652",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+699,78.000.***.***-***.107,Perum Berlian Merak Karya,PT,"Jl. Jakarta No. 557
+Kendari, Papua Barat 66943",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+700,79.000.***.***-***.107,Koperasi Indo Elang,PT,"Gang PHH. Mustofa No. 55
+Pangkalpinang, JA 98139",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+701,80.000.***.***-***.107,PT Abadi Utama Sinar,CV,"Jalan Ciumbuleuit No. 055
+Tebingtinggi, Papua 25592",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+702,81.000.***.***-***.107,PT Tbk Merak Mitra,Firma,"Jl. Moch. Ramdan No. 518
+Bandung, SU 13604",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+703,82.000.***.***-***.107,Koperasi Makmur Berkah Rajawali,PT,"Jl. Sentot Alibasa No. 6
+Meulaboh, Jambi 58199",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+704,83.000.***.***-***.107,Firma Nusantara Usaha Mega,Firma,"Jl. Peta No. 871
+Banjarbaru, Papua 41846",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+705,84.000.***.***-***.107,Firma Cendana Rajawali,UD,"Gg. Suniaraja No. 2
+Serang, Maluku 43822",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+706,85.000.***.***-***.107,Perum Merak Astra Niaga,PT Tbk,"Jl. Tubagus Ismail No. 159
+Bukittinggi, Sulawesi Utara 47532",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+707,86.000.***.***-***.107,Firma Mega Utama Mitra,Firma,"Jalan Asia Afrika No. 665
+Pontianak, Nusa Tenggara Timur 01511",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+708,87.000.***.***-***.107,PT Tbk Sinar Cipta Astra,PT Tbk,"Gang Raya Setiabudhi No. 97
+Tegal, DKI Jakarta 80131",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+709,88.000.***.***-***.107,UD Mandiri Abadi Sejahtera,Firma,"Gg. Kebonjati No. 015
+Tomohon, RI 87377",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+710,89.000.***.***-***.107,CV Utama Pusaka,PT Tbk,"Gang Moch. Toha No. 219
+Sibolga, KR 16373",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+711,90.000.***.***-***.107,PT Abadi Global Indo,PT,"Jalan Sukabumi No. 4
+Kota Administrasi Jakarta Pusat, Kalimantan Utara 26867",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+712,91.000.***.***-***.107,PT Sentosa Berlian Pusaka,UD,"Jalan Siliwangi No. 3
+Surabaya, SS 17125",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+713,92.000.***.***-***.107,UD Sinar Indo Gemilang,PT,"Gang Abdul Muis No. 9
+Palopo, DKI Jakarta 73355",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+714,93.000.***.***-***.107,Firma Utama Sinar,UD,"Jalan Erlangga No. 138
+Pagaralam, Jawa Timur 41564",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+715,94.000.***.***-***.107,PD Intan Berkah Jaya,Firma,"Gang Rawamangun No. 0
+Banda Aceh, DI Yogyakarta 98019",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+716,95.000.***.***-***.107,CV Astra Lestari,PT,"Gang Kapten Muslihat No. 662
+Tangerang, Sulawesi Selatan 03914",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+717,96.000.***.***-***.107,Koperasi Bersama Usaha,CV,"Gg. Siliwangi No. 752
+Tual, Bali 99170",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+718,97.000.***.***-***.107,Perum Pusaka Astra Buana,UD,"Gg. Astana Anyar No. 66
+Prabumulih, NT 86671",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+719,98.000.***.***-***.107,PD Sinar Berlian Permata,PT Tbk,"Gang Medokan Ayu No. 92
+Tegal, Nusa Tenggara Timur 30051",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+720,99.000.***.***-***.107,UD Cipta Elang Niaga,PT Tbk,"Jalan Gegerkalong Hilir No. 125
+Bekasi, Sumatera Utara 82916",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+721,10.000.***.***-***.108,PD Global Garuda Sejahtera,UD,"Gang Gedebage Selatan No. 49
+Pekanbaru, Sumatera Utara 40109",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+722,11.000.***.***-***.108,Perum Jaya Rajawali Mandiri,CV,"Gang Merdeka No. 5
+Pariaman, KT 28829",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+723,12.000.***.***-***.108,Koperasi Nusantara Makmur,PT Tbk,"Gang Jend. Sudirman No. 82
+Bogor, Nusa Tenggara Timur 12964",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+724,13.000.***.***-***.108,UD Cendana Rajawali Global,Firma,"Gang Jend. A. Yani No. 3
+Makassar, Kalimantan Barat 20006",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+725,14.000.***.***-***.108,PT Usaha Bersama Pusaka,PT Tbk,"Jl. Stasiun Wonokromo No. 85
+Malang, SU 36996",Dalam Pemeriksaan,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+726,15.000.***.***-***.108,UD Mega Cipta,PT Tbk,"Jalan W.R. Supratman No. 41
+Bima, BA 34475",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+727,16.000.***.***-***.108,PT Nusantara Buana,PT Tbk,"Jalan Yos Sudarso No. 0
+Palopo, JB 64336",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+728,17.000.***.***-***.108,Firma Bersama Karya,PT,"Gg. Monginsidi No. 1
+Purwokerto, Papua Barat 55164",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+729,18.000.***.***-***.108,PT Berlian Mitra Mega,PT Tbk,"Jl. Waringin No. 04
+Sukabumi, BE 45302",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+730,19.000.***.***-***.108,UD Elang Makmur Gemilang,CV,"Jl. Kebonjati No. 884
+Banjarmasin, KB 13762",Dalam Pemeriksaan,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+731,20.000.***.***-***.108,PD Mandiri Indo Buana,UD,"Jalan Jamika No. 691
+Semarang, BA 29619",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+732,21.000.***.***-***.108,PT Mitra Global,CV,"Jl. Wonoayu No. 4
+Kota Administrasi Jakarta Timur, SG 00356",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+733,22.000.***.***-***.108,Perum Abadi Mandiri,Firma,"Jalan Suryakencana No. 4
+Banjarbaru, Sulawesi Tenggara 36631",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+734,23.000.***.***-***.108,PT Tbk Nusantara Prima Cipta,PT Tbk,"Jalan Abdul Muis No. 344
+Tanjungpinang, Riau 88206",Non-Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+735,24.000.***.***-***.108,Firma Sejahtera Intan,CV,"Gang Pacuan Kuda No. 67
+Bitung, BE 93239",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+736,25.000.***.***-***.108,CV Gemilang Berlian Lestari,UD,"Gg. Joyoboyo No. 6
+Serang, SR 14856",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+737,26.000.***.***-***.108,Firma Utama Intan Lestari,UD,"Jalan Pelajar Pejuang No. 16
+Parepare, Jawa Timur 12666",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+738,27.000.***.***-***.108,PD Global Lestari Cendana,UD,"Gang Suniaraja No. 1
+Bandar Lampung, Kepulauan Bangka Belitung 90909",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+739,28.000.***.***-***.108,Koperasi Garuda Makmur,Firma,"Gang Waringin No. 89
+Padang, Aceh 94943",Non-Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+740,29.000.***.***-***.108,PD Mandiri Indo,PT,"Jalan Pasteur No. 331
+Sukabumi, JI 61537",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+741,30.000.***.***-***.108,UD Makmur Utama Cipta,CV,"Jl. Ahmad Yani No. 66
+Kota Administrasi Jakarta Barat, DI Yogyakarta 71782",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+742,31.000.***.***-***.108,Koperasi Sejahtera Indo Lestari,PT,"Gang Bangka Raya No. 60
+Cimahi, LA 29140",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+743,32.000.***.***-***.108,CV Permata Usaha Prima,UD,"Jalan Kutai No. 5
+Yogyakarta, YO 85441",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+744,33.000.***.***-***.108,Firma Mega Buana,Firma,"Gang Suniaraja No. 30
+Medan, SU 36614",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+745,34.000.***.***-***.108,PT Nusantara Usaha,PT,"Gg. Otto Iskandardinata No. 542
+Tidore Kepulauan, BE 37925",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+746,35.000.***.***-***.108,PD Merak Astra,CV,"Gang Jakarta No. 660
+Kota Administrasi Jakarta Selatan, Jawa Tengah 44559",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+747,36.000.***.***-***.108,Firma Rajawali Niaga Abadi,UD,"Gg. Antapani Lama No. 92
+Tasikmalaya, KT 95885",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+748,37.000.***.***-***.108,PD Jaya Makmur,Firma,"Jalan W.R. Supratman No. 9
+Denpasar, Aceh 62929",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+749,38.000.***.***-***.108,Koperasi Garuda Cipta Indo,Firma,"Gg. Pacuan Kuda No. 5
+Pasuruan, Kepulauan Riau 78815",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+750,39.000.***.***-***.108,CV Berlian Mitra,Firma,"Jalan Kapten Muslihat No. 5
+Depok, Banten 67618",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+751,40.000.***.***-***.108,UD Cipta Sentosa,PT Tbk,"Jalan Ir. H. Djuanda No. 6
+Tangerang Selatan, JK 10321",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+752,41.000.***.***-***.108,Koperasi Usaha Karya,PT,"Jl. Moch. Toha No. 7
+Lhokseumawe, YO 43253",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+753,42.000.***.***-***.108,Koperasi Cipta Rajawali,PT Tbk,"Gang KH Amin Jasuta No. 54
+Surabaya, Jawa Barat 34639",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+754,43.000.***.***-***.108,PT Tbk Astra Sentosa,PT,"Jalan Jend. Sudirman No. 999
+Tomohon, KU 02260",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+755,44.000.***.***-***.108,CV Global Berlian,Firma,"Gang Gedebage Selatan No. 646
+Bau-Bau, JI 41544",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+756,45.000.***.***-***.108,PT Tbk Makmur Lestari Intan,UD,"Jl. Suniaraja No. 182
+Parepare, Jawa Tengah 46172",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+757,46.000.***.***-***.108,PT Tbk Buana Berkah Mitra,CV,"Gang Kiaracondong No. 713
+Surakarta, ST 55312",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+758,47.000.***.***-***.108,CV Buana Global,CV,"Jalan PHH. Mustofa No. 494
+Pontianak, Sulawesi Utara 52613",Non-Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+759,48.000.***.***-***.108,Firma Karya Berkah,PT,"Gang Cikapayang No. 5
+Magelang, SG 67872",Non-Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+760,49.000.***.***-***.108,Firma Cendana Buana Lestari,CV,"Gg. S. Parman No. 8
+Denpasar, Nusa Tenggara Barat 09334",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+761,50.000.***.***-***.108,Firma Berlian Sentosa,PT Tbk,"Gg. Monginsidi No. 21
+Malang, MU 13459",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+762,51.000.***.***-***.108,PT Nusantara Utama Rajawali,Firma,"Gg. Tebet Barat Dalam No. 9
+Bengkulu, BB 89974",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+763,52.000.***.***-***.108,PT Karya Sejahtera,CV,"Jl. Cikutra Barat No. 27
+Payakumbuh, PA 48200",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+764,53.000.***.***-***.108,CV Global Gemilang Terpadu,PT Tbk,"Jalan Jayawijaya No. 8
+Padang Sidempuan, Papua 95746",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+765,54.000.***.***-***.108,CV Lestari Mega,PT Tbk,"Jl. Moch. Ramdan No. 5
+Purwokerto, JA 15320",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+766,55.000.***.***-***.108,Firma Usaha Karya,PT Tbk,"Gg. Rajawali Timur No. 43
+Kotamobagu, KS 37273",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+767,56.000.***.***-***.108,UD Prima Rajawali Makmur,UD,"Jl. Pasir Koja No. 59
+Surakarta, KR 43824",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+768,57.000.***.***-***.108,PT Jaya Nusantara,PT,"Gg. Astana Anyar No. 98
+Pasuruan, JB 94126",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+769,58.000.***.***-***.108,CV Abadi Permata,PT Tbk,"Jl. Kutisari Selatan No. 125
+Bukittinggi, Sulawesi Tenggara 17689",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+770,59.000.***.***-***.108,Perum Karya Sejahtera Jaya,UD,"Jl. M.H Thamrin No. 7
+Tegal, SU 55084",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+771,60.000.***.***-***.108,PT Tbk Jaya Buana,Firma,"Gang Medokan Ayu No. 484
+Binjai, MA 29184",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+772,61.000.***.***-***.108,Firma Cipta Sejahtera Lestari,Firma,"Gg. Dipatiukur No. 414
+Cimahi, SU 57849",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+773,62.000.***.***-***.108,UD Sinar Intan,CV,"Jl. Abdul Muis No. 6
+Magelang, Jawa Tengah 67754",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+774,63.000.***.***-***.108,PT Tbk Sinar Global Intan,UD,"Gang Kutai No. 45
+Pangkalpinang, Nusa Tenggara Timur 44590",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+775,64.000.***.***-***.108,Koperasi Gemilang Jaya,CV,"Jl. Rumah Sakit No. 3
+Singkawang, Riau 75399",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+776,65.000.***.***-***.108,Perum Rajawali Indo,CV,"Jalan Pacuan Kuda No. 86
+Palembang, Banten 85006",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+777,66.000.***.***-***.108,Firma Permata Merak,PT Tbk,"Jl. Sentot Alibasa No. 9
+Palangkaraya, ST 61969",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+778,67.000.***.***-***.108,Perum Mega Jaya,PT,"Jalan Yos Sudarso No. 312
+Tasikmalaya, Kalimantan Tengah 75357",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+779,68.000.***.***-***.108,Firma Permata Cendana,UD,"Jl. Kutisari Selatan No. 24
+Kota Administrasi Jakarta Utara, ST 36082",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+780,69.000.***.***-***.108,PT Buana Mega,CV,"Jl. W.R. Supratman No. 306
+Ternate, BE 79254",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+781,70.000.***.***-***.108,Firma Mitra Sejahtera Indo,PT,"Gg. Cihampelas No. 01
+Kota Administrasi Jakarta Utara, Nusa Tenggara Timur 00566",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+782,71.000.***.***-***.108,CV Sinar Lestari,UD,"Gg. Sukabumi No. 5
+Sibolga, Kalimantan Timur 74894",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+783,72.000.***.***-***.108,PD Sinar Indo,PT Tbk,"Gang Joyoboyo No. 5
+Lhokseumawe, Kalimantan Tengah 83339",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+784,73.000.***.***-***.108,PT Berkah Bersama Mandiri,CV,"Jl. Ronggowarsito No. 1
+Cimahi, DKI Jakarta 19603",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+785,74.000.***.***-***.108,PT Mega Makmur Sentosa,CV,"Gang Cempaka No. 88
+Balikpapan, MU 92763",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+786,75.000.***.***-***.108,UD Utama Intan Buana,PT,"Jalan Jamika No. 39
+Sawahlunto, JI 03172",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+787,76.000.***.***-***.108,UD Pusaka Jaya,Firma,"Jl. Kebonjati No. 7
+Bandar Lampung, Gorontalo 78075",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+788,77.000.***.***-***.108,Perum Global Niaga Permata,CV,"Jalan Gedebage Selatan No. 80
+Semarang, SB 75627",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+789,78.000.***.***-***.108,UD Pusaka Bersama,Firma,"Jalan Rungkut Industri No. 1
+Tangerang, Bali 07901",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+790,79.000.***.***-***.108,PT Makmur Permata,PT,"Gg. Kutisari Selatan No. 082
+Tidore Kepulauan, ST 13091",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+791,80.000.***.***-***.108,Koperasi Elang Mega Lestari,CV,"Gg. Rumah Sakit No. 3
+Bekasi, Kalimantan Selatan 13007",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+792,81.000.***.***-***.108,CV Terpadu Niaga,Firma,"Jalan Rawamangun No. 11
+Padang, JI 94481",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+793,82.000.***.***-***.108,PT Tbk Elang Intan,UD,"Jalan Cikapayang No. 90
+Parepare, JA 91537",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+794,83.000.***.***-***.108,Perum Abadi Intan Indo,PT,"Gang Pasirkoja No. 3
+Manado, Jawa Tengah 83095",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+795,84.000.***.***-***.108,CV Astra Utama,Firma,"Gang Rumah Sakit No. 8
+Metro, LA 69506",Non-Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+796,85.000.***.***-***.108,UD Karya Bersama Buana,PT Tbk,"Gg. Laswi No. 94
+Medan, Nusa Tenggara Timur 59318",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+797,86.000.***.***-***.108,PD Elang Global,UD,"Gg. Rungkut Industri No. 2
+Medan, Sumatera Barat 30198",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+798,87.000.***.***-***.108,CV Rajawali Prima Bersama,PT,"Jalan Lembong No. 160
+Tual, Sumatera Utara 77852",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+799,88.000.***.***-***.108,PT Intan Rajawali,PT Tbk,"Gang Sukajadi No. 187
+Bau-Bau, Jawa Tengah 05306",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+800,89.000.***.***-***.108,PD Usaha Utama Indo,CV,"Jalan Rajiman No. 418
+Bogor, Kepulauan Riau 04324",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+801,90.000.***.***-***.108,CV Rajawali Sentosa,PT Tbk,"Jalan Surapati No. 52
+Bengkulu, Bengkulu 42608",Non-Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+802,91.000.***.***-***.108,PT Tbk Mega Makmur Intan,PT Tbk,"Jl. Ahmad Yani No. 258
+Batu, Sulawesi Selatan 48969",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+803,92.000.***.***-***.108,PT Sinar Cipta,UD,"Gg. Cihampelas No. 092
+Kendari, JT 78077",Dalam Pemeriksaan,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+804,93.000.***.***-***.108,Koperasi Global Nusantara Rajawali,PT Tbk,"Gg. Indragiri No. 7
+Tomohon, Jawa Barat 87629",Dalam Pemeriksaan,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+805,94.000.***.***-***.108,PT Tbk Gemilang Sinar Nusantara,PT Tbk,"Jalan Sadang Serang No. 5
+Pekalongan, Sulawesi Barat 00523",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+806,95.000.***.***-***.108,PD Niaga Indo Intan,PT Tbk,"Gg. Gedebage Selatan No. 253
+Ternate, SG 24964",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+807,96.000.***.***-***.108,CV Terpadu Rajawali Indo,UD,"Gg. Pelajar Pejuang No. 11
+Kediri, Kalimantan Selatan 50736",Dalam Pemeriksaan,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+808,97.000.***.***-***.108,PT Berkah Berlian Garuda,CV,"Gg. Rawamangun No. 2
+Bitung, Jawa Barat 29223",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+809,98.000.***.***-***.108,CV Prima Garuda,PT Tbk,"Jl. Sentot Alibasa No. 76
+Langsa, Gorontalo 29427",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+810,99.000.***.***-***.108,PT Tbk Mandiri Garuda,PT Tbk,"Jalan Ir. H. Djuanda No. 82
+Pangkalpinang, BA 80193",Dalam Pemeriksaan,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+811,10.000.***.***-***.109,CV Elang Usaha Sentosa,UD,"Jl. Tebet Barat Dalam No. 948
+Solok, Bengkulu 27833",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+812,11.000.***.***-***.109,Firma Sentosa Mitra Berkah,CV,"Gang Cihampelas No. 8
+Pagaralam, BT 98296",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+813,12.000.***.***-***.109,Koperasi Berlian Garuda,PT Tbk,"Jl. Raya Ujungberung No. 040
+Dumai, Jawa Timur 70344",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+814,13.000.***.***-***.109,PT Tbk Nusantara Usaha Gemilang,Firma,"Gang Tubagus Ismail No. 914
+Batam, KB 34233",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+815,14.000.***.***-***.109,Koperasi Buana Utama Pusaka,Firma,"Jalan Siliwangi No. 6
+Mojokerto, Kalimantan Selatan 96319",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+816,15.000.***.***-***.109,PT Tbk Elang Merak Indo,PT Tbk,"Jl. W.R. Supratman No. 61
+Bandar Lampung, KS 24974",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+817,16.000.***.***-***.109,PT Tbk Bersama Sinar,CV,"Gg. Jend. Sudirman No. 043
+Jayapura, Jawa Barat 26585",Dalam Pemeriksaan,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+818,17.000.***.***-***.109,Firma Terpadu Niaga,UD,"Gg. Sukajadi No. 180
+Blitar, JA 88525",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+819,18.000.***.***-***.109,CV Buana Cendana,UD,"Jalan Rumah Sakit No. 9
+Kota Administrasi Jakarta Barat, Lampung 43415",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+820,19.000.***.***-***.109,PD Mandiri Cipta Indo,CV,"Jalan Cihampelas No. 9
+Metro, SU 86335",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+821,20.000.***.***-***.109,Perum Merak Lestari Mega,CV,"Jalan Otto Iskandardinata No. 14
+Padang, PB 96147",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+822,21.000.***.***-***.109,UD Terpadu Berlian,Firma,"Jl. Gegerkalong Hilir No. 72
+Lubuklinggau, Bengkulu 34515",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+823,22.000.***.***-***.109,Firma Terpadu Jaya Sentosa,UD,"Jalan Cihampelas No. 820
+Sorong, BE 97771",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+824,23.000.***.***-***.109,PT Tbk Terpadu Berlian Cipta,PT,"Jalan Cihampelas No. 99
+Kendari, SS 64127",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+825,24.000.***.***-***.109,PD Abadi Karya Usaha,PT,"Gg. Cihampelas No. 186
+Sabang, Bali 48394",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+826,25.000.***.***-***.109,Perum Sejahtera Cendana Intan,CV,"Gang Tebet Barat Dalam No. 3
+Magelang, SU 14445",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+827,26.000.***.***-***.109,Perum Bersama Mega Buana,CV,"Jalan Pelajar Pejuang No. 03
+Cilegon, BE 75301",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+828,27.000.***.***-***.109,Koperasi Merak Astra,UD,"Jl. Pasteur No. 123
+Palu, KI 87200",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+829,28.000.***.***-***.109,PT Lestari Gemilang,CV,"Jl. Suniaraja No. 413
+Denpasar, PB 56538",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+830,29.000.***.***-***.109,Perum Berkah Intan Sejahtera,PT,"Jalan Rumah Sakit No. 2
+Bontang, Banten 79296",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+831,30.000.***.***-***.109,Perum Berkah Lestari Cipta,Firma,"Jalan Raya Ujungberung No. 7
+Gorontalo, ST 65998",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+832,31.000.***.***-***.109,Koperasi Karya Niaga,CV,"Jalan Suryakencana No. 777
+Cilegon, BT 90525",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+833,32.000.***.***-***.109,UD Merak Global Lestari,Firma,"Jl. Sadang Serang No. 8
+Semarang, JI 49820",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+834,33.000.***.***-***.109,Perum Buana Abadi Terpadu,UD,"Jalan Otto Iskandardinata No. 8
+Tebingtinggi, JA 25192",Non-Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+835,34.000.***.***-***.109,Koperasi Pusaka Mitra,CV,"Gang Pacuan Kuda No. 968
+Solok, Aceh 92478",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+836,35.000.***.***-***.109,Perum Sejahtera Jaya Sinar,UD,"Gg. Suniaraja No. 57
+Meulaboh, AC 15803",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+837,36.000.***.***-***.109,PT Tbk Gemilang Karya,PT,"Gg. Kendalsari No. 102
+Sorong, Kalimantan Barat 12723",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+838,37.000.***.***-***.109,PT Tbk Utama Abadi,Firma,"Gg. Raya Setiabudhi No. 95
+Kota Administrasi Jakarta Timur, Aceh 19156",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+839,38.000.***.***-***.109,CV Permata Mandiri Nusantara,CV,"Gang Yos Sudarso No. 14
+Bima, Maluku 02385",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+840,39.000.***.***-***.109,PT Tbk Mitra Global Prima,UD,"Gg. Tebet Barat Dalam No. 37
+Payakumbuh, KB 20922",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+841,40.000.***.***-***.109,PT Tbk Pusaka Berkah Rajawali,PT,"Jalan Cempaka No. 6
+Pagaralam, KS 67318",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+842,41.000.***.***-***.109,Perum Pusaka Merak,PT Tbk,"Jalan Gardujati No. 225
+Banjar, LA 34862",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+843,42.000.***.***-***.109,CV Mitra Intan Karya,PT Tbk,"Gang Antapani Lama No. 2
+Palangkaraya, Papua 58015",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+844,43.000.***.***-***.109,UD Abadi Nusantara,PT,"Jalan KH Amin Jasuta No. 535
+Denpasar, Sulawesi Selatan 94446",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+845,44.000.***.***-***.109,PD Usaha Niaga,PT,"Jalan PHH. Mustofa No. 173
+Cilegon, SN 78989",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+846,45.000.***.***-***.109,PD Prima Gemilang,PT Tbk,"Gang Cihampelas No. 4
+Pekalongan, Banten 47648",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+847,46.000.***.***-***.109,UD Abadi Global Jaya,Firma,"Gang Stasiun Wonokromo No. 58
+Samarinda, JK 81315",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+848,47.000.***.***-***.109,UD Karya Permata,UD,"Gg. Cihampelas No. 976
+Yogyakarta, KI 83155",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+849,48.000.***.***-***.109,PD Terpadu Merak,CV,"Gg. Merdeka No. 95
+Padangpanjang, Maluku 56425",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+850,49.000.***.***-***.109,CV Jaya Gemilang Berlian,PT,"Gang Cihampelas No. 129
+Pangkalpinang, PB 25011",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+851,50.000.***.***-***.109,UD Berlian Garuda,PT,"Gg. Ciumbuleuit No. 72
+Sungai Penuh, Papua 08742",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+852,51.000.***.***-***.109,PD Rajawali Mitra,PT Tbk,"Gang Abdul Muis No. 382
+Metro, Bengkulu 67090",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+853,52.000.***.***-***.109,CV Elang Karya,UD,"Jl. Yos Sudarso No. 2
+Bau-Bau, JI 52678",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+854,53.000.***.***-***.109,UD Rajawali Gemilang,PT Tbk,"Gang M.T Haryono No. 37
+Bandar Lampung, AC 24543",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+855,54.000.***.***-***.109,CV Gemilang Utama,PT,"Gang S. Parman No. 248
+Padang Sidempuan, Sulawesi Barat 94447",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+856,55.000.***.***-***.109,PD Mitra Berlian Elang,CV,"Jalan Jakarta No. 0
+Tanjungpinang, LA 18558",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+857,56.000.***.***-***.109,PT Indo Astra,UD,"Gang Siliwangi No. 0
+Malang, LA 70398",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+858,57.000.***.***-***.109,Perum Karya Merak,CV,"Gang HOS. Cokroaminoto No. 2
+Bogor, Kalimantan Tengah 18655",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+859,58.000.***.***-***.109,PT Tbk Gemilang Elang Berkah,CV,"Gang Suryakencana No. 29
+Subulussalam, Maluku 85428",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+860,59.000.***.***-***.109,Perum Karya Bersama,CV,"Gang Veteran No. 81
+Sabang, SU 77542",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+861,60.000.***.***-***.109,Perum Makmur Berlian Sinar,Firma,"Jalan Ahmad Yani No. 34
+Madiun, KT 10926",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+862,61.000.***.***-***.109,Perum Cipta Sentosa,PT,"Gg. Yos Sudarso No. 88
+Bogor, PB 50568",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+863,62.000.***.***-***.109,UD Usaha Sinar,UD,"Gg. Asia Afrika No. 0
+Palangkaraya, Gorontalo 30086",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+864,63.000.***.***-***.109,CV Usaha Berkah,CV,"Gang Wonoayu No. 948
+Kupang, BA 54971",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+865,64.000.***.***-***.109,PT Tbk Indo Mitra Mandiri,UD,"Jl. Raya Ujungberung No. 71
+Tangerang Selatan, JK 21846",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+866,65.000.***.***-***.109,Koperasi Abadi Sentosa,CV,"Gang Siliwangi No. 8
+Kota Administrasi Jakarta Selatan, NB 24662",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+867,66.000.***.***-***.109,UD Global Sentosa,PT,"Gg. Antapani Lama No. 8
+Surabaya, Papua Barat 38365",Non-Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+868,67.000.***.***-***.109,Perum Berkah Global Terpadu,CV,"Jalan Raya Ujungberung No. 76
+Banjar, Riau 63560",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+869,68.000.***.***-***.109,PT Tbk Pusaka Mandiri Utama,PT Tbk,"Jalan Veteran No. 0
+Pekanbaru, Riau 89184",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+870,69.000.***.***-***.109,PD Pusaka Merak Garuda,Firma,"Jalan Gedebage Selatan No. 51
+Surakarta, Sumatera Utara 78052",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+871,70.000.***.***-***.109,Koperasi Elang Abadi,UD,"Jalan Medokan Ayu No. 3
+Tual, MU 10046",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+872,71.000.***.***-***.109,PD Merak Berkah,PT Tbk,"Jalan Gardujati No. 9
+Kediri, SN 31457",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+873,72.000.***.***-***.109,Koperasi Nusantara Utama,UD,"Gang Cihampelas No. 015
+Probolinggo, Kalimantan Utara 79477",Non-Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+874,73.000.***.***-***.109,Perum Sejahtera Mitra Lestari,PT,"Jalan Ciumbuleuit No. 3
+Malang, Jawa Barat 32394",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+875,74.000.***.***-***.109,PT Mitra Sinar Mega,PT Tbk,"Jl. Pelajar Pejuang No. 20
+Palembang, Nusa Tenggara Barat 01604",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+876,75.000.***.***-***.109,PT Jaya Rajawali,PT,"Jalan Moch. Ramdan No. 13
+Banjarmasin, SB 79622",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+877,76.000.***.***-***.109,PD Jaya Mitra Intan,PT,"Gang W.R. Supratman No. 19
+Kupang, Gorontalo 71600",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+878,77.000.***.***-***.109,CV Elang Rajawali Terpadu,Firma,"Gang Cikutra Timur No. 11
+Bontang, SU 60145",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+879,78.000.***.***-***.109,PD Astra Bersama,PT,"Jl. Ciwastra No. 347
+Tebingtinggi, Kepulauan Bangka Belitung 44456",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+880,79.000.***.***-***.109,CV Pusaka Nusantara,Firma,"Gang Joyoboyo No. 2
+Palu, Nusa Tenggara Timur 38715",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+881,80.000.***.***-***.109,UD Gemilang Cipta,UD,"Jl. Moch. Ramdan No. 3
+Semarang, Maluku 13854",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+882,81.000.***.***-***.109,Perum Global Permata Rajawali,CV,"Jalan Kapten Muslihat No. 45
+Bontang, Aceh 51631",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+883,82.000.***.***-***.109,PD Lestari Cendana,PT,"Gang Raya Setiabudhi No. 27
+Bekasi, Bengkulu 38076",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+884,83.000.***.***-***.109,Koperasi Makmur Astra Utama,UD,"Gg. Pasir Koja No. 9
+Magelang, SB 98889",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+885,84.000.***.***-***.109,PD Indo Pusaka Sentosa,UD,"Jalan Gegerkalong Hilir No. 758
+Probolinggo, JK 95397",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+886,85.000.***.***-***.109,Perum Elang Mandiri,UD,"Jl. Surapati No. 88
+Bontang, ST 59306",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+887,86.000.***.***-***.109,PD Elang Garuda,PT,"Gg. Cihampelas No. 07
+Pekanbaru, RI 87459",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+888,87.000.***.***-***.109,PT Tbk Prima Astra Merak,PT,"Jalan S. Parman No. 38
+Tanjungpinang, JA 47841",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+889,88.000.***.***-***.109,Perum Buana Sejahtera,Firma,"Jalan Kutisari Selatan No. 658
+Balikpapan, Papua 13617",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+890,89.000.***.***-***.109,Koperasi Bersama Permata Sinar,PT,"Jalan M.H Thamrin No. 5
+Palembang, JA 58998",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+891,90.000.***.***-***.109,Firma Global Intan,UD,"Jalan Ahmad Yani No. 8
+Samarinda, Kepulauan Riau 47939",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+892,91.000.***.***-***.109,Koperasi Rajawali Bersama Astra,PT Tbk,"Jl. Sukajadi No. 14
+Meulaboh, SU 45563",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+893,92.000.***.***-***.109,UD Berkah Garuda,UD,"Jalan H.J Maemunah No. 35
+Mojokerto, KS 82284",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+894,93.000.***.***-***.109,CV Elang Berlian,UD,"Jl. M.T Haryono No. 431
+Metro, KS 92463",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+895,94.000.***.***-***.109,PT Tbk Jaya Astra,PT Tbk,"Jalan Ciwastra No. 13
+Tasikmalaya, MA 93424",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+896,95.000.***.***-***.109,Koperasi Usaha Gemilang,CV,"Jalan Dipatiukur No. 6
+Tangerang Selatan, SS 83100",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+897,96.000.***.***-***.109,UD Karya Sinar,PT,"Gg. Ciwastra No. 91
+Palangkaraya, Kepulauan Bangka Belitung 89904",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+898,97.000.***.***-***.109,Firma Indo Karya,CV,"Gang Soekarno Hatta No. 36
+Padang, Gorontalo 75714",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+899,98.000.***.***-***.109,Firma Astra Jaya Rajawali,Firma,"Gang Setiabudhi No. 178
+Bukittinggi, KT 95545",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+900,99.000.***.***-***.109,Firma Sentosa Buana Usaha,PT,"Gang W.R. Supratman No. 681
+Jayapura, KI 99088",Dalam Pemeriksaan,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+901,10.000.***.***-***.110,UD Garuda Permata Cipta,UD,"Gg. Medokan Ayu No. 018
+Langsa, Kalimantan Utara 29218",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+902,11.000.***.***-***.110,PT Bersama Buana,Firma,"Gang Erlangga No. 35
+Bandung, DI Yogyakarta 19363",Dalam Pemeriksaan,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+903,12.000.***.***-***.110,CV Permata Niaga,PT Tbk,"Jalan Laswi No. 137
+Probolinggo, Nusa Tenggara Barat 29911",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+904,13.000.***.***-***.110,Perum Nusantara Lestari,PT,"Gg. Dipenogoro No. 923
+Kota Administrasi Jakarta Timur, Papua 29677",Dalam Pemeriksaan,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+905,14.000.***.***-***.110,UD Makmur Permata Bersama,CV,"Gang Otto Iskandardinata No. 5
+Tanjungbalai, SU 12809",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+906,15.000.***.***-***.110,Koperasi Makmur Gemilang,CV,"Jl. Raya Ujungberung No. 1
+Tanjungpinang, MA 68013",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+907,16.000.***.***-***.110,UD Gemilang Indo,Firma,"Jl. Rungkut Industri No. 9
+Prabumulih, Kalimantan Selatan 39316",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+908,17.000.***.***-***.110,PD Mitra Intan,CV,"Jl. Jakarta No. 20
+Pasuruan, Jambi 18049",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+909,18.000.***.***-***.110,Koperasi Karya Rajawali,Firma,"Gang Stasiun Wonokromo No. 2
+Padang Sidempuan, Kepulauan Bangka Belitung 84302",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+910,19.000.***.***-***.110,Perum Berkah Makmur,PT,"Jalan Pasir Koja No. 50
+Makassar, JK 66099",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+911,20.000.***.***-***.110,Perum Permata Merak Gemilang,CV,"Gang Gegerkalong Hilir No. 906
+Padang Sidempuan, Aceh 63934",Dalam Pemeriksaan,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+912,21.000.***.***-***.110,Firma Merak Makmur Permata,UD,"Jalan Ciumbuleuit No. 9
+Pasuruan, GO 95318",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+913,22.000.***.***-***.110,CV Cendana Global,PT,"Gang Setiabudhi No. 76
+Palu, Kalimantan Tengah 11741",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+914,23.000.***.***-***.110,PT Elang Jaya,CV,"Jalan Rungkut Industri No. 14
+Lubuklinggau, Kepulauan Riau 62830",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+915,24.000.***.***-***.110,Perum Buana Mega Makmur,Firma,"Jl. Medokan Ayu No. 207
+Kupang, Jawa Timur 10806",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+916,25.000.***.***-***.110,PT Cendana Jaya,Firma,"Gang Suniaraja No. 22
+Bontang, Kepulauan Bangka Belitung 72019",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+917,26.000.***.***-***.110,UD Abadi Rajawali,CV,"Gang Pelajar Pejuang No. 18
+Sawahlunto, Kalimantan Barat 96662",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+918,27.000.***.***-***.110,CV Berkah Garuda Prima,Firma,"Gg. Suryakencana No. 3
+Singkawang, Maluku 34740",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+919,28.000.***.***-***.110,UD Mandiri Elang,PT Tbk,"Jalan Joyoboyo No. 9
+Banda Aceh, Jambi 11491",Non-Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+920,29.000.***.***-***.110,PD Abadi Mitra Mandiri,PT,"Jalan Kebonjati No. 5
+Madiun, DKI Jakarta 84859",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+921,30.000.***.***-***.110,Koperasi Terpadu Sejahtera Rajawali,PT,"Gg. Jayawijaya No. 862
+Ternate, BA 02159",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+922,31.000.***.***-***.110,Firma Prima Lestari,PT,"Jalan Dr. Djunjunan No. 52
+Langsa, LA 09414",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+923,32.000.***.***-***.110,PT Cipta Sinar,Firma,"Jl. Kiaracondong No. 78
+Kota Administrasi Jakarta Barat, JI 68119",Non-Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+924,33.000.***.***-***.110,Perum Gemilang Mandiri,Firma,"Jl. Stasiun Wonokromo No. 0
+Samarinda, SN 27202",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+925,34.000.***.***-***.110,PT Tbk Abadi Makmur Intan,UD,"Gang Ciwastra No. 4
+Kotamobagu, BT 72012",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+926,35.000.***.***-***.110,PT Makmur Pusaka Gemilang,CV,"Gg. Surapati No. 3
+Lhokseumawe, JK 08128",Non-Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+927,36.000.***.***-***.110,CV Garuda Sejahtera,PT Tbk,"Jl. Abdul Muis No. 850
+Solok, GO 93420",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+928,37.000.***.***-***.110,Perum Cipta Makmur,PT Tbk,"Jl. Cihampelas No. 6
+Bandung, SB 47413",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+929,38.000.***.***-***.110,PT Mandiri Cipta Berlian,Firma,"Gang Rajiman No. 8
+Tangerang Selatan, KB 42333",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+930,39.000.***.***-***.110,CV Garuda Terpadu Gemilang,UD,"Gang M.T Haryono No. 29
+Tomohon, JB 50372",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+931,40.000.***.***-***.110,PT Tbk Cendana Abadi,UD,"Gang Sukabumi No. 357
+Tidore Kepulauan, SU 00684",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+932,41.000.***.***-***.110,PT Indo Berlian,PT Tbk,"Jl. Ahmad Dahlan No. 5
+Bukittinggi, Bengkulu 50913",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+933,42.000.***.***-***.110,PT Pusaka Sinar,PT Tbk,"Gg. Laswi No. 6
+Batu, MA 77548",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+934,43.000.***.***-***.110,CV Jaya Prima,Firma,"Jalan Gardujati No. 3
+Padang Sidempuan, Sulawesi Selatan 05294",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+935,44.000.***.***-***.110,PT Berkah Intan,PT Tbk,"Jalan Monginsidi No. 337
+Surabaya, Aceh 12889",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+936,45.000.***.***-***.110,Firma Usaha Indo Gemilang,CV,"Jalan Siliwangi No. 9
+Cimahi, JA 73696",Dalam Pemeriksaan,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+937,46.000.***.***-***.110,Koperasi Global Pusaka,PT Tbk,"Jl. Otto Iskandardinata No. 8
+Bengkulu, GO 68503",Non-Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+938,47.000.***.***-***.110,CV Karya Global,UD,"Jl. Cihampelas No. 676
+Surakarta, Sulawesi Utara 33628",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+939,48.000.***.***-***.110,Perum Gemilang Usaha,PT Tbk,"Gg. Peta No. 54
+Cilegon, BA 40555",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+940,49.000.***.***-***.110,Koperasi Karya Global Makmur,UD,"Gang Rajiman No. 9
+Medan, Sulawesi Selatan 46037",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+941,50.000.***.***-***.110,PT Tbk Global Nusantara,PT,"Gang Merdeka No. 36
+Probolinggo, Sumatera Barat 72925",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+942,51.000.***.***-***.110,PT Tbk Rajawali Lestari,PT,"Gg. M.H Thamrin No. 421
+Bitung, Bengkulu 60600",Non-Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+943,52.000.***.***-***.110,PD Garuda Makmur,PT,"Jalan Bangka Raya No. 507
+Samarinda, LA 44516",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+944,53.000.***.***-***.110,Perum Bersama Intan,Firma,"Gang M.T Haryono No. 9
+Medan, Sulawesi Tengah 46859",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+945,54.000.***.***-***.110,Perum Makmur Sinar,Firma,"Jalan Erlangga No. 21
+Tebingtinggi, Bengkulu 11721",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+946,55.000.***.***-***.110,Koperasi Astra Permata,UD,"Jalan Moch. Toha No. 736
+Samarinda, Maluku Utara 70493",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+947,56.000.***.***-***.110,PD Elang Sentosa Pusaka,CV,"Jalan Kebonjati No. 342
+Kota Administrasi Jakarta Timur, DI Yogyakarta 35907",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+948,57.000.***.***-***.110,PD Berkah Jaya Karya,PT,"Jl. Siliwangi No. 050
+Pekanbaru, Kalimantan Timur 47615",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+949,58.000.***.***-***.110,Firma Berlian Cendana Astra,PT,"Gg. Pasteur No. 3
+Tarakan, JI 41677",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+950,59.000.***.***-***.110,UD Makmur Jaya,UD,"Gang Siliwangi No. 7
+Surakarta, MA 74533",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+951,60.000.***.***-***.110,Koperasi Terpadu Jaya,UD,"Jalan Rajiman No. 32
+Palopo, KB 71987",Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+952,61.000.***.***-***.110,Koperasi Elang Abadi,Firma,"Jl. Rumah Sakit No. 588
+Malang, ST 55480",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+953,62.000.***.***-***.110,PT Tbk Sinar Niaga,PT,"Gang Cihampelas No. 586
+Balikpapan, KB 45593",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+954,63.000.***.***-***.110,Koperasi Pusaka Cipta,PT Tbk,"Jalan Kebonjati No. 830
+Lhokseumawe, PB 72476",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+955,64.000.***.***-***.110,UD Sinar Prima,PT,"Jl. Medokan Ayu No. 44
+Pematangsiantar, KI 64777",Non-Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+956,65.000.***.***-***.110,UD Permata Elang Sejahtera,UD,"Gang Yos Sudarso No. 889
+Tual, Lampung 46125",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+957,66.000.***.***-***.110,Firma Jaya Intan Sejahtera,Firma,"Gang Rajiman No. 771
+Semarang, JI 16258",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+958,67.000.***.***-***.110,CV Makmur Utama,UD,"Gang Kutai No. 646
+Kendari, MU 99557",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+959,68.000.***.***-***.110,Firma Jaya Buana,UD,"Jalan Jayawijaya No. 5
+Ambon, KR 53188",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+960,69.000.***.***-***.110,PD Buana Global,CV,"Gang H.J Maemunah No. 2
+Cilegon, JB 45815",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+961,70.000.***.***-***.110,UD Permata Cipta Utama,UD,"Jl. Pelajar Pejuang No. 52
+Pariaman, BA 70996",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+962,71.000.***.***-***.110,Perum Mandiri Cendana,Firma,"Jl. Rumah Sakit No. 876
+Bitung, BE 26836",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+963,72.000.***.***-***.110,Perum Abadi Lestari Bersama,PT Tbk,"Gg. Astana Anyar No. 2
+Balikpapan, Gorontalo 31093",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+964,73.000.***.***-***.110,Firma Indo Merak Sentosa,CV,"Gg. Pelajar Pejuang No. 711
+Tomohon, BA 47411",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+965,74.000.***.***-***.110,Perum Sentosa Buana,CV,"Jl. Cikapayang No. 6
+Metro, KU 31504",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+966,75.000.***.***-***.110,Perum Indo Prima Bersama,Firma,"Jl. Medokan Ayu No. 2
+Sungai Penuh, DKI Jakarta 38004",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+967,76.000.***.***-***.110,Perum Cendana Berlian Mitra,PT Tbk,"Jalan Veteran No. 16
+Surakarta, KU 85958",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00
+968,77.000.***.***-***.110,Perum Karya Elang Intan,PT Tbk,"Jl. Kendalsari No. 4
+Pasuruan, SS 35820",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+969,78.000.***.***-***.110,Koperasi Berkah Cipta,PT,"Gang HOS. Cokroaminoto No. 752
+Padang Sidempuan, Sumatera Utara 72878",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+970,79.000.***.***-***.110,PD Utama Terpadu Niaga,PT Tbk,"Gang Pasir Koja No. 9
+Purwokerto, Kalimantan Timur 34041",Aktif,"{""sector"": ""Manufaktur""}",2026-01-15 14:24:12.231498+00
+971,80.000.***.***-***.110,CV Sentosa Mitra Global,PT Tbk,"Jalan Jamika No. 690
+Purwokerto, Papua Barat 10494",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+972,81.000.***.***-***.110,CV Berkah Buana Nusantara,CV,"Jalan Sukabumi No. 4
+Solok, Kepulauan Riau 02759",Aktif,"{""sector"": ""Makanan & Minuman""}",2026-01-15 14:24:12.231498+00
+973,82.000.***.***-***.110,PT Pusaka Karya,CV,"Gg. Soekarno Hatta No. 2
+Bandung, NB 03049",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+974,83.000.***.***-***.110,Perum Astra Global Mega,PT,"Gang Tubagus Ismail No. 2
+Tegal, YO 32304",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+975,84.000.***.***-***.110,Firma Sentosa Usaha Rajawali,PT Tbk,"Gg. Jakarta No. 360
+Prabumulih, DI Yogyakarta 56643",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+976,85.000.***.***-***.110,PT Lestari Gemilang,CV,"Gang Joyoboyo No. 36
+Prabumulih, Riau 78333",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+977,86.000.***.***-***.110,PT Garuda Prima,CV,"Gg. Gedebage Selatan No. 694
+Kota Administrasi Jakarta Pusat, AC 59471",Aktif,"{""sector"": ""Teknologi""}",2026-01-15 14:24:12.231498+00
+978,87.000.***.***-***.110,UD Sejahtera Sinar Nusantara,PT,"Jl. HOS. Cokroaminoto No. 88
+Tanjungbalai, KB 90474",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+979,88.000.***.***-***.110,Firma Elang Sinar Bersama,CV,"Gang Jend. Sudirman No. 497
+Pagaralam, Bali 76943",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+980,89.000.***.***-***.110,CV Abadi Berkah,PT Tbk,"Gang Stasiun Wonokromo No. 44
+Kota Administrasi Jakarta Selatan, SB 46938",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+981,90.000.***.***-***.110,PD Astra Berlian,Firma,"Jl. Suryakencana No. 9
+Pangkalpinang, PA 66834",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+982,91.000.***.***-***.110,PT Tbk Astra Prima,Firma,"Gg. Surapati No. 780
+Jambi, Jawa Timur 25167",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+983,92.000.***.***-***.110,Koperasi Sinar Utama Cendana,UD,"Jl. Jend. Sudirman No. 8
+Sungai Penuh, Kepulauan Bangka Belitung 59792",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+984,93.000.***.***-***.110,CV Terpadu Astra,PT Tbk,"Jl. Pelajar Pejuang No. 345
+Makassar, JI 08380",Non-Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+985,94.000.***.***-***.110,CV Mitra Indo,CV,"Jl. Antapani Lama No. 99
+Payakumbuh, NB 24745",Aktif,"{""sector"": ""Kesehatan""}",2026-01-15 14:24:12.231498+00
+986,95.000.***.***-***.110,PD Bersama Indo Gemilang,CV,"Gang Yos Sudarso No. 61
+Tangerang Selatan, PB 88385",Aktif,"{""sector"": ""Properti""}",2026-01-15 14:24:12.231498+00
+987,96.000.***.***-***.110,Firma Buana Prima,PT,"Gg. Cihampelas No. 00
+Pangkalpinang, ST 03816",Aktif,"{""sector"": ""Perdagangan""}",2026-01-15 14:24:12.231498+00
+988,97.000.***.***-***.110,PD Karya Elang,Firma,"Jl. Dipenogoro No. 0
+Medan, Sulawesi Selatan 24287",Aktif,"{""sector"": ""Telekomunikasi""}",2026-01-15 14:24:12.231498+00
+989,98.000.***.***-***.110,CV Lestari Makmur Sinar,PT Tbk,"Gang Joyoboyo No. 447
+Banjarmasin, Sulawesi Barat 55145",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+990,99.000.***.***-***.110,CV Buana Prima,Firma,"Gg. Rajawali Timur No. 15
+Singkawang, Sulawesi Tengah 98303",Aktif,"{""sector"": ""Konstruksi""}",2026-01-15 14:24:12.231498+00
+991,10.000.***.***-***.111,Firma Niaga Utama,UD,"Gang Peta No. 745
+Bandung, Kepulauan Riau 68809",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+992,11.000.***.***-***.111,Koperasi Buana Mandiri,PT Tbk,"Gang Otto Iskandardinata No. 357
+Tangerang, Aceh 73240",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+993,12.000.***.***-***.111,UD Terpadu Cipta Rajawali,Firma,"Jl. Jamika No. 92
+Pariaman, JA 50147",Aktif,"{""sector"": ""Transportasi""}",2026-01-15 14:24:12.231498+00
+994,13.000.***.***-***.111,PT Tbk Usaha Karya Gemilang,PT Tbk,"Jl. PHH. Mustofa No. 54
+Subulussalam, SN 76152",Aktif,"{""sector"": ""Pariwisata""}",2026-01-15 14:24:12.231498+00
+995,14.000.***.***-***.111,UD Mitra Utama Buana,CV,"Gang Rajawali Barat No. 2
+Bau-Bau, SR 84545",Aktif,"{""sector"": ""Energi""}",2026-01-15 14:24:12.231498+00
+996,15.000.***.***-***.111,Koperasi Usaha Merak Buana,CV,"Jl. Cihampelas No. 27
+Parepare, BA 29768",Aktif,"{""sector"": ""Pertambangan""}",2026-01-15 14:24:12.231498+00
+997,16.000.***.***-***.111,PD Jaya Bersama Garuda,CV,"Jl. W.R. Supratman No. 0
+Batam, Jawa Barat 91135",Aktif,"{""sector"": ""Pendidikan""}",2026-01-15 14:24:12.231498+00
+998,17.000.***.***-***.111,PD Mitra Prima,Firma,"Jl. Kendalsari No. 7
+Kendari, KS 48372",Aktif,"{""sector"": ""Jasa Keuangan""}",2026-01-15 14:24:12.231498+00
+999,18.000.***.***-***.111,Perum Mega Indo Niaga,CV,"Gg. Raya Setiabudhi No. 1
+Dumai, Nusa Tenggara Timur 77607",Non-Aktif,"{""sector"": ""Retail""}",2026-01-15 14:24:12.231498+00
+1000,19.000.***.***-***.111,CV Intan Mandiri Utama,Firma,"Gg. Ahmad Yani No. 837
+Sabang, Jawa Timur 93834",Aktif,"{""sector"": ""Agrikultur""}",2026-01-15 14:24:12.231498+00

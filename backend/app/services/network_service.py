@@ -8,7 +8,7 @@ from typing import Dict, Iterable, List, Optional, Set, Tuple
 from sqlalchemy import and_, or_
 from sqlalchemy.orm import Session
 
-from app.db.models import BeneficialOwner, EntityType, Relationship, Taxpayer
+from app.db.models import BeneficialOwner, EntityType, Relationship, Taxpayer, Officer, Address, Intermediary
 
 
 @dataclass(frozen=True)
@@ -151,44 +151,71 @@ def _fetch_relationships_for_frontier(
 
 
 def _build_nodes_payload(db: Session, layer_by_node: Dict[NodeKey, int]) -> List[dict]:
+    # Collect IDs by entity type
     taxpayer_ids = [node.entity_id for node in layer_by_node if node.entity_type == EntityType.TAXPAYER]
     bo_ids = [node.entity_id for node in layer_by_node if node.entity_type == EntityType.BENEFICIAL_OWNER]
+    officer_ids = [node.entity_id for node in layer_by_node if node.entity_type == EntityType.OFFICER]
+    address_ids = [node.entity_id for node in layer_by_node if node.entity_type == EntityType.ADDRESS]
+    intermediary_ids = [node.entity_id for node in layer_by_node if node.entity_type == EntityType.INTERMEDIARY]
 
-    taxpayers = (
-        db.query(Taxpayer)
-        .filter(Taxpayer.id.in_(taxpayer_ids))
-        .all()
-        if taxpayer_ids
-        else []
-    )
-    beneficial_owners = (
-        db.query(BeneficialOwner)
-        .filter(BeneficialOwner.id.in_(bo_ids))
-        .all()
-        if bo_ids
-        else []
-    )
+    # Fetch entities from database
+    taxpayers = db.query(Taxpayer).filter(Taxpayer.id.in_(taxpayer_ids)).all() if taxpayer_ids else []
+    beneficial_owners = db.query(BeneficialOwner).filter(BeneficialOwner.id.in_(bo_ids)).all() if bo_ids else []
+    officers = db.query(Officer).filter(Officer.id.in_(officer_ids)).all() if officer_ids else []
+    addresses = db.query(Address).filter(Address.id.in_(address_ids)).all() if address_ids else []
+    intermediaries = db.query(Intermediary).filter(Intermediary.id.in_(intermediary_ids)).all() if intermediary_ids else []
 
+    # Build lookup maps
     taxpayer_map = {tp.id: tp for tp in taxpayers}
     bo_map = {bo.id: bo for bo in beneficial_owners}
+    officer_map = {o.id: o for o in officers}
+    address_map = {a.id: a for a in addresses}
+    intermediary_map = {i.id: i for i in intermediaries}
 
     nodes_payload = []
     for node, layer in layer_by_node.items():
         node_id = _build_node_id(node.entity_type, node.entity_id)
+
         if node.entity_type == EntityType.TAXPAYER:
             tp = taxpayer_map.get(node.entity_id)
             name = tp.name if tp else f"Taxpayer {node.entity_id}"
             location = _format_location_from_address(tp.address if tp else None, "Indonesia")
             entity_subtype = tp.entity_type if tp else None
+            category = "Entity"
+
         elif node.entity_type == EntityType.BENEFICIAL_OWNER:
             bo = bo_map.get(node.entity_id)
             name = bo.name if bo else f"Beneficial Owner {node.entity_id}"
             location = _format_location_from_country(bo.nationality if bo else None)
             entity_subtype = None
+            category = "Officer"  # BOs are shown as Officer category in ICIJ-style
+
+        elif node.entity_type == EntityType.OFFICER:
+            officer = officer_map.get(node.entity_id)
+            name = officer.name if officer else f"Officer {node.entity_id}"
+            location = _format_location_from_country(officer.nationality if officer else None)
+            entity_subtype = officer.position if officer else None
+            category = "Officer"
+
+        elif node.entity_type == EntityType.ADDRESS:
+            addr = address_map.get(node.entity_id)
+            name = f"{addr.city}, {addr.province}" if addr else f"Address {node.entity_id}"
+            location = f"{addr.city}, {addr.province}, {addr.country}" if addr else "Indonesia"
+            entity_subtype = addr.address_type if addr else None
+            category = "Address"
+
+        elif node.entity_type == EntityType.INTERMEDIARY:
+            interm = intermediary_map.get(node.entity_id)
+            name = interm.name if interm else f"Intermediary {node.entity_id}"
+            location = _format_location_from_country(interm.country if interm else None)
+            entity_subtype = interm.intermediary_type if interm else None
+            category = "Intermediary"
+
         else:
             name = f"Entity {node.entity_id}"
             location = _format_location_from_country(None)
             entity_subtype = None
+            category = "Entity"
 
         nodes_payload.append({
             "id": node_id,
@@ -198,6 +225,7 @@ def _build_nodes_payload(db: Session, layer_by_node: Dict[NodeKey, int]) -> List
             "name": name,
             "location_label": location,
             "layer": layer,
+            "category": category,
         })
 
     return nodes_payload

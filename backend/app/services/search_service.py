@@ -222,7 +222,7 @@ class SearchService:
             total = 0  # Mixed mode doesn't have accurate total
 
         return {
-            "results": results,
+            "items": results,
             "total": total,
             "page": page,
             "page_size": page_size,
