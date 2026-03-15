@@ -1,15 +1,18 @@
 'use client';
 
+import { useState } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { useQuery } from '@tanstack/react-query';
 import { groupsApi, exportsApi } from '@/lib/api';
 import { formatCurrency, downloadCSV } from '@/lib/utils';
 import RiskBadge from '@/components/RiskBadge';
+import MainLayout from '@/components/MainLayout';
 
 export default function GroupDetailPage() {
   const params = useParams();
   const router = useRouter();
   const groupId = parseInt(params.id as string);
+  const [selectedMember, setSelectedMember] = useState<any | null>(null);
 
   const { data: group, isLoading } = useQuery({
     queryKey: ['group', groupId],
@@ -39,18 +42,18 @@ export default function GroupDetailPage() {
   if (!group) return <div>Grup tidak ditemukan</div>;
 
   return (
-    <div className="min-h-screen">
-      <header className="bg-white/70 backdrop-blur border-b border-white/60">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-          <button onClick={() => router.back()} className="btn-secondary mb-2">
+    <MainLayout title={group.name}>
+      <div className="space-y-6">
+        <div className="flex items-center gap-4">
+          <button onClick={() => router.back()} className="btn-secondary">
             ← Kembali
           </button>
-          <h1 className="text-2xl font-bold text-gray-900">{group.name}</h1>
-          <p className="text-sm text-gray-600">{group.sector || 'Tidak ada sektor'}</p>
+          <div>
+            <h1 className="text-2xl font-bold text-gray-900">{group.name}</h1>
+            <p className="text-sm text-gray-600">{group.sector || 'Tidak ada sektor'}</p>
+          </div>
         </div>
-      </header>
 
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           {/* Info Card */}
           <div className="card">
@@ -99,42 +102,20 @@ export default function GroupDetailPage() {
           </div>
         </div>
 
-        {/* Yearly Aggregates */}
-        <div className="card mt-6">
-          <h3 className="font-semibold text-lg mb-4">Agregat Tahunan</h3>
-          <div className="overflow-x-auto">
-            <table className="min-w-full divide-y divide-gray-200">
-              <thead className="bg-gray-50">
-                <tr>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Tahun</th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Total Omset</th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Afiliasi Domestik</th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Afiliasi LN</th>
-                </tr>
-              </thead>
-              <tbody className="bg-white divide-y divide-gray-200">
-                {group.aggregates?.yearly_aggregates?.map((year: any) => (
-                  <tr key={year.year}>
-                    <td className="px-6 py-4 whitespace-nowrap font-medium">{year.year}</td>
-                    <td className="px-6 py-4 whitespace-nowrap">{formatCurrency(year.total_turnover)}</td>
-                    <td className="px-6 py-4 whitespace-nowrap">{formatCurrency(year.affiliate_domestic)}</td>
-                    <td className="px-6 py-4 whitespace-nowrap">{formatCurrency(year.affiliate_foreign)}</td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        </div>
-
         {/* Members List */}
         <div className="card mt-6">
           <h3 className="font-semibold text-lg mb-4">Daftar Anggota ({group.member_count})</h3>
+          <p className="text-xs text-gray-500 mb-3">Klik anggota untuk melihat agregat tahunan</p>
           <div className="space-y-2">
             {group.members?.map((member: any) => (
               <div
                 key={member.id}
-                onClick={() => router.push(`/taxpayers/${member.id}`)}
-                className="p-4 border border-gray-200 rounded hover:bg-gray-50 cursor-pointer"
+                onClick={() => setSelectedMember(selectedMember?.id === member.id ? null : member)}
+                className={`p-4 border rounded cursor-pointer transition-colors ${
+                  selectedMember?.id === member.id
+                    ? 'border-indigo-400 bg-indigo-50'
+                    : 'border-gray-200 hover:bg-gray-50'
+                }`}
               >
                 <div className="flex items-center justify-between">
                   <div>
@@ -144,13 +125,61 @@ export default function GroupDetailPage() {
                   <div className="text-right">
                     <p className="text-xs text-gray-500">{member.role}</p>
                     <p className="text-xs text-gray-500">{member.status}</p>
+                    <button
+                      onClick={(e) => { e.stopPropagation(); router.push(`/taxpayers/${member.id}`); }}
+                      className="text-xs text-indigo-600 hover:underline mt-1"
+                    >
+                      Detail →
+                    </button>
                   </div>
                 </div>
               </div>
             ))}
           </div>
         </div>
-      </main>
-    </div>
+
+        {/* Agregat Tahunan — only shown when a member is selected */}
+        {selectedMember && (
+          <div className="card mt-6">
+            <h3 className="font-semibold text-lg mb-1">Agregat Tahunan — {selectedMember.name}</h3>
+            <p className="text-xs text-gray-500 mb-4">Data per tahun untuk anggota ini</p>
+            {selectedMember.yearly_aggregates?.length > 0 ? (
+              <div className="overflow-x-auto">
+                <table className="min-w-full divide-y divide-gray-200">
+                  <thead className="bg-gray-50">
+                    <tr>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Tahun</th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Total Omset</th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Afiliasi Domestik</th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Afiliasi LN</th>
+                    </tr>
+                  </thead>
+                  <tbody className="bg-white divide-y divide-gray-200">
+                    {selectedMember.yearly_aggregates.map((yr: any) => (
+                      <tr key={yr.year}>
+                        <td className="px-6 py-4 whitespace-nowrap font-medium">{yr.year}</td>
+                        <td className="px-6 py-4 whitespace-nowrap">{formatCurrency(yr.total_turnover)}</td>
+                        <td className="px-6 py-4 whitespace-nowrap">{formatCurrency(yr.affiliate_domestic)}</td>
+                        <td className="px-6 py-4 whitespace-nowrap">{formatCurrency(yr.affiliate_foreign)}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            ) : (
+              <p className="text-sm text-gray-500 py-4">Tidak ada data agregat tahunan tersedia. Lihat detail lengkap di halaman WP.</p>
+            )}
+            <div className="mt-4">
+              <button
+                onClick={() => router.push(`/taxpayers/${selectedMember.id}`)}
+                className="btn-primary text-sm"
+              >
+                Buka Detail WP →
+              </button>
+            </div>
+          </div>
+        )}
+        </div>
+    </MainLayout>
   );
 }

@@ -1,7 +1,7 @@
-from fastapi import APIRouter, Depends, HTTPException
+from fastapi import APIRouter, Depends, HTTPException, UploadFile, File, Form
 from sqlalchemy.orm import Session
 from pydantic import BaseModel
-from typing import Optional
+from typing import List, Optional
 from datetime import date
 
 from app.db.session import get_db, SessionLocal, engine
@@ -124,3 +124,109 @@ def derive_groups(
         raise HTTPException(status_code=400, detail=str(e))
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Derivation failed: {str(e)}")
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# ETL / Ingestion endpoints
+# ─────────────────────────────────────────────────────────────────────────────
+
+@router.post("/ingest/csv")
+async def ingest_csv_file(
+    dataset_key: str = Form(..., description="Dataset key from schema_mapping.yaml, e.g. 'taxpayers'"),
+    delimiter: str = Form(default=";", description="CSV delimiter character"),
+    encoding: str = Form(default="utf-8-sig"),
+    file: UploadFile = File(...),
+    db: Session = Depends(get_db),
+    current_user=Depends(get_current_active_admin),
+):
+    """
+    Upload a CSV file and ingest it according to the schema_mapping.yaml configuration.
+    Only Admin users can perform ingestion.
+    """
+    from app.services.ingestion_service import IngestionService
+
+    content = await file.read()
+    if len(content) > 50 * 1024 * 1024:  # 50 MB guard
+        raise HTTPException(status_code=413, detail="File too large (max 50 MB).")
+
+    service = IngestionService(db)
+    try:
+        version = service.ingest_csv(
+            content=content,
+            dataset_key=dataset_key,
+            filename=file.filename or "upload.csv",
+            ingested_by=current_user.username,
+            delimiter=delimiter,
+            encoding=encoding,
+        )
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Ingestion failed: {e}")
+
+    return {
+        "version_tag": version.version_tag,
+        "status": version.status,
+        "record_count": version.record_count,
+        "entity_count": version.entity_count,
+        "message": f"Ingested {version.record_count} records into '{dataset_key}'.",
+    }
+
+
+@router.get("/ingest/versions")
+def list_ingestion_versions(
+    limit: int = 50,
+    db: Session = Depends(get_db),
+    current_user=Depends(get_current_active_admin),
+):
+    """List recent ingestion/dataset version history."""
+    from app.services.ingestion_service import IngestionService
+
+    service = IngestionService(db)
+    versions = service.list_versions(limit=limit)
+    return [
+        {
+            "id": v.id,
+            "version_tag": v.version_tag,
+            "source_file": v.source_file,
+            "source_type": v.source_type,
+            "status": v.status,
+            "record_count": v.record_count,
+            "entity_count": v.entity_count,
+            "ingested_by": v.ingested_by,
+            "created_at": v.created_at.isoformat() if v.created_at else None,
+            "error_message": v.error_message,
+        }
+        for v in versions
+    ]
+
+
+@router.get("/ingest/schema")
+def get_ingestion_schema(
+    current_user=Depends(get_current_active_admin),
+):
+    """Return available dataset mappings from schema_mapping.yaml."""
+    from app.services.ingestion_service import IngestionService
+    from app.db.session import get_db as _gdb
+
+    db = next(_gdb())
+    try:
+        service = IngestionService(db)
+        return service.get_config_summary()
+    finally:
+        db.close()
+
+
+@router.post("/ingest/rebuild-search-index")
+def rebuild_search_index(
+    db: Session = Depends(get_db),
+    current_user=Depends(get_current_active_admin),
+):
+    """Rebuild the entity_search_index from all live ORM tables."""
+    from app.db.search_index import refresh_entity_search_index
+
+    try:
+        counts = refresh_entity_search_index(db)
+        return {"status": "ok", "indexed": counts}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))

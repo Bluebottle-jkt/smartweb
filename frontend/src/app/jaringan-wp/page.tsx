@@ -17,7 +17,7 @@ import ReactFlow, {
 import 'reactflow/dist/style.css';
 
 import MainLayout from '@/components/MainLayout';
-import { authApi, networkApi, searchApi } from '@/lib/api';
+import { authApi, entitiesApi, networkApi } from '@/lib/api';
 import { exportNetworkPng } from '@/lib/networkExport';
 
 // Types
@@ -269,6 +269,7 @@ function JaringanWPContent() {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<any[]>([]);
   const [showSearchDropdown, setShowSearchDropdown] = useState(false);
+  const [selectedEntityId, setSelectedEntityId] = useState<number | null>(null);
   const [year, setYear] = useState(Number(initialYear));
   const [depth, setDepth] = useState(2);
   const [maxNodes, setMaxNodes] = useState(300);
@@ -405,9 +406,10 @@ function JaringanWPContent() {
     return { newNodesCount, newEdgesCount };
   }, [updateFlowFromStore]);
 
-  // Handle search input with suggestions
+  // Handle search input with suggestions (uses /entities/suggest for rich results)
   const handleSearchInput = async (value: string) => {
     setSearchQuery(value);
+    setSelectedEntityId(null); // reset if user types manually
 
     if (value.length < 2) {
       setSearchResults([]);
@@ -416,13 +418,11 @@ function JaringanWPContent() {
     }
 
     try {
-      const response = await searchApi.suggest(value, 10);
-      const suggestions = response.data;
-
-      // Filter to only taxpayers
-      const taxpayers = suggestions.filter((item: any) => item.entity_type === 'TAXPAYER');
-      setSearchResults(taxpayers);
-      setShowSearchDropdown(taxpayers.length > 0);
+      const response = await entitiesApi.suggest(value, 10, ['TAXPAYER']);
+      // entitiesApi.suggest returns a direct array of EntitySuggestion
+      const suggestions: any[] = Array.isArray(response.data) ? response.data : [];
+      setSearchResults(suggestions);
+      setShowSearchDropdown(suggestions.length > 0);
     } catch (err) {
       console.error('Search suggestion error:', err);
       setSearchResults([]);
@@ -432,15 +432,17 @@ function JaringanWPContent() {
 
   // Select taxpayer from dropdown
   const handleSelectTaxpayer = (taxpayer: any) => {
-    setNpwp(taxpayer.npwp_masked || taxpayer.id.toString());
+    setNpwp(taxpayer.npwp_masked || taxpayer.name || '');
     setSearchQuery(taxpayer.name);
+    setSelectedEntityId(taxpayer.id || null);
     setShowSearchDropdown(false);
     setSearchResults([]);
   };
 
   // Initial search
   const handleSearch = async () => {
-    if (!npwp.trim() && !searchQuery.trim()) {
+    const queryStr = searchQuery.trim() || npwp.trim();
+    if (!queryStr) {
       setError('Masukkan NPWP atau nama perusahaan untuk mencari');
       return;
     }
@@ -451,28 +453,24 @@ function JaringanWPContent() {
     edgeStore.current.clear();
 
     try {
-      // First, search for taxpayer by NPWP or name
-      const query = searchQuery.trim() || npwp.replace(/[.-]/g, '');
-      const searchResponse = await searchApi.search({
-        q: query,
-        entity_type: 'TAXPAYER',
-        page: 1,
-        page_size: 1,
-      });
+      let entityId = selectedEntityId;
 
-      const results = searchResponse.data.items || searchResponse.data;
-      if (!results || results.length === 0) {
-        setError(`Tidak ditemukan wajib pajak dengan: ${query}`);
-        setIsLoading(false);
-        return;
+      // If no entity pre-selected (e.g. URL param or manual input), resolve via suggest
+      if (!entityId) {
+        const suggestResponse = await entitiesApi.suggest(queryStr, 1, ['TAXPAYER']);
+        const suggestions: any[] = Array.isArray(suggestResponse.data) ? suggestResponse.data : [];
+        if (!suggestions.length) {
+          setError(`Tidak ditemukan wajib pajak dengan: ${queryStr}`);
+          setIsLoading(false);
+          return;
+        }
+        entityId = suggestions[0].id;
       }
 
-      const taxpayer = results[0];
-
-      // Load network graph for the found taxpayer
+      // Load network graph for the resolved taxpayer
       const graphResponse = await networkApi.graph({
         root_type: 'TAXPAYER',
-        root_id: taxpayer.id,
+        root_id: entityId!,
         year,
         depth,
         max_nodes: maxNodes,
@@ -647,12 +645,20 @@ function JaringanWPContent() {
                       className="w-full px-4 py-3 text-left hover:bg-indigo-50 border-b border-gray-100 last:border-b-0 transition-colors"
                     >
                       <div className="font-medium text-gray-900 text-sm">{result.name}</div>
-                      {result.npwp_masked && (
-                        <div className="text-xs text-gray-500 font-mono mt-1">{result.npwp_masked}</div>
-                      )}
-                      {result.address && (
-                        <div className="text-xs text-gray-400 mt-1 truncate">{result.address}</div>
-                      )}
+                      <div className="flex items-center gap-3 mt-0.5 flex-wrap">
+                        {result.npwp_masked && (
+                          <span className="text-xs text-gray-500 font-mono">{result.npwp_masked}</span>
+                        )}
+                        {result.entity_subtype && (
+                          <span className="text-xs text-gray-400">{result.entity_subtype}</span>
+                        )}
+                        {result.city && (
+                          <span className="text-xs text-gray-400">📍 {result.city}</span>
+                        )}
+                        {result.kpp_name && (
+                          <span className="text-xs text-gray-400">KPP {result.kpp_name}</span>
+                        )}
+                      </div>
                     </button>
                   ))}
                 </div>

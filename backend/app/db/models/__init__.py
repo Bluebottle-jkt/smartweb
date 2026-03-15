@@ -17,6 +17,16 @@ from app.db.models.recent_view import UserRecentView
 from app.db.models.relationship import Relationship, EntityType, RelationshipType
 from app.db.models.group_definition import GroupDefinitionRuleSet
 from app.db.models.derived_group import DerivedGroup, DerivedGroupMembership
+from app.db.models.geography import Province, City, Kanwil, KPP
+from app.db.models.search_index import EntitySearchIndex, DatasetVersion
+from app.db.models.graph_intelligence import (
+    GraphSyncState,
+    GraphDetectionResult,
+    GraphRiskSignal,
+    EntitySubstanceProfile,
+    DetectionType,
+    RiskLevel as GraphRiskLevel,
+)
 
 __all__ = [
     "Base",
@@ -46,4 +56,16 @@ __all__ = [
     "GroupDefinitionRuleSet",
     "DerivedGroup",
     "DerivedGroupMembership",
+    "GraphSyncState",
+    "GraphDetectionResult",
+    "GraphRiskSignal",
+    "EntitySubstanceProfile",
+    "DetectionType",
+    "GraphRiskLevel",
+    "Province",
+    "City",
+    "Kanwil",
+    "KPP",
+    "EntitySearchIndex",
+    "DatasetVersion",
 ]

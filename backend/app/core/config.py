@@ -29,6 +29,12 @@ class Settings(BaseSettings):
     API_V1_PREFIX: str = "/api/v1"
     PROJECT_NAME: str = "SmartWeb - Wajib Pajak Grup"
 
+    # Neo4j configuration
+    NEO4J_URI: str = "bolt://localhost:7687"
+    NEO4J_USER: str = "neo4j"
+    NEO4J_PASSWORD: str = "smartweb_neo4j_pass"
+    NEO4J_ENABLED: bool = False  # Feature flag – safe default
+
     class Config:
         case_sensitive = True
         env_file = ".env"

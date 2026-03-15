@@ -20,6 +20,8 @@ passlib = {extras = ["bcrypt"], version = "^1.7.4"}
 bcrypt = "3.2.2"
 faker = "^22.6.0"
 pandas = "^2.1.4"
+neo4j = "^5.15.0"
+pyyaml = "^6.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.4.4"

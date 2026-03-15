@@ -1,0 +1,143 @@
+# SmartWeb – Dataset Schema Mapping Configuration
+# ─────────────────────────────────────────────────────────────────────────────
+# This file describes how raw data files (CSV / Parquet / DB table) map to
+# the SmartWeb internal schema.  The ingestion pipeline reads this config at
+# runtime, so you can onboard a new dataset without changing Python code.
+#
+# Supported source types: csv, parquet, postgres_table
+# ─────────────────────────────────────────────────────────────────────────────
+
+version: "1.0"
+
+# ── Default dataset ──────────────────────────────────────────────────────────
+datasets:
+
+  taxpayers:
+    description: "Primary taxpayer (Wajib Pajak) registry"
+    source_type: postgres_table          # csv | parquet | postgres_table
+    source_table: taxpayers              # used for postgres_table source
+    target_model: Taxpayer
+    field_map:
+      # source_column: target_model_field
+      id:          id
+      name:        name
+      npwp_masked: npwp_masked
+      entity_type: entity_type           # PT | CV | UD | Firma | Orang Pribadi
+      status:      status                # ACTIVE | INACTIVE
+      address:     address
+      kpp_code:    kpp_code
+      kanwil_code: kanwil_code
+    unique_key: npwp_masked
+    indexes:
+      - name
+      - npwp_masked
+      - entity_type
+
+  beneficial_owners:
+    description: "Beneficial owner (BO) personal data"
+    source_type: postgres_table
+    source_table: beneficial_owner
+    target_model: BeneficialOwner
+    field_map:
+      id:          id
+      name:        name
+      nationality: nationality
+      id_number:   id_number
+    unique_key: id_number
+    indexes:
+      - name
+      - nationality
+
+  groups:
+    description: "Taxpayer group (Grup Wajib Pajak)"
+    source_type: postgres_table
+    source_table: group
+    target_model: Group
+    field_map:
+      id:   id
+      name: name
+      code: code
+    unique_key: code
+
+  officers:
+    description: "Corporate officers / directors / commissioners"
+    source_type: postgres_table
+    source_table: officer
+    target_model: Officer
+    field_map:
+      id:         id
+      name:       name
+      position:   position
+      taxpayer_id: taxpayer_id
+    unique_key: ~   # no natural key – use composite (name, taxpayer_id)
+
+  relationships:
+    description: "Ownership and control relationships"
+    source_type: postgres_table
+    source_table: relationship
+    target_model: Relationship
+    field_map:
+      id:                    id
+      source_entity_type:    source_entity_type
+      source_entity_id:      source_entity_id
+      target_entity_type:    target_entity_type
+      target_entity_id:      target_entity_id
+      relationship_type:     relationship_type  # OWNERSHIP | CONTROL | FAMILY | AFFILIATION_OTHER
+      ownership_percentage:  ownership_percentage
+      year:                  year
+      valid_from:            valid_from
+      valid_to:              valid_to
+    unique_key: ~
+
+# ── CSV example (uncomment and adapt for new dataset ingestion) ───────────────
+#  wajib_pajak_2026:
+#    description: "Annual WP data refresh 2026"
+#    source_type: csv
+#    source_file: /data/uploads/wp_2026.csv
+#    target_model: Taxpayer
+#    delimiter: ";"
+#    encoding: utf-8-sig
+#    field_map:
+#      NPWP:       npwp_masked
+#      NAMA_WP:    name
+#      JENIS:      entity_type
+#      STATUS:     status
+#      ALAMAT:     address
+#      KD_KPP:     kpp_code
+#    unique_key: NPWP
+#    transformations:
+#      status:
+#        "1": ACTIVE
+#        "0": INACTIVE
+
+# ── Relationship types ────────────────────────────────────────────────────────
+relationship_types:
+  OWNERSHIP:         "Kepemilikan saham"
+  CONTROL:           "Pengendalian"
+  FAMILY:            "Hubungan keluarga"
+  AFFILIATION_OTHER: "Afiliasi lainnya"
+
+# ── Entity types ──────────────────────────────────────────────────────────────
+entity_types:
+  PT:              "Perseroan Terbatas"
+  CV:              "Commanditaire Vennootschap"
+  UD:              "Usaha Dagang"
+  Firma:           "Firma"
+  Orang_Pribadi:   "Wajib Pajak Orang Pribadi"
+  Koperasi:        "Koperasi"
+  Yayasan:         "Yayasan"
+  BUT:             "Bentuk Usaha Tetap"
+
+# ── Graph performance guardrails ──────────────────────────────────────────────
+graph:
+  max_depth:     5
+  max_nodes:     500
+  max_edges:     1500
+  default_depth: 2
+  default_max_nodes: 300
+
+# ── Rate limiting ─────────────────────────────────────────────────────────────
+rate_limits:
+  default_per_minute: 50
+  graph_search_per_minute: 20
+  detector_per_minute: 10

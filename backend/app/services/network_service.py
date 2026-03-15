@@ -176,11 +176,14 @@ def _build_nodes_payload(db: Session, layer_by_node: Dict[NodeKey, int]) -> List
     for node, layer in layer_by_node.items():
         node_id = _build_node_id(node.entity_type, node.entity_id)
 
+        npwp: Optional[str] = None
+
         if node.entity_type == EntityType.TAXPAYER:
             tp = taxpayer_map.get(node.entity_id)
             name = tp.name if tp else f"Taxpayer {node.entity_id}"
             location = _format_location_from_address(tp.address if tp else None, "Indonesia")
             entity_subtype = tp.entity_type if tp else None
+            npwp = tp.npwp_masked if tp else None
             category = "Entity"
 
         elif node.entity_type == EntityType.BENEFICIAL_OWNER:
@@ -223,6 +226,7 @@ def _build_nodes_payload(db: Session, layer_by_node: Dict[NodeKey, int]) -> List
             "entity_type": node.entity_type.value,
             "entity_subtype": entity_subtype,
             "name": name,
+            "npwp": npwp,
             "location_label": location,
             "layer": layer,
             "category": category,
@@ -256,6 +260,12 @@ def _build_edges_payload(
             "relationship_type": rel.relationship_type.value,
             "label": label,
             "layer": layer,
+            "pct": float(rel.pct) if rel.pct is not None else None,
+            "confidence": float(rel.confidence) if rel.confidence is not None else None,
+            "notes": rel.notes,
+            "source_ref": rel.source,
+            "effective_from": rel.effective_from.isoformat() if rel.effective_from else None,
+            "effective_to": rel.effective_to.isoformat() if rel.effective_to else None,
         })
 
     return edges_payload
